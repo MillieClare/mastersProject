@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "natural": "^5.1.13",
     "pdfjs-dist": "^2.12.313",
     "stopwords-en": "^0.3.0"
   }

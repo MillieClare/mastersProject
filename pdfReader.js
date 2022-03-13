@@ -2,7 +2,8 @@ const pdfjsLib = require("pdfjs-dist/legacy/build/pdf.js");
 const fs = require("fs");
 const stopwords = require("stopwords-en");
 
-const fileToRead = "./ABN_AMRO_2015_External_review_report.pdf";
+// list files in a directory
+const filesToRead = fs.readdirSync("./corpus");
 
 function pdfToText(url, separator = " ") {
   let pdf = pdfjsLib.getDocument(url);
@@ -50,19 +51,29 @@ function removeStopwords(text) {
   return res.join(" ");
 }
 
-pdfToText(fileToRead).then(
-  function (pdfTexts) {
-    const txtFileName = fileToRead.split(".")[1];
-    pdfTexts = pdfTexts.toString();
-    pdfTexts = removeStopwords(pdfTexts);
-    fs.writeFile(`./${txtFileName}.txt`, pdfTexts.toString(), (err) => {
-      if (err) {
-        console.error(err);
-        return;
+const updateTextFiles = (listOfFiles) => {
+  listOfFiles.forEach((file) => {
+    pdfToText(`./corpus/${file}`).then(
+      function (pdfTexts) {
+        const txtFileName = file.split(".")[0];
+        pdfTexts = pdfTexts.toString();
+        pdfTexts = removeStopwords(pdfTexts);
+        fs.writeFile(
+          `./fileOutputs/${txtFileName}.txt`,
+          pdfTexts.toString(),
+          (err) => {
+            if (err) {
+              console.error(err);
+              return;
+            }
+          }
+        );
+      },
+      function (reason) {
+        console.error(reason);
       }
-    });
-  },
-  function (reason) {
-    console.error(reason);
-  }
-);
+    );
+  });
+};
+
+updateTextFiles(filesToRead);
