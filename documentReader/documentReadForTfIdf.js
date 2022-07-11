@@ -18,7 +18,7 @@ const loadDocuments = (listOfFilesToRead, tfidfObject) => {
 };
 
 const runTfIdf = (tfidfObject) => {
-    tfidfObject.tfidfs("green", function(i, measure) {
+    tfidfObject.tfidfs("energy", function(i, measure) {
         console.log("document #" + i + " has " + measure);
     });
 };

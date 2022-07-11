@@ -1,7 +1,11 @@
 {
   "dependencies": {
+    "express": "^4.18.1",
     "natural": "^5.2.2",
     "pdfjs-dist": "^2.12.313",
     "stopwords-en": "^0.3.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.19.0"
   }
 }
