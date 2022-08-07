@@ -1,11 +1,15 @@
 {
-  "dependencies": {
-    "express": "^4.18.1",
-    "natural": "^5.2.2",
-    "pdfjs-dist": "^2.12.313",
-    "stopwords-en": "^0.3.0"
-  },
-  "devDependencies": {
-    "eslint": "^8.19.0"
-  }
+    "dependencies": {
+        "express": "^4.18.1",
+        "http": "0.0.1-security",
+        "https": "^1.0.0",
+        "mongoose": "^6.5.0",
+        "natural": "^5.2.2",
+        "pdfjs-dist": "^2.12.313",
+        "stopwords-en": "^0.3.0",
+        "xlsx": "^0.18.5"
+    },
+    "devDependencies": {
+        "eslint": "^8.19.0"
+    }
 }

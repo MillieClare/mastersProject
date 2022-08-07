@@ -4,12 +4,12 @@ const TfIdf = natural.TfIdf;
 const tfidf = new TfIdf();
 
 // list all files in directory
-const filesToRead = fs.readdirSync("./fileOutputs");
+const filesToRead = fs.readdirSync("../fileOutputs");
 
 const loadDocuments = (listOfFilesToRead, tfidfObject) => {
     listOfFilesToRead.forEach((file) => {
         try {
-            const data = fs.readFileSync(`./fileOutputs/${file}`, "utf8");
+            const data = fs.readFileSync(`../fileOutputs/${file}`, "utf8");
             tfidfObject.addDocument(data);
         } catch (err) {
             console.error(err);
@@ -18,7 +18,7 @@ const loadDocuments = (listOfFilesToRead, tfidfObject) => {
 };
 
 const runTfIdf = (tfidfObject) => {
-    tfidfObject.tfidfs("energy", function(i, measure) {
+    tfidfObject.tfidfs("climate", function(i, measure) {
         console.log("document #" + i + " has " + measure);
     });
 };
