@@ -7,18 +7,21 @@ const worksheet = XLSX.readFile(
 
 firstSheet = worksheet.Sheets["Green Bonds Issuers"];
 
+XLSX.utils.sheet_add_aoa(firstSheet, [
+    ["Green_Bond_Issuer"]
+], { origin: "A2" });
 XLSX.utils.sheet_add_aoa(
     firstSheet, [
         ["Market Information Template Hyperlink"]
     ], { origin: "H2" }
 );
 XLSX.utils.sheet_add_aoa(firstSheet, [
-    ["External Review Form Hyperlink"]
+    ["External_Review_Report_Hyperlink"]
 ], {
     origin: "I2",
 });
 XLSX.utils.sheet_add_aoa(firstSheet, [
-    ["External Review Report Hyperlink"]
+    ["External_Review_Report_Hyperlink"]
 ], {
     origin: "J2",
 });
