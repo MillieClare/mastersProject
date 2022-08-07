@@ -10,11 +10,11 @@ var usersRouter = require("./routes/users");
 var app = express();
 
 //Set up mongoose connection
-var mongoose = require("mongoose");
-var mongoDB =
+const mongoose = require("mongoose");
+const mongoDB =
     "mongodb+srv://millieclare1:Password1@cluster0.jkgagxq.mongodb.net/?retryWrites=true&w=majority";
 mongoose.connect(mongoDB, { useNewUrlParser: true, useUnifiedTopology: true });
-var db = mongoose.connection;
+const db = mongoose.connection;
 db.on("error", console.error.bind(console, "MongoDB connection error:"));
 
 console.log("mongo running");
