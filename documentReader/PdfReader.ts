@@ -60,7 +60,7 @@ const PdfReader = () => {
     }
   };
 
-  const pdfToText = (url, separator = " ") => {
+  const pdfToText = (url: string, separator = " ") => {
     let pdf = pdfjsLib.getDocument(url);
     return pdf.promise.then(function (pdf) {
       // get all pages text
