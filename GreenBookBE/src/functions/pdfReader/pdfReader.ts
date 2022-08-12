@@ -5,6 +5,9 @@ const https = require("https");
 const stopwords = require("stopwords-en");
 const natural = require("natural");
 
+const filesToRead = fs.readdirSync("../../assets/corpus");
+const pdfsAsJson = require("../excel_pdfs/ICMA-Sustainable-Bonds-Database-110322.json");
+
 const getPdfs = (pdfs: []) => {
   pdfs.forEach((pdf: any) => {
     if (
@@ -20,6 +23,8 @@ const getPdfs = (pdfs: []) => {
     }
   });
 };
+
+getPdfs(pdfsAsJson);
 
 const downloadPdfs = (fileUrl: string, fileName: string) => {
   fileName = fileName.replace(/[^a-zA-Z0-9-().]/g, "");

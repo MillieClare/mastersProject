@@ -4,7 +4,8 @@ const path = require("path");
 import fs from "fs";
 
 const filesToRead = fs.readdirSync(
-  path.resolve(__dirname, "../../assets/files/output/")
+  // path.resolve(__dirname, "../../assets/files/output/")
+  path.resolve(__dirname, "../../assets/fileOutputs")
 );
 
 const countWords = (fileToCount: any) => {

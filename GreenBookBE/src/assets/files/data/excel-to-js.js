@@ -58,7 +58,7 @@ for (cell in firstSheet) {
 const jsa = XLSX.utils.sheet_to_json(firstSheet, { range: 1 });
 
 fs.writeFile(
-    `./ICMA-Sustainable-Bonds-Database-110322.json`,
+    `../json/ICMA-Sustainable-Bonds-Database-110322.json`,
     JSON.stringify(jsa),
     (err) => {
         if (err) {
