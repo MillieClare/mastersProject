@@ -55,4 +55,14 @@ const StartServer = () => {
 
   /** Healthcheck - TODO */
   router.get('/ping', (req, res, next) => res.status(200).json({ message: 'pong' }));
+
+  /** Error handling */
+  router.use((req, res, next) => {
+    const error = new Error('not found');
+    Logging.error(error);
+
+    return res.status(404).json({ message: error.message });
+  });
+
+  http.createServer(router).listen(config.server.port, () => Logging.info(`Server is running on port ${config.server.port}.`));
 };
