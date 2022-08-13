@@ -5,7 +5,8 @@ const https = require("https");
 const stopwords = require("stopwords-en");
 const natural = require("natural");
 
-const filesToRead = fs.readdirSync("../../assets/corpus");
+// const filesToRead = fs.readdirSync("../../assets/corpus");
+const filesToRead = fs.readdirSync("../../assets/files/corpus");
 const pdfsAsJson = require("../excel_pdfs/ICMA-Sustainable-Bonds-Database-110322.json");
 
 const getPdfs = (pdfs: []) => {
