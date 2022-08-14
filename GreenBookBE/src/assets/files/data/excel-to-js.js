@@ -2,7 +2,7 @@ const XLSX = require('xlsx');
 const fs = require('fs');
 
 // const worksheet = XLSX.readFile('./ICMA-Sustainable-Bonds-Database-110322.xlsx');
-const worksheet = XLSX.readFile('../json/ICMA-Sustainable-Bonds-Database-110322.json');
+const worksheet = XLSX.readFile('./ICMA-Sustainable-Bonds-Database-110322.xlsx');
 
 firstSheet = worksheet.Sheets['Green Bonds Issuers'];
 

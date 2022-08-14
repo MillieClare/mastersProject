@@ -4,8 +4,8 @@
     "description": "",
     "main": "src/server.ts",
     "scripts": {
-        "build": "rm -rf build/ && tsc",
-        "test": "jest --runTestsByPath --config ./jest.config.js",
+        "build": "rmdir /s /q build", // "rm -rf build/ && tsc",
+        "test": "jest --config ./jest.config.js",
         "start": "node build/server.js"
     },
     "keywords": [],
@@ -31,6 +31,7 @@
         "pdfjs-dist": "^2.15.349",
         "prettier": "^2.7.1",
         "stopwords-en": "^0.3.0",
-        "ts-node": "^10.9.1"
+        "ts-node": "^10.9.1",
+        "xlsx": "^0.18.5"
     }
 }

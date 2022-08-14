@@ -1,50 +1,37 @@
 // const pdfToText = require("./../pdfReader/pdfReader");
-const pdfsAsJson = require("../../assets/files/json/ICMA-Sustainable-Bonds-Database-110322.json");
-const path = require("path");
-import fs from "fs";
+const pdfsAsJson = require('../../assets/files/json/ICMA-Sustainable-Bonds-Database-110322.json');
+const path = require('path');
+import fs from 'fs';
 
-const filesToRead = fs.readdirSync(
-  path.resolve(__dirname, "../../assets/files/fileOutputs")
-);
+const filesToRead = fs.readdirSync(path.resolve(__dirname, '../../assets/files/fileOutputs'));
 
-const countWords = (fileToCount: any) => {
-  console.log(fileToCount);
-  pdfToText(`../corpus/${fileToCount}`).then(function (pdfTexts: any) {
-    (fileToCount = fileToCount.toString()), fileToCount.split(" ").length;
-  });
-  return fileToCount;
-};
+/** TODO: Write interface for original JSON file */
+
+// const countWords = (fileToCount: any) => {
+//   console.log(fileToCount);
+//   pdfToText(`../corpus/${fileToCount}`).then(function (pdfTexts: any) {
+//     (fileToCount = fileToCount.toString()), fileToCount.split(' ').length;
+//   });
+//   return fileToCount;
+// };
 
 export const gatherDataBaseData = (companies: Record<string, any>) => {
-  companies.forEach((element: any) => {
-    console.log("-------------------------", element);
-    const companyTitle = element.Green_Bond_Issuer;
-    const companyCountry = element.Jurisdiction;
-    const companySector = element["Issuer Category/Sector"];
-    const reviewCompany = element["External Review Report"];
-    // let wordCount;
-    // filesToRead.forEach((fileToMatch: any) => {
-    //   fileToMatch = fileToMatch.split(".");
-    //   if (fileToMatch[0] === element.Green_Bond_Issuer) {
-    //     wordCount = countWords(fileToMatch[0]);
-    //   }
-    // });
-    return "test";
-    console.log(
-      "company title ",
-      companyTitle,
-      "country",
-      companyCountry,
-      "sector ",
-      companySector,
-      "review ",
-      reviewCompany,
-      "word count "
-      // wordCount
-    );
-    console.log("--------------------", typeof companyTitle);
-    // return [companyTitle, companyCountry, companySector, reviewCompany];
+  const dataForMongo = companies.map((element: any) => {
+    let wordCount;
+    filesToRead.forEach((fileToMatch: any) => {
+      const splitFileToMatch = fileToMatch.split('.');
+      if (splitFileToMatch[0] === element.Green_Bond_Issuer) {
+        wordCount = fileToMatch.split(' ').length;
+      }
+    });
+    return {
+      companyName: element.Green_Bond_Issuer,
+      country: element.Jurisdiction,
+      sector: element['Issuer Category/Sector'],
+      reviewer: element['External Review Report']
+    };
   });
+  return dataForMongo;
 };
 
 const dataCollection = () => {
