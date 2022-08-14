@@ -29,7 +29,7 @@ const StartServer = () => {
 
     res.on('finish', () => {
       /** Log response add status to see what happened to the request*/
-      Logging.info(`Incoming -> Method: [${req.method}] - Url: [${req.url}] - IP: [${req.socket.remoteAddress}] - Status: [${res.status}]`);
+      Logging.info(`Incoming -> Method: [${req.method}] - Url: [${req.url}] - IP: [${req.socket.remoteAddress}] - Status: [${res.statusCode}]`);
     });
 
     next(); // allows us to pass through this middlewear instead of ending the request here
@@ -52,10 +52,10 @@ const StartServer = () => {
     next();
   });
 
-  /** Routes - TODO */
+  /** Routes */
   router.use('/companies', companyRoutes);
 
-  /** Healthcheck - TODO */
+  /** Healthcheck */
   router.get('/ping', (req, res, next) => res.status(200).json({ message: 'pong' }));
 
   /** Error handling */
