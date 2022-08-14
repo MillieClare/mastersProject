@@ -4,9 +4,10 @@
     "description": "",
     "main": "src/server.ts",
     "scripts": {
-        "build": "rmdir /s /q build", // "rm -rf build/ && tsc",
+        "build": "rmdir /s /q build && tsc && xcopy src\\assets build\\assets\\ /E/H ",
         "test": "jest --config ./jest.config.js",
-        "start": "node build/server.js"
+        "start": "node build/server.js",
+        "himillie": "echo Hi Millie!"
     },
     "keywords": [],
     "author": "",
