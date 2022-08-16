@@ -4,15 +4,11 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
 };
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.gatherDataBaseData = void 0;
-// const pdfToText = require("./../pdfReader/pdfReader");
-// const path = require('path');
 const fs_1 = __importDefault(require("fs"));
 const path_1 = __importDefault(require("path"));
-// const fs = require('fs');
 const ICMA_Sustainable_Bonds_Database_110322_json_1 = __importDefault(require("../../assets/files/json/ICMA-Sustainable-Bonds-Database-110322.json"));
 const filesToRead = fs_1.default.readdirSync(path_1.default.resolve(__dirname, '../../assets/files/fileOutputs'));
-// const mockData = require('./__tests__/mockData.json');
-// import mockData from './__tests__/mockData.json';
+var XMLHttpRequest = require('xmlhttprequest').XMLHttpRequest;
 /** TODO: Write interface for original JSON file */
 // const countWords = (fileToCount: any) => {
 //   console.log(fileToCount);
@@ -55,4 +51,11 @@ const createJsonForMongo = () => {
         }
     });
 };
-createJsonForMongo();
+//createJsonForMongo();
+const postDataToMongo = () => {
+    var xhr = new XMLHttpRequest();
+    xhr.open('POST', 'http://localhost:2107/companies/', true);
+    xhr.setRequestHeader('Content-Type', 'application/json');
+    xhr.send(JSON.stringify({ companyName: 'ABANCA Corporación Bancaria, S. A.', country: 'Spain', sector: 'Financial Institution', reviewer: 'SUSTAINALYTICS' }));
+};
+postDataToMongo();
