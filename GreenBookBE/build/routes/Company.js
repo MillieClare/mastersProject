@@ -11,4 +11,5 @@ router.get('/:companyId', Company_1.default.readCompany);
 router.get('/', Company_1.default.readAll);
 router.patch('/:companyId', (0, ValidateSchema_1.ValidateSchema)(ValidateSchema_1.Schemas.company.update), Company_1.default.updateCompany);
 router.delete('/:companyId', Company_1.default.deleteCompany);
+router.delete('/', Company_1.default.deleteAllCompanies);
 module.exports = router;

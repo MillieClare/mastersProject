@@ -8,7 +8,6 @@ const fs_1 = __importDefault(require("fs"));
 const path_1 = __importDefault(require("path"));
 const ICMA_Sustainable_Bonds_Database_110322_json_1 = __importDefault(require("../../assets/files/json/ICMA-Sustainable-Bonds-Database-110322.json"));
 const filesToRead = fs_1.default.readdirSync(path_1.default.resolve(__dirname, '../../assets/files/fileOutputs'));
-var XMLHttpRequest = require('xmlhttprequest').XMLHttpRequest;
 /** TODO: Write interface for original JSON file */
 // const countWords = (fileToCount: any) => {
 //   console.log(fileToCount);
@@ -35,7 +34,8 @@ const gatherDataBaseData = (companies) => {
             companyName: element.Green_Bond_Issuer,
             country: element.Jurisdiction,
             sector: element['Issuer Category/Sector'],
-            reviewer: element['External Review Report']
+            reviewer: element['External Review Report'],
+            reviewLink: element['External_Review_Report_Hyperlink_1'] || element['Market Information Template Hyperlink']
             // wordCount: wordCount
         };
     });
@@ -51,11 +51,4 @@ const createJsonForMongo = () => {
         }
     });
 };
-//createJsonForMongo();
-const postDataToMongo = () => {
-    var xhr = new XMLHttpRequest();
-    xhr.open('POST', 'http://localhost:2107/companies/', true);
-    xhr.setRequestHeader('Content-Type', 'application/json');
-    xhr.send(JSON.stringify({ companyName: 'ABANCA Corporación Bancaria, S. A.', country: 'Spain', sector: 'Financial Institution', reviewer: 'SUSTAINALYTICS' }));
-};
-postDataToMongo();
+createJsonForMongo();

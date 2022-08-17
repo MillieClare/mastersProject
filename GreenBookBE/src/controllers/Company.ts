@@ -62,4 +62,10 @@ const deleteCompany = (req: Request, res: Response, next: NextFunction) => {
     .catch((error) => res.status(500).json({ error }));
 };
 
-export default { createCompany, readCompany, readAll, updateCompany, deleteCompany };
+const deleteAllCompanies = (req: Request, res: Response, next: NextFunction) => {
+  return Company.deleteMany({})
+    .then((companies) => res.status(200).json({ companies }))
+    .catch((error) => res.status(500).json({ error }));
+};
+
+export default { createCompany, readCompany, readAll, updateCompany, deleteCompany, deleteAllCompanies };

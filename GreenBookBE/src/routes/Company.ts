@@ -9,5 +9,6 @@ router.get('/:companyId', controller.readCompany);
 router.get('/', controller.readAll);
 router.patch('/:companyId', ValidateSchema(Schemas.company.update), controller.updateCompany);
 router.delete('/:companyId', controller.deleteCompany);
+router.delete('/', controller.deleteAllCompanies);
 
 export = router;
