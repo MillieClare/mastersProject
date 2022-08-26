@@ -6,7 +6,7 @@ Object.defineProperty(exports, "__esModule", { value: true });
 const mongoose_1 = __importDefault(require("mongoose"));
 const Company_1 = __importDefault(require("../models/Company"));
 const createCompany = (req, res, next) => {
-    const { companyName, country, sector, reviewer, reviewLink, wordCount } = req.body;
+    const { companyName, country, sector, reviewer, reviewLink, marketInformationDate, marketInformationLink } = req.body;
     const company = new Company_1.default({
         _id: new mongoose_1.default.Types.ObjectId(),
         companyName,
@@ -14,7 +14,8 @@ const createCompany = (req, res, next) => {
         sector,
         reviewer,
         reviewLink,
-        wordCount
+        marketInformationDate,
+        marketInformationLink
     });
     return company
         .save()

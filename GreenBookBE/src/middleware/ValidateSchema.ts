@@ -25,7 +25,8 @@ export const Schemas = {
       sector: Joi.string().required(),
       reviewer: Joi.string().required(),
       reviewLink: Joi.string(),
-      wordCount: Joi.number()
+      marketInformationDate: Joi.string(),
+      marketInformationLink: Joi.string()
     }),
     update: Joi.object<ICompany>({
       companyName: Joi.string().required(),
@@ -33,7 +34,8 @@ export const Schemas = {
       sector: Joi.string().required(),
       reviewer: Joi.string().required(),
       reviewLink: Joi.string(),
-      wordCount: Joi.number()
+      marketInformationDate: Joi.string(),
+      marketInformationLink: Joi.string()
     })
   }
 };

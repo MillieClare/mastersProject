@@ -1,4 +1,5 @@
 import mongoose, { Document, Schema } from 'mongoose';
+import { StringLiteral } from 'typescript';
 
 export interface ICompany {
   companyName: string;
@@ -6,7 +7,8 @@ export interface ICompany {
   sector: string;
   reviewer: string;
   reviewLink: string;
-  wordCount: number;
+  marketInformationDate: string;
+  marketInformationLink: string;
 }
 
 export interface ICompanyModel extends ICompany, Document {}
@@ -18,7 +20,8 @@ const CompanySchema: Schema = new Schema(
     sector: { type: String, required: true },
     reviewer: { type: String, required: true },
     reviewLink: { type: String, required: false },
-    wordCount: { type: Number, required: false }
+    marketInformationDate: { type: String, required: false },
+    marketInformationLink: { type: String, required: false }
   },
   {
     versionKey: false // don't need to return the version key variable provided by mongo

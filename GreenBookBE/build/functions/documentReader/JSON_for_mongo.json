@@ -3,7 +3,9 @@
         "country": "Spain",
         "sector": "Financial Institution",
         "reviewer": "SUSTAINALYTICS",
-        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/Abanca_External%20Review%20Report.pdf"
+        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/Abanca_External%20Review%20Report.pdf",
+        "marketInformationDate": "September 2021",
+        "marketInformationLink": "https://www.icmagroup.org/Emails/icma-vcards/Abanca%20-%20Market%20Information%20Template_Green%20Bonds.pdf"
     },
     {
         "companyName": "ABN AMRO (2015)",
@@ -32,7 +34,9 @@
         "country": "Spain",
         "sector": "Corporate-Infrastructure",
         "reviewer": "VIGEO EIRIS",
-        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/ACS-SCE_External%20Review%20Report.pdf"
+        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/ACS-SCE_External%20Review%20Report.pdf",
+        "marketInformationDate": "April 2018",
+        "marketInformationLink": "https://www.icmagroup.org/Emails/icma-vcards/ACS%20SCE_Market%20Information%20Template.pdf"
     },
     {
         "companyName": "Activia Properties Inc.",
@@ -53,7 +57,9 @@
         "country": "Spain",
         "sector": "Corporate-Infrastructure",
         "reviewer": "CICERO/ENSO",
-        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/ADIF-AV_External%20Review%20Report-140717.pdf"
+        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/ADIF-AV_External%20Review%20Report-140717.pdf",
+        "marketInformationDate": "June 2017",
+        "marketInformationLink": "http://www.icmagroup.org/Emails/icma-vcards/ADIF%20AV_Information%20Template.pdf"
     },
     {
         "companyName": "Advance Residence Investment Corporation",
@@ -89,14 +95,18 @@
         "country": "Nigeria",
         "sector": "Financial Institution",
         "reviewer": "ISS ESG",
-        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/AFC_External%20Review%20Report.pdf"
+        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/AFC_External%20Review%20Report.pdf",
+        "marketInformationDate": "November 2020",
+        "marketInformationLink": "https://www.icmagroup.org/Emails/icma-vcards/AFC_Market%20Information%20Template.pdf"
     },
     {
         "companyName": "African Development Bank",
         "country": "Supra-national",
         "sector": "MDB",
         "reviewer": "CICERO",
-        "reviewLink": "http://www.icmagroup.org/Emails/icma-vcards/AfDB_External%20Review%20report.pdf"
+        "reviewLink": "http://www.icmagroup.org/Emails/icma-vcards/AfDB_External%20Review%20report.pdf",
+        "marketInformationDate": "September 2016",
+        "marketInformationLink": "http://www.icmagroup.org/Emails/icma-vcards/AfDB_%20Market-Information-template.pdf"
     },
     {
         "companyName": "Agder Energi ",
@@ -124,7 +134,9 @@
         "country": "China",
         "sector": "Financial Institution",
         "reviewer": "Deloitte",
-        "reviewLink": "http://www.icmagroup.org/Emails/icma-vcards/ABC_External%20Review%20report.pdf"
+        "reviewLink": "http://www.icmagroup.org/Emails/icma-vcards/ABC_External%20Review%20report.pdf",
+        "marketInformationDate": "September 2016",
+        "marketInformationLink": "http://www.icmagroup.org/Emails/icma-vcards/ABC_Market-Information-Template.pdf"
     },
     {
         "companyName": "Agricultural Development Bank of China",
@@ -292,7 +304,9 @@
         "country": "France",
         "sector": "Corporate-Industry",
         "reviewer": "VIGEO EIRIS",
-        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/Arkema_External%20Review%20Report.pdf"
+        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/Arkema_External%20Review%20Report.pdf",
+        "marketInformationDate": "October 2020",
+        "marketInformationLink": "https://www.icmagroup.org/Emails/icma-vcards/Arkema_Market%20Information%20Template.pdf"
     },
     {
         "companyName": "Arthaland Corporation",
@@ -362,7 +376,9 @@
         "country": "Spain",
         "sector": "Corporate-Energy",
         "reviewer": "VIGEO EIRIS",
-        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/AUDAX%20Renovables_External%20Review%20Report.pdf"
+        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/AUDAX%20Renovables_External%20Review%20Report.pdf",
+        "marketInformationDate": "April 2020",
+        "marketInformationLink": "https://www.icmagroup.org/Emails/icma-vcards/Audax%20Renovables_Market%20Information%20Template%20.pdf"
     },
     {
         "companyName": "Australia and New Zealand Banking Group Limited (ANZ)",
@@ -397,14 +413,17 @@
         "companyName": "Banco Davivienda ",
         "country": "Colombia",
         "sector": "Financial Institution",
-        "reviewLink": "http://www.icmagroup.org/Emails/icma-vcards/Banco-Davivienda_Market-Information-Template.pdf"
+        "marketInformationDate": "September 2018",
+        "marketInformationLink": "http://www.icmagroup.org/Emails/icma-vcards/Banco-Davivienda_Market-Information-Template.pdf"
     },
     {
         "companyName": "Banco de Bogotá S.A.",
         "country": "Colombia",
         "sector": "Financial Institution",
         "reviewer": "Ernst & Young",
-        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/Banco%20de%20Bogot%C3%A1_External%20Review%20Report.pdf"
+        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/Banco%20de%20Bogot%C3%A1_External%20Review%20Report.pdf",
+        "marketInformationDate": "October 2020",
+        "marketInformationLink": "https://www.icmagroup.org/Emails/icma-vcards/Banco%20de%20Bogot%C3%A1_Market%20Information%20Template.pdf"
     },
     {
         "companyName": "Banco de Comercio Exterior de Colombia S.A.",
@@ -431,47 +450,58 @@
         "companyName": "Bancolombia (2016)",
         "country": "Colombia",
         "sector": "Financial Institution",
-        "reviewLink": "http://www.icmagroup.org/Emails/icma-vcards/Bancolombia_Market-Information-Template_131216.pdf"
+        "marketInformationDate": "December 2016",
+        "marketInformationLink": "http://www.icmagroup.org/Emails/icma-vcards/Bancolombia_Market-Information-Template_131216.pdf"
     },
     {
         "companyName": "Bancolombia (2018)",
         "country": "Colombia",
         "sector": "Financial Institution",
         "reviewer": "Deloitte",
-        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/Bancocolombia_External%20Review%20Report_%202018.pdf"
+        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/Bancocolombia_External%20Review%20Report_%202018.pdf",
+        "marketInformationDate": "October 2018",
+        "marketInformationLink": "https://www.icmagroup.org/Emails/icma-vcards/Bancocolombia_Market-Information-Template_2018.pdf"
     },
     {
         "companyName": "Bangkok Mass Transit System PCL (BTS) (2019)",
         "country": "Thailand",
         "sector": "Corporate-Transportation",
         "reviewer": "SUSTAINALYTICS",
-        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/BTSG%20%282019%29%20External%20review%20Report.pdf"
+        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/BTSG%20%282019%29%20External%20review%20Report.pdf",
+        "marketInformationDate": "May 2019",
+        "marketInformationLink": "https://www.icmagroup.org/Emails/icma-vcards/BTSG%20%282019%29%20_Market%20Information%20Template.pdf"
     },
     {
         "companyName": "Bangkok Mass Transit System PCL (BTS) (2020)",
         "country": "Thailand",
         "sector": "Corporate-Transportation",
         "reviewer": "SUSTAINALYTICS",
-        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/BTSG%20%282020%29%20External%20Review%20Report.pdf"
+        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/BTSG%20%282020%29%20External%20Review%20Report.pdf",
+        "marketInformationDate": "November 2020",
+        "marketInformationLink": "https://www.icmagroup.org/Emails/icma-vcards/BTSG%20%282020%29%20_Market%20Information%20Template.pdf"
     },
     {
         "companyName": "Bangkok Mass Transit System PCL (BTS) (2021)",
         "country": "Thailand",
         "sector": "Corporate-Transportation",
         "reviewer": "SUSTAINALYTICS",
-        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/BTSG%20%282021%29_External%20Review%20Report.pdf"
+        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/BTSG%20%282021%29_External%20Review%20Report.pdf",
+        "marketInformationDate": "November 2021",
+        "marketInformationLink": "https://www.icmagroup.org/Emails/icma-vcards/BTSC%20%282021%29%20_Market%20Information%20Template.pdf"
     },
     {
         "companyName": "Bank of China (2017)",
         "country": "China",
         "sector": "Financial Institution",
-        "reviewLink": "http://www.icmagroup.org/Emails/icma-vcards/BOC_Market%20Information%20template%203108.pdf"
+        "marketInformationDate": "August 2017",
+        "marketInformationLink": "http://www.icmagroup.org/Emails/icma-vcards/BOC_Market%20Information%20template%203108.pdf"
     },
     {
         "companyName": "Bank of China (2018)",
         "country": "China",
         "sector": "Financial Institution",
-        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/BoC_2018_%20Market%20Information%20Template.pdf"
+        "marketInformationDate": "May 2018",
+        "marketInformationLink": "https://www.icmagroup.org/Emails/icma-vcards/BoC_2018_%20Market%20Information%20Template.pdf"
     },
     {
         "companyName": "Bank of the Philippine Islands",
@@ -485,7 +515,9 @@
         "country": "Spain",
         "sector": "Financial Institution",
         "reviewer": "SUSTAINALYTICS",
-        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/Bankinter_External%20Review%20Report.pdf"
+        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/Bankinter_External%20Review%20Report.pdf",
+        "marketInformationDate": "January 2020",
+        "marketInformationLink": "https://www.icmagroup.org/Emails/icma-vcards/Bankinter_Market%20Information%20Template.pdf"
     },
     {
         "companyName": "Bankinter, S.A. (2021)",
@@ -542,7 +574,9 @@
         "country": "Spain",
         "sector": "Financial Institution",
         "reviewer": "DNV",
-        "reviewLink": "http://www.icmagroup.org/Emails/icma-vcards/BBVA%20SDG_External%20Review%20Report2.pdf"
+        "reviewLink": "http://www.icmagroup.org/Emails/icma-vcards/BBVA%20SDG_External%20Review%20Report2.pdf",
+        "marketInformationDate": "May 2018",
+        "marketInformationLink": "http://www.icmagroup.org/Emails/icma-vcards/BBVA%20inaugural%20Green%20Bond_Market-Information-Template_Green-Bonds.pdf"
     },
     {
         "companyName": "Beijing Capital Group",
@@ -563,14 +597,18 @@
         "country": "Germany",
         "sector": "Corporate-Real Estate",
         "reviewer": "oekom research",
-        "reviewLink": "http://www.icmagroup.org/Emails/icma-vcards/BerlinHyp_External%20Review%20Report_201704.pdf"
+        "reviewLink": "http://www.icmagroup.org/Emails/icma-vcards/BerlinHyp_External%20Review%20Report_201704.pdf",
+        "marketInformationDate": "August 2016",
+        "marketInformationLink": "http://www.icmagroup.org/Emails/icma-vcards/Berlin%20Hyp_Market-Information-Template.pdf"
     },
     {
         "companyName": "Berlin Hyp AG (2018)",
         "country": "Germany",
         "sector": "Corporate-Real Estate",
         "reviewer": "oekom research",
-        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/BerlinHyp%202018_External%20Review%20Report.pdf"
+        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/BerlinHyp%202018_External%20Review%20Report.pdf",
+        "marketInformationDate": "June 2018",
+        "marketInformationLink": "https://www.icmagroup.org/Emails/icma-vcards/Berlin%20Hyp%202018_Market-Information-Template.pdf"
     },
     {
         "companyName": "Berlin Hyp AG (2019)",
@@ -593,7 +631,13 @@
         "reviewer": "ISS ESG",
         "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/BerlinHyp_External%20Review%20Report_2021.pdf"
     },
-    { "companyName": "Besqab AB", "country": "Sweden", "sector": "Corporate-Real Estate", "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/Besqab%20Market_Information_Template.pdf" },
+    {
+        "companyName": "Besqab AB",
+        "country": "Sweden",
+        "sector": "Corporate-Real Estate",
+        "marketInformationDate": "April 2021",
+        "marketInformationLink": "https://www.icmagroup.org/Emails/icma-vcards/Besqab%20Market_Information_Template.pdf"
+    },
     {
         "companyName": "BKS Bank AG (2018)",
         "country": "Germany",
@@ -634,7 +678,9 @@
         "country": "France",
         "sector": "Financial Institution",
         "reviewer": "oekom research",
-        "reviewLink": "http://www.icmagroup.org/Emails/icma-vcards/BNP%20Paribas_External%20Review%20Report.pdf"
+        "reviewLink": "http://www.icmagroup.org/Emails/icma-vcards/BNP%20Paribas_External%20Review%20Report.pdf",
+        "marketInformationDate": "December 2016",
+        "marketInformationLink": "http://www.icmagroup.org/Emails/icma-vcards/BNPP_Market-Information-Template.pdf"
     },
     {
         "companyName": "BNP Paribas (2018)",
@@ -788,7 +834,9 @@
         "country": "Sweden",
         "sector": "Corporate-Transportation",
         "reviewer": "CICERO",
-        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/Catena_External%20Review%20Report.pdf"
+        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/Catena_External%20Review%20Report.pdf",
+        "marketInformationDate": "May 2021",
+        "marketInformationLink": "https://www.icmagroup.org/Emails/icma-vcards/Catena%20AB_Market_Information_Template.pdf"
     },
     {
         "companyName": "Ceetrus",
@@ -858,7 +906,9 @@
         "country": "Sweden",
         "sector": "Corporate-Real Estate",
         "reviewer": "SUSTAINALYTICS",
-        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/Cibus_External%20Review%20Report.pdf"
+        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/Cibus_External%20Review%20Report.pdf",
+        "marketInformationDate": "June 2020",
+        "marketInformationLink": "https://www.icmagroup.org/Emails/icma-vcards/Cibus_Market%20Information%20Template.pdf"
     },
     {
         "companyName": "Citi Group",
@@ -999,7 +1049,9 @@
         "country": "Finland",
         "sector": "Corporate-Real Estate",
         "reviewer": "CICERO",
-        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/citycon_External%20Review%20Report.pdf"
+        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/citycon_External%20Review%20Report.pdf",
+        "marketInformationDate": "December 2019",
+        "marketInformationLink": "https://www.icmagroup.org/Emails/icma-vcards/Citycon_%20Market%20Information%20Template.pdf"
     },
     {
         "companyName": "Ciudad de México (CDMX)",
@@ -1085,7 +1137,13 @@
         "reviewer": "CICERO",
         "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/Continuum_External%20Review%20Report.pdf"
     },
-    { "companyName": "Corem Property Group", "country": "Sweden", "sector": "Corporate-Real Estate", "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/Corem_Market_Information_Template.pdf" },
+    {
+        "companyName": "Corem Property Group",
+        "country": "Sweden",
+        "sector": "Corporate-Real Estate",
+        "marketInformationDate": "September 2020",
+        "marketInformationLink": "https://www.icmagroup.org/Emails/icma-vcards/Corem_Market_Information_Template.pdf"
+    },
     {
         "companyName": "Corporación Andina de Fomento (CAF)",
         "country": "Supra-national",
@@ -1098,14 +1156,18 @@
         "country": "France",
         "sector": "Corporate-Real Estate",
         "reviewer": "VIGEO EIRIS",
-        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/Covivio_External%20Review%20Report.pdf"
+        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/Covivio_External%20Review%20Report.pdf",
+        "marketInformationDate": "October 2019",
+        "marketInformationLink": "https://www.icmagroup.org/Emails/icma-vcards/Covivio_Market%20Information%20Template.pdf"
     },
     {
         "companyName": "Crédit Agricole (2016)",
         "country": "France",
         "sector": "Financial Institution",
         "reviewer": "SUSTAINALYTICS",
-        "reviewLink": "http://www.icmagroup.org/Emails/icma-vcards/CACIB_green%20notes_External%20Review%20report.pdf"
+        "reviewLink": "http://www.icmagroup.org/Emails/icma-vcards/CACIB_green%20notes_External%20Review%20report.pdf",
+        "marketInformationDate": "September 2016",
+        "marketInformationLink": "http://www.icmagroup.org/Emails/icma-vcards/CACIB%20Green%20Notes-Market-Information%20template.pdf"
     },
     {
         "companyName": "Crédit Agricole (2018)",
@@ -1119,7 +1181,9 @@
         "country": "France",
         "sector": "Financial Institution",
         "reviewer": "VIGEO EIRIS",
-        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/Cr%C3%A9dit%20Agricole_External%20Review%20Report_2019%2010.PDF"
+        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/Cr%C3%A9dit%20Agricole_External%20Review%20Report_2019%2010.PDF",
+        "marketInformationDate": "June 2019",
+        "marketInformationLink": "https://www.icmagroup.org/Emails/icma-vcards/Credit%20Agricole_Market-Information%20template_2019.pdf"
     },
     {
         "companyName": "Crédit Agricole next bank (Suisse) SA",
@@ -1196,7 +1260,9 @@
         "country": "Japan",
         "sector": "Corporate-Real Estate",
         "reviewer": "Japan Credit Rating Agency",
-        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/Daiwa%20House%20REIT_External%20Review%20Report.pdf"
+        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/Daiwa%20House%20REIT_External%20Review%20Report.pdf",
+        "marketInformationDate": "October 2019",
+        "marketInformationLink": "https://www.icmagroup.org/Emails/icma-vcards/Daiwa%20House%20REITE_Market%20Information%20Template.pdf"
     },
     {
         "companyName": "Daiwa House REIT (2021)",
@@ -1217,7 +1283,9 @@
         "country": "Kazakhstan",
         "sector": "Agency",
         "reviewer": "AIFC Green Finance Centre",
-        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/Damu%20Fund_External%20Review%20Report.pdf"
+        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/Damu%20Fund_External%20Review%20Report.pdf",
+        "marketInformationDate": "August 2020",
+        "marketInformationLink": "https://www.icmagroup.org/Emails/icma-vcards/Damu%20Fund_Market%20Information%20Template.pdf"
     },
     {
         "companyName": "Dana Inc.",
@@ -1245,7 +1313,9 @@
         "country": "Netherlands",
         "sector": "Financial Institution",
         "reviewer": "ISS-oekom",
-        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/de-Volksbank_External%20Review%20Report.pdf"
+        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/de-Volksbank_External%20Review%20Report.pdf",
+        "marketInformationDate": "January 2020",
+        "marketInformationLink": "https://www.icmagroup.org/Emails/icma-vcards/de-Volksbank_Market%20Information%20Template.pdf"
     },
     {
         "companyName": "Derichebourg",
@@ -1266,7 +1336,9 @@
         "country": "Germany",
         "sector": "Financial Institution",
         "reviewer": "oekom research",
-        "reviewLink": "http://www.icmagroup.org/Emails/icma-vcards/Deutsche%20Hypo_External%20Review%20Report%203108.pdf"
+        "reviewLink": "http://www.icmagroup.org/Emails/icma-vcards/Deutsche%20Hypo_External%20Review%20Report%203108.pdf",
+        "marketInformationDate": "November 2017",
+        "marketInformationLink": "https://www.icmagroup.org/Emails/icma-vcards/Deutsche%20Hypo_Market-Information-Template.pdf"
     },
     {
         "companyName": "Deutsche Hypothekenbank AG (2020)",
@@ -1280,7 +1352,9 @@
         "country": "Germany",
         "sector": "Financial Institution",
         "reviewer": "oekom research ",
-        "reviewLink": "http://www.icmagroup.org/Emails/icma-vcards/DKB_External%20Review%20Report_150916.pdf"
+        "reviewLink": "http://www.icmagroup.org/Emails/icma-vcards/DKB_External%20Review%20Report_150916.pdf",
+        "marketInformationDate": "August 2016",
+        "marketInformationLink": "http://www.icmagroup.org/Emails/icma-vcards/DKB_Market-Information-Template_150916.pdf"
     },
     {
         "companyName": "Deutsche Kreditbank (DKB) (2017)",
@@ -1392,14 +1466,18 @@
         "country": "France",
         "sector": "Corporate-Energy",
         "reviewer": "VIGEO EIRIS",
-        "reviewLink": "http://www.icmagroup.org/Emails/icma-vcards/EDF_External%20Review%20report.pdf"
+        "reviewLink": "http://www.icmagroup.org/Emails/icma-vcards/EDF_External%20Review%20report.pdf",
+        "marketInformationDate": "July 2017",
+        "marketInformationLink": "http://www.icmagroup.org/Emails/icma-vcards/EDF_Market%20Information%20Template%20090817.pdf"
     },
     {
         "companyName": "Electricity Supply Board (ESB)",
         "country": "Ireland",
         "sector": "Corporate-Energy",
         "reviewer": "SUSTAINALYTICS",
-        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/ESB_External%20Review%20Report.pdf"
+        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/ESB_External%20Review%20Report.pdf",
+        "marketInformationDate": "June 2019",
+        "marketInformationLink": "https://www.icmagroup.org/Emails/icma-vcards/ESB_Market%20Information%20Template.pdf"
     },
     {
         "companyName": "Electrolux ",
@@ -1427,14 +1505,18 @@
         "country": "Germany",
         "sector": "Corporate-Energy",
         "reviewer": "ISS-oekom",
-        "reviewLink": "http://www.icmagroup.org/Emails/icma-vcards/EnBW_External%20Review%20Report.pdf"
+        "reviewLink": "http://www.icmagroup.org/Emails/icma-vcards/EnBW_External%20Review%20Report.pdf",
+        "marketInformationDate": "January 2019",
+        "marketInformationLink": "http://www.icmagroup.org/Emails/icma-vcards/EnBW_Market-Information-Template.pdf"
     },
     {
         "companyName": "ENEL Finance Supra-national (2017)",
         "country": "Italy",
         "sector": "Corporate-Energy",
         "reviewer": "VIGEO EIRIS",
-        "reviewLink": "http://www.icmagroup.org/Emails/icma-vcards/Enel%20Group_External%20Review%20Report.pdf"
+        "reviewLink": "http://www.icmagroup.org/Emails/icma-vcards/Enel%20Group_External%20Review%20Report.pdf",
+        "marketInformationDate": "January 2017",
+        "marketInformationLink": "http://www.icmagroup.org/Emails/icma-vcards/ENEL_Market-Information-Template.pdf"
     },
     {
         "companyName": "ENEL Finance Supra-national (2018)",
@@ -1462,7 +1544,9 @@
         "country": "France",
         "sector": "Corporate-Energy",
         "reviewer": "VIGEO EIRIS",
-        "reviewLink": "http://www.icmagroup.org/Emails/icma-vcards/Engie_External%20Review%20report.pdf"
+        "reviewLink": "http://www.icmagroup.org/Emails/icma-vcards/Engie_External%20Review%20report.pdf",
+        "marketInformationDate": "August 2016",
+        "marketInformationLink": "http://www.icmagroup.org/Emails/icma-vcards/Engie_Market-Information-Template.pdf"
     },
     {
         "companyName": "ENGIE (January 2018)",
@@ -1503,20 +1587,24 @@
         "companyName": "European Bank for Reconstruction and Development (EBRD) - Climate Resilience Bonds 2019",
         "country": "Supra-national",
         "sector": "MDB",
-        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/EBRD_CRB_Market%20Information%20Template_2019.pdf"
+        "marketInformationDate": "September 2019",
+        "marketInformationLink": "https://www.icmagroup.org/Emails/icma-vcards/EBRD_CRB_Market%20Information%20Template_2019.pdf"
     },
     {
         "companyName": "European Bank for Reconstruction and Development (EBRD) - Environmental Sustainability Bonds 2019",
         "country": "Supra-national",
         "sector": "MDB",
         "reviewer": "CICERO",
-        "reviewLink": "http://www.icmagroup.org/Emails/icma-vcards/EBRD_External%20Review%20Report_150916.pdf"
+        "reviewLink": "http://www.icmagroup.org/Emails/icma-vcards/EBRD_External%20Review%20Report_150916.pdf",
+        "marketInformationDate": "September 2019",
+        "marketInformationLink": "https://www.icmagroup.org/Emails/icma-vcards/EBRD_ESB_Market%20Information%20Template_2019.pdf"
     },
     {
         "companyName": "European Bank for Reconstruction and Development (EBRD) - Green Transition Bonds 2019",
         "country": "Supra-national",
         "sector": "MDB",
-        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/EBRD_GTB_Market%20Information%20Template_2019.pdf"
+        "marketInformationDate": "September 2019",
+        "marketInformationLink": "https://www.icmagroup.org/Emails/icma-vcards/EBRD_GTB_Market%20Information%20Template_2019.pdf"
     },
     {
         "companyName": "European Energy A/S",
@@ -1530,14 +1618,18 @@
         "country": "Supra-national",
         "sector": "MDB",
         "reviewer": "KPMG",
-        "reviewLink": "http://www.icmagroup.org/Emails/icma-vcards/EIB_External%20Review%20Form%20%26%20CAB%20Statement.pdf"
+        "reviewLink": "http://www.icmagroup.org/Emails/icma-vcards/EIB_External%20Review%20Form%20%26%20CAB%20Statement.pdf",
+        "marketInformationDate": "September 2016",
+        "marketInformationLink": "http://www.icmagroup.org/Emails/icma-vcards/EIB_Market-%20Information%20-Template.pdf"
     },
     {
         "companyName": "European Investment Bank (EIB) - CABs (2016)",
         "country": "Supra-national",
         "sector": "MDB",
         "reviewer": "KPMG",
-        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/EIB_CAB%20statement%202016.pdf"
+        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/EIB_CAB%20statement%202016.pdf",
+        "marketInformationDate": "September 2016",
+        "marketInformationLink": "http://www.icmagroup.org/Emails/icma-vcards/EIB_Market-%20Information%20-Template.pdf"
     },
     {
         "companyName": "European Investment Bank (EIB) - CABs (2017)",
@@ -1621,7 +1713,9 @@
         "country": "Sweden",
         "sector": "Corporate-Real Estate",
         "reviewer": "CICERO",
-        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/Fastpartner_External%20Review%20Report.pdf"
+        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/Fastpartner_External%20Review%20Report.pdf",
+        "marketInformationDate": "November 2018",
+        "marketInformationLink": "https://www.icmagroup.org/Emails/icma-vcards/Fastpartner_Market-Information-Template.pdf"
     },
     {
         "companyName": "Faurecia",
@@ -1635,7 +1729,9 @@
         "country": "Spain",
         "sector": "Corporate-Industry",
         "reviewer": "CICERO",
-        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/FCC%20Medio%20Ambiente_External%20Review%20Report.pdf"
+        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/FCC%20Medio%20Ambiente_External%20Review%20Report.pdf",
+        "marketInformationDate": "December 2019",
+        "marketInformationLink": "https://www.icmagroup.org/Emails/icma-vcards/FCC_Market%20Information%20Template.pdf"
     },
     {
         "companyName": "Federal Government of Nigeria",
@@ -1677,20 +1773,25 @@
         "country": "UAE",
         "sector": "Financial Institution",
         "reviewer": "VIGEO EIRIS",
-        "reviewLink": "http://www.icmagroup.org/Emails/icma-vcards/NBAD-External%20Review%20report.pdf"
+        "reviewLink": "http://www.icmagroup.org/Emails/icma-vcards/NBAD-External%20Review%20report.pdf",
+        "marketInformationDate": "June 2018",
+        "marketInformationLink": "https://www.icmagroup.org/Emails/icma-vcards/FADB_Market%20Information%20Template.PDF"
     },
     {
         "companyName": "First Abu Dhabi Bank (2019)",
         "country": "UAE",
         "sector": "Financial Institution",
         "reviewer": "VIGEO EIRIS",
-        "reviewLink": "http://www.icmagroup.org/Emails/icma-vcards/NBAD-External%20Review%20report.pdf"
+        "reviewLink": "http://www.icmagroup.org/Emails/icma-vcards/NBAD-External%20Review%20report.pdf",
+        "marketInformationDate": "June 2019",
+        "marketInformationLink": "https://www.icmagroup.org/Emails/icma-vcards/FAB_Market%20Information%20Template%202019.pdf"
     },
     {
         "companyName": "First Abu Dhabi Bank (2020)",
         "country": "UAE",
         "sector": "Financial Institution",
-        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/FAB_2020_%20Market%20Information%20Template.pdf"
+        "marketInformationDate": "June 2020",
+        "marketInformationLink": "https://www.icmagroup.org/Emails/icma-vcards/FAB_2020_%20Market%20Information%20Template.pdf"
     },
     {
         "companyName": "First Capital REIT",
@@ -1746,7 +1847,9 @@
         "country": "Sweden",
         "sector": "Corporate-Real Estate",
         "reviewer": "CICERO",
-        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/Genova_External%20Review%20Report.pdf"
+        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/Genova_External%20Review%20Report.pdf",
+        "marketInformationDate": "January 2021",
+        "marketInformationLink": "https://www.icmagroup.org/Emails/icma-vcards/Genova_Market_Information_Template.pdf"
     },
     {
         "companyName": "Georgia Global Utilities",
@@ -1838,7 +1941,9 @@
         "country": "Portugal",
         "sector": "Corporate-Tourism",
         "reviewer": "DNV",
-        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/Grupo%20Pestana%20SGPS_External%20Review%20Report.pdf"
+        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/Grupo%20Pestana%20SGPS_External%20Review%20Report.pdf",
+        "marketInformationDate": "October 2019",
+        "marketInformationLink": "https://www.icmagroup.org/Emails/icma-vcards/Grupo%20Pestana%20SGPS_Market%20Information%20Template.pdf"
     },
     {
         "companyName": "Hafslund Eco AS",
@@ -1908,7 +2013,9 @@
         "country": "Sweden",
         "sector": "Corporate-Real Estate",
         "reviewer": "CICERO",
-        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/Hemfosa_External%20Review%20Report.pdf"
+        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/Hemfosa_External%20Review%20Report.pdf",
+        "marketInformationDate": "May 2019",
+        "marketInformationLink": "https://www.icmagroup.org/Emails/icma-vcards/Hemfosa_Market%20Information%20Template.pdf"
     },
     {
         "companyName": "HERA",
@@ -1943,7 +2050,9 @@
         "country": "Japan",
         "sector": "Corporate-Industry",
         "reviewer": "DNV",
-        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/Hitachi%20Zosen_External%20Review%20Report.pdf"
+        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/Hitachi%20Zosen_External%20Review%20Report.pdf",
+        "marketInformationDate": "August 2018",
+        "marketInformationLink": "http://www.icmagroup.org/Emails/icma-vcards/Hitachi-Zosen-Market-Information-Template.pdf"
     },
     {
         "companyName": "HKSAR Government",
@@ -2085,7 +2194,9 @@
         "country": "Netherlands",
         "sector": "Financial Institution",
         "reviewer": "oekom research",
-        "reviewLink": "http://www.icmagroup.org/Emails/icma-vcards/ING%20Bank%20N.V.%20-%20External-Review%20Report.pdf"
+        "reviewLink": "http://www.icmagroup.org/Emails/icma-vcards/ING%20Bank%20N.V.%20-%20External-Review%20Report.pdf",
+        "marketInformationDate": "July 2016",
+        "marketInformationLink": "http://www.icmagroup.org/Emails/icma-vcards/ING%20Bank%20N.V.%20-%20Market-Information%20Template.pdf"
     },
     {
         "companyName": "ING Bank NV (2020)",
@@ -2113,7 +2224,9 @@
         "country": "Supra-national",
         "sector": "MDB",
         "reviewer": "CICERO",
-        "reviewLink": "http://www.icmagroup.org/Emails/icma-vcards/IFC%20External-Review-report.pdf"
+        "reviewLink": "http://www.icmagroup.org/Emails/icma-vcards/IFC%20External-Review-report.pdf",
+        "marketInformationDate": "September 2016",
+        "marketInformationLink": "http://www.icmagroup.org/Emails/icma-vcards/IFC%20Market-Information-Template.pdf"
     },
     {
         "companyName": "Intesa Sanpaolo",
@@ -2129,28 +2242,50 @@
         "reviewer": "SUSTAINALYTICS",
         "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/Invesco%20Office%20J-REIT_External%20Review%20Report.pdf"
     },
-    { "companyName": "IREN S.p.A. (2017)", "country": "Italy", "sector": "Utility", "reviewer": "DNV", "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/IREN_External%20Review%20Report.pdf" },
-    { "companyName": "IREN S.p.A. (2018)", "country": "Italy", "sector": "Utility", "reviewer": "DNV", "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/IREN_External%20Review%20Report.pdf" },
+    {
+        "companyName": "IREN S.p.A. (2017)",
+        "country": "Italy",
+        "sector": "Utility",
+        "reviewer": "DNV",
+        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/IREN_External%20Review%20Report.pdf",
+        "marketInformationDate": "October 2017",
+        "marketInformationLink": "http://www.icmagroup.org/Emails/icma-vcards/IREN_Market-Information-Template_2017.pdf"
+    },
+    {
+        "companyName": "IREN S.p.A. (2018)",
+        "country": "Italy",
+        "sector": "Utility",
+        "reviewer": "DNV",
+        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/IREN_External%20Review%20Report.pdf",
+        "marketInformationDate": "September 2018",
+        "marketInformationLink": "http://www.icmagroup.org/Emails/icma-vcards/IREN_Market-Information-Template_2018.pdf"
+    },
     {
         "companyName": "IREN S.p.A. (2019)",
         "country": "Italy",
         "sector": "Utility",
         "reviewer": "DNV",
-        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/IREN_External%20Review%20Report%202019.pdf"
+        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/IREN_External%20Review%20Report%202019.pdf",
+        "marketInformationDate": "September 2019",
+        "marketInformationLink": "https://www.icmagroup.org/Emails/icma-vcards/IREN%20SPA_Market%20Information%20Template%20%282019%29.pdf"
     },
     {
         "companyName": "IREN S.p.A. (2020)",
         "country": "Italy",
         "sector": "Utility",
         "reviewer": "DNV",
-        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/IREN%202020_External%20Review%20Report.pdf"
+        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/IREN%202020_External%20Review%20Report.pdf",
+        "marketInformationDate": "December 2020",
+        "marketInformationLink": "https://www.icmagroup.org/Emails/icma-vcards/IREN_Market%20Information%20Template%202020.pdf"
     },
     {
         "companyName": "IREN S.p.A. (2021)",
         "country": "Italy",
         "sector": "Utility",
         "reviewer": "DNV",
-        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/IREN%202021_External%20Review%20Report.pdf"
+        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/IREN%202021_External%20Review%20Report.pdf",
+        "marketInformationDate": "October 2021",
+        "marketInformationLink": "https://www.icmagroup.org/Emails/icma-vcards/IREN_Market%20Information%20Template%202021.pdf"
     },
     {
         "companyName": "Islamic Development Bank",
@@ -2192,7 +2327,9 @@
         "country": "Japan",
         "sector": "Financial Institution",
         "reviewer": "SUSTAINALYTICS",
-        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/JBIC_External%20Review%20Report.pdf"
+        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/JBIC_External%20Review%20Report.pdf",
+        "marketInformationDate": "October 2021",
+        "marketInformationLink": "https://www.icmagroup.org/Emails/icma-vcards/JBIC_Market-Information-Template.pdf"
     },
     {
         "companyName": "Japan Excellent, Inc.",
@@ -2220,7 +2357,9 @@
         "country": "Japan",
         "sector": "Corporate-Real Estate",
         "reviewer": "Japan Credit Rating Agency",
-        "reviewLink": "http://www.icmagroup.org/Emails/icma-vcards/Japan%20Housing%20Finance%20Agency_External%20Review%20report%20%28Japanese%29.pdf"
+        "reviewLink": "http://www.icmagroup.org/Emails/icma-vcards/Japan%20Housing%20Finance%20Agency_External%20Review%20report%20%28Japanese%29.pdf",
+        "marketInformationDate": "January 2019",
+        "marketInformationLink": "http://www.icmagroup.org/Emails/icma-vcards/Japan%20Housing%20Finance%20Agency_Market-Information-Template.pdf"
     },
     {
         "companyName": "Japan Prime Realty Investment Corporation",
@@ -2255,7 +2394,9 @@
         "country": "Sweden",
         "sector": "Corporate-Real Estate",
         "reviewer": "CICERO",
-        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/K2A_External%20Review%20Report.pdf"
+        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/K2A_External%20Review%20Report.pdf",
+        "marketInformationDate": "January 2020 (updated)",
+        "marketInformationLink": "https://www.icmagroup.org/Emails/icma-vcards/K2A%20Market_Information_Template_update.pdf"
     },
     {
         "companyName": "Kaiser Foundation Hospitals / California Health Facilities Financing Authority (2017)",
@@ -2320,13 +2461,23 @@
         "reviewer": "ISS ESG",
         "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/kensington_External%20Review%20Report_green%202021.pdf"
     },
-    { "companyName": "KfW (2016)", "country": "Germany", "sector": "Agency", "reviewer": "CICERO", "reviewLink": "http://www.icmagroup.org/Emails/icma-vcards/KfW_external%20Review%20Report.pdf" },
+    {
+        "companyName": "KfW (2016)",
+        "country": "Germany",
+        "sector": "Agency",
+        "reviewer": "CICERO",
+        "reviewLink": "http://www.icmagroup.org/Emails/icma-vcards/KfW_external%20Review%20Report.pdf",
+        "marketInformationDate": "September 2016",
+        "marketInformationLink": "http://www.icmagroup.org/Emails/icma-vcards/KfW_Market-Information-Template_150916.pdf"
+    },
     {
         "companyName": "KfW (2020)",
         "country": "Germany",
         "sector": "Agency",
         "reviewer": "CICERO",
-        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/KfW_External%20Review%20Report%202019.pdf"
+        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/KfW_External%20Review%20Report%202019.pdf",
+        "marketInformationDate": "October 2020",
+        "marketInformationLink": "https://www.icmagroup.org/Emails/icma-vcards/KfW_Market%20Information%20Template.pdf"
     },
     {
         "companyName": "King County",
@@ -2396,14 +2547,18 @@
         "country": "Sweden",
         "sector": "Corporate-Real Estate",
         "reviewer": "CICERO",
-        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/klovern_External%20Review%20Report.pdf"
+        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/klovern_External%20Review%20Report.pdf",
+        "marketInformationDate": "March 2018",
+        "marketInformationLink": "https://www.icmagroup.org/Emails/icma-vcards/Kl%C3%B6vern%20_Market%20Information%20Template.pdf"
     },
     {
         "companyName": "Klövern (Publ.) (2020)",
         "country": "Sweden",
         "sector": "Corporate-Real Estate",
         "reviewer": "CICERO",
-        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/Klovern_External%20Review%20Report_2020.pdf"
+        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/Klovern_External%20Review%20Report_2020.pdf",
+        "marketInformationDate": "October 2020",
+        "marketInformationLink": "https://www.icmagroup.org/Emails/icma-vcards/Kl%C3%B6vern_Market%20Information%20Template.pdf"
     },
     {
         "companyName": "Kojamo plc",
@@ -2417,7 +2572,9 @@
         "country": "Norway",
         "sector": "Agency",
         "reviewer": "CICERO",
-        "reviewLink": "http://www.icmagroup.org/Emails/icma-vcards/Kommunalbanken_External%20Review%20Report_150916.pdf"
+        "reviewLink": "http://www.icmagroup.org/Emails/icma-vcards/Kommunalbanken_External%20Review%20Report_150916.pdf",
+        "marketInformationDate": "June 2016",
+        "marketInformationLink": "http://www.icmagroup.org/Emails/icma-vcards/Kommunalbanken_Market-Information-Template_150916.pdf"
     },
     {
         "companyName": "KommuneKredit",
@@ -2431,7 +2588,9 @@
         "country": "Sweden",
         "sector": "Agency",
         "reviewer": "CICERO",
-        "reviewLink": "http://www.icmagroup.org/Emails/icma-vcards/Kommuninvest_External%20Review%20Report_150916.pdf"
+        "reviewLink": "http://www.icmagroup.org/Emails/icma-vcards/Kommuninvest_External%20Review%20Report_150916.pdf",
+        "marketInformationDate": "June 2016",
+        "marketInformationLink": "http://www.icmagroup.org/Emails/icma-vcards/Kommuninvest_Market-Information%20-Template_150916.pdf"
     },
     {
         "companyName": "Konan Ultra Power (2019)",
@@ -2487,7 +2646,9 @@
         "country": "Spain",
         "sector": "Financial Institution",
         "reviewer": "VIGEO EIRIS",
-        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/kutxabank_External%20Review%20Report%20%28Green%29pdf.pdf"
+        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/kutxabank_External%20Review%20Report%20%28Green%29pdf.pdf",
+        "marketInformationDate": "October 2021",
+        "marketInformationLink": "https://www.icmagroup.org/Emails/icma-vcards/Kutxabank_Market%20Information%20Template.pdf"
     },
     {
         "companyName": "KWG Group Holdings Limited",
@@ -2543,7 +2704,9 @@
         "country": "Germany",
         "sector": "Agency",
         "reviewer": "CICERO",
-        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/Rentenbank_External%20Review%20Report.pdf"
+        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/Rentenbank_External%20Review%20Report.pdf",
+        "marketInformationDate": "June 2020",
+        "marketInformationLink": "https://www.icmagroup.org/Emails/icma-vcards/Rentenbank_Market%20Information%20Template.pdf"
     },
     {
         "companyName": "Lantmännen",
@@ -2718,7 +2881,9 @@
         "country": "Japan",
         "sector": "Financial Institution",
         "reviewer": "SUSTAINALYTICS",
-        "reviewLink": "http://www.icmagroup.org/Emails/icma-vcards/Mitsubishi%20UFJ_External%20review%20report.pdf"
+        "reviewLink": "http://www.icmagroup.org/Emails/icma-vcards/Mitsubishi%20UFJ_External%20review%20report.pdf",
+        "marketInformationDate": "September 2016",
+        "marketInformationLink": "http://www.icmagroup.org/Emails/icma-vcards/MUFG%20_Market-information-Template.pdf"
     },
     {
         "companyName": "Mitsubishi UFJ Financial Group (2018)",
@@ -2851,7 +3016,9 @@
         "country": "Finland",
         "sector": "Agency",
         "reviewer": "CICERO",
-        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/Munifin_External%20Review%20Report_Green.pdf"
+        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/Munifin_External%20Review%20Report_Green.pdf",
+        "marketInformationDate": "July 2016",
+        "marketInformationLink": "http://www.icmagroup.org/Emails/icma-vcards/Municipality%20Finance%20plc_Market-Information-template_150916.pdf"
     },
     {
         "companyName": "Nacional Financiera, Sociedad Nacional de Crédito (Nafin)",
@@ -2956,7 +3123,9 @@
         "country": "Japan",
         "sector": "Corporate-Transportation",
         "reviewer": "VIGEO EIRIS",
-        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/NYK_External%20Review%20Report.pdf"
+        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/NYK_External%20Review%20Report.pdf",
+        "marketInformationDate": "May 2018",
+        "marketInformationLink": "https://www.icmagroup.org/Emails/icma-vcards/NYK_Market-Information-Template.pdf"
     },
     {
         "companyName": "Nippon Yusen Kabushikikaisha - NYK Line (transition bonds)",
@@ -2970,7 +3139,9 @@
         "country": "Sweden",
         "sector": "Corporate-Transportation",
         "reviewer": "CICERO",
-        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/Nobina_External%20Review%20Report.pdf"
+        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/Nobina_External%20Review%20Report.pdf",
+        "marketInformationDate": "February 2019",
+        "marketInformationLink": "https://www.icmagroup.org/Emails/icma-vcards/Nobina_Market-Information-Template.pdf"
     },
     {
         "companyName": "Nomura Real Estate Master Fund, Inc. ",
@@ -3012,7 +3183,9 @@
         "country": "Supra-national",
         "sector": "MDB",
         "reviewer": "CICERO",
-        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/NIB_External%20Review%20Report.pdf"
+        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/NIB_External%20Review%20Report.pdf",
+        "marketInformationDate": "February 2022",
+        "marketInformationLink": "https://www.icmagroup.org/Emails/icma-vcards/NIB_Market-Information-Template%202022.pdf"
     },
     {
         "companyName": "Norfolk Southern Corporation",
@@ -3061,56 +3234,72 @@
         "country": "Sweden",
         "sector": "Corporate-Real Estate",
         "reviewer": "CICERO",
-        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/NP3_External%20Review%20Report.pdf"
+        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/NP3_External%20Review%20Report.pdf",
+        "marketInformationDate": "September 2020",
+        "marketInformationLink": "https://www.icmagroup.org/Emails/icma-vcards/NP3_Market_Information_Template.pdf"
     },
     {
         "companyName": "NRW.BANK (2015)",
         "country": "Germany",
         "sector": "Financial Institution",
         "reviewer": "oekom research",
-        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/NRW.BANK_External%20Review%20Report%202015.pdf"
+        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/NRW.BANK_External%20Review%20Report%202015.pdf",
+        "marketInformationDate": "May 2019",
+        "marketInformationLink": "https://www.icmagroup.org/Emails/icma-vcards/NRW.BANK_Market%20Information%20Template%202015.pdf"
     },
     {
         "companyName": "NRW.BANK (2016)",
         "country": "Germany",
         "sector": "Financial Institution",
         "reviewer": "oekom research",
-        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/NRW.BANK_External%20Review%20Report_2016.pdf"
+        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/NRW.BANK_External%20Review%20Report_2016.pdf",
+        "marketInformationDate": "July 2016",
+        "marketInformationLink": "http://www.icmagroup.org/Emails/icma-vcards/NRW.BANK_Market-Information-Template_150916.pdf"
     },
     {
         "companyName": "NRW.BANK (2017)",
         "country": "Germany",
         "sector": "Financial Institution",
         "reviewer": "oekom research",
-        "reviewLink": "http://www.icmagroup.org/Emails/icma-vcards/NRW.BANK_External%20Review%20Report-2017%203108.pdf"
+        "reviewLink": "http://www.icmagroup.org/Emails/icma-vcards/NRW.BANK_External%20Review%20Report-2017%203108.pdf",
+        "marketInformationDate": "August 2017",
+        "marketInformationLink": "http://www.icmagroup.org/Emails/icma-vcards/NRW.Bank_Market-Information-Template_update%202017%203108.pdf"
     },
     {
         "companyName": "NRW.BANK (2018)",
         "country": "Germany",
         "sector": "Financial Institution",
         "reviewer": "oekom research",
-        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/NRW.BANK_External%20Review%20Report-2018.pdf"
+        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/NRW.BANK_External%20Review%20Report-2018.pdf",
+        "marketInformationDate": "July 2018",
+        "marketInformationLink": "https://www.icmagroup.org/Emails/icma-vcards/NRW.Bank_Market-Information-Template_update%202018.pdf"
     },
     {
         "companyName": "NRW.BANK (2019 - May)",
         "country": "Germany",
         "sector": "Financial Institution",
         "reviewer": "ISS-oekom",
-        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/NRW.BANK_External%20Review%20Report-2019.pdf"
+        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/NRW.BANK_External%20Review%20Report-2019.pdf",
+        "marketInformationDate": "May 2019",
+        "marketInformationLink": "https://www.icmagroup.org/Emails/icma-vcards/NRW.BANK_Market%20Information%20Template%20-2019.pdf"
     },
     {
         "companyName": "NRW.BANK (2019 - October)",
         "country": "Germany",
         "sector": "Financial Institution",
         "reviewer": "ISS ESG",
-        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/NRW.BANK_External%20Review%20Report_October%202019.pdf"
+        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/NRW.BANK_External%20Review%20Report_October%202019.pdf",
+        "marketInformationDate": "October 2019",
+        "marketInformationLink": "https://www.icmagroup.org/Emails/icma-vcards/NRW.BANK_Market%20Information%20Template%20October%202019.pdf"
     },
     {
         "companyName": "NRW.BANK (2020)",
         "country": "Germany",
         "sector": "Financial Institution",
         "reviewer": "ISS ESG",
-        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/NRW.BANK_External%20Review%20Report_2020.pdf"
+        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/NRW.BANK_External%20Review%20Report_2020.pdf",
+        "marketInformationDate": "January 2020",
+        "marketInformationLink": "https://www.icmagroup.org/Emails/icma-vcards/NRW.BANK_Market%20Information%20Template%202020.pdf"
     },
     {
         "companyName": "NRW.BANK (2021)",
@@ -3131,14 +3320,18 @@
         "country": "Netherlands",
         "sector": "Financial Institution",
         "reviewer": "CICERO",
-        "reviewLink": "http://www.icmagroup.org/Emails/icma-vcards/NWB_External%20Review%20Report_200916.pdf"
+        "reviewLink": "http://www.icmagroup.org/Emails/icma-vcards/NWB_External%20Review%20Report_200916.pdf",
+        "marketInformationDate": "August 2016",
+        "marketInformationLink": "http://www.icmagroup.org/Emails/icma-vcards/NWB_Market-Information-Template_150916.pdf"
     },
     {
         "companyName": "Obayashi Corporation",
         "country": "Japan",
         "sector": "Corporate-Real Estate",
         "reviewer": "DNV",
-        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/Obayashi_External%20Review%20Report.pdf"
+        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/Obayashi_External%20Review%20Report.pdf",
+        "marketInformationDate": "November 2018",
+        "marketInformationLink": "http://www.icmagroup.org/Emails/icma-vcards/Obayashi_Market-Information-Template.pdf"
     },
     {
         "companyName": "Obvion N.V. (Green Storm 2017)",
@@ -3166,14 +3359,18 @@
         "country": "Sweden",
         "sector": "Corporate-Consumer goods",
         "reviewer": "ISS ESG",
-        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/Odd%20Molly_External%20Review%20Report.pdf"
+        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/Odd%20Molly_External%20Review%20Report.pdf",
+        "marketInformationDate": "September 2021",
+        "marketInformationLink": "https://www.icmagroup.org/Emails/icma-vcards/Odd%20Molly_Market%20Information%20Template.pdf"
     },
     {
         "companyName": "Offentliga Hus",
         "country": "Sweden",
         "sector": "Corporate-Real Estate",
         "reviewer": "CICERO",
-        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/Offentliga%20Hus_External%20Review%20Report.pdf"
+        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/Offentliga%20Hus_External%20Review%20Report.pdf",
+        "marketInformationDate": "August 2019",
+        "marketInformationLink": "https://www.icmagroup.org/Emails/icma-vcards/OffentligaHus_Market%20Information%20Template.pdf"
     },
     {
         "companyName": "Ohio State University",
@@ -3327,7 +3524,9 @@
         "country": "Sweden",
         "sector": "Corporate-Real Estate",
         "reviewer": "CICERO",
-        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/peab_External%20Review%20Report.pdf"
+        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/peab_External%20Review%20Report.pdf",
+        "marketInformationDate": "July 2021",
+        "marketInformationLink": "https://www.icmagroup.org/Emails/icma-vcards/Peab_Market_Information_Template.pdf"
     },
     {
         "companyName": "Penta-Ocean Construction Co., Ltd.",
@@ -3411,14 +3610,18 @@
         "country": "Canada",
         "sector": "Municipal",
         "reviewer": "CICERO",
-        "reviewLink": "http://www.icmagroup.org/Emails/icma-vcards/Province%20of%20Ontario%20-%20External%20Review%20Report_011216.pdf"
+        "reviewLink": "http://www.icmagroup.org/Emails/icma-vcards/Province%20of%20Ontario%20-%20External%20Review%20Report_011216.pdf",
+        "marketInformationDate": "November 2016",
+        "marketInformationLink": "http://www.icmagroup.org/Emails/icma-vcards/Province%20of%20Ontario%20-%20Market%20Information%20Template_011216.pdf"
     },
     {
         "companyName": "Province of Québec",
         "country": "Canada",
         "sector": "Municipal",
         "reviewer": "CICERO",
-        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/Quebec_External%20Review%20Report%20%282%29.pdf"
+        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/Quebec_External%20Review%20Report%20%282%29.pdf",
+        "marketInformationDate": "October 2018",
+        "marketInformationLink": "http://www.icmagroup.org/Emails/icma-vcards/Quebec_Market-Information-Template.pdf"
     },
     {
         "companyName": "Provincia de Jujuy",
@@ -3432,14 +3635,18 @@
         "country": "Indonesia",
         "sector": "Corporate-Infrastructure",
         "reviewer": "CICERO",
-        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/PTSMI_External%20Review%20Report.pdf"
+        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/PTSMI_External%20Review%20Report.pdf",
+        "marketInformationDate": "May 2018",
+        "marketInformationLink": "https://www.icmagroup.org/Emails/icma-vcards/PT%20SMI_Market%20Information%20Template.pdf"
     },
     {
         "companyName": "PTT Public Company Limited",
         "country": "Thailand",
         "sector": "Corporate-Energy",
         "reviewer": "DNV GL",
-        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/PTT_External%20Review%20Report.pdf"
+        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/PTT_External%20Review%20Report.pdf",
+        "marketInformationDate": "July 2020",
+        "marketInformationLink": "https://www.icmagroup.org/Emails/icma-vcards/PTT_Market%20Information%20Template.pdf"
     },
     {
         "companyName": "QuadReal",
@@ -3453,7 +3660,9 @@
         "country": "Netherlands",
         "sector": "Financial Institution",
         "reviewer": "SUSTAINALYTICS",
-        "reviewLink": "http://www.icmagroup.org/Emails/icma-vcards/Rabobank_External%20Review%20report.pdf"
+        "reviewLink": "http://www.icmagroup.org/Emails/icma-vcards/Rabobank_External%20Review%20report.pdf",
+        "marketInformationDate": "September 2016",
+        "marketInformationLink": "http://www.icmagroup.org/Emails/icma-vcards/Rabobank_Market-Information-Template.pdf"
     },
     {
         "companyName": "Raiffeisen Bank Czech Republic",
@@ -3587,14 +3796,18 @@
         "country": "Spain",
         "sector": "Corporate-Energy",
         "reviewer": "VIGEO EIRIS",
-        "reviewLink": "http://www.icmagroup.org/Emails/icma-vcards/Repsol_External%20Review%20Report.pdf"
+        "reviewLink": "http://www.icmagroup.org/Emails/icma-vcards/Repsol_External%20Review%20Report.pdf",
+        "marketInformationDate": "July 2017",
+        "marketInformationLink": "http://www.icmagroup.org/Emails/icma-vcards/Repsol_%20Market%20Information%20Template.pdf"
     },
     {
         "companyName": "Republic and Canton of Geneva",
         "country": "Switzerland",
         "sector": "Municipal",
         "reviewer": "VIGEO EIRIS",
-        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/Geneva_External%20Review%20Report.pdf"
+        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/Geneva_External%20Review%20Report.pdf",
+        "marketInformationDate": "October 2019",
+        "marketInformationLink": "https://www.icmagroup.org/Emails/icma-vcards/Geneva_Market%20Information%20Template.pdf"
     },
     {
         "companyName": "Republic of Chile",
@@ -3615,7 +3828,9 @@
         "country": "France",
         "sector": "Sovereign",
         "reviewer": "VIGEO EIRIS",
-        "reviewLink": "http://www.icmagroup.org/Emails/icma-vcards/France_External%20Review%20Report.PDF"
+        "reviewLink": "http://www.icmagroup.org/Emails/icma-vcards/France_External%20Review%20Report.PDF",
+        "marketInformationDate": "February 2018",
+        "marketInformationLink": "https://www.icmagroup.org/Emails/icma-vcards/AFT_Market-Information-Template.pdf"
     },
     {
         "companyName": "Republic of France (2018 update)",
@@ -3783,7 +3998,9 @@
         "country": "Finland",
         "sector": "Corporate-Real Estate",
         "reviewer": "CICERO",
-        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/SATO_External%20Review%20Report.pdf"
+        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/SATO_External%20Review%20Report.pdf",
+        "marketInformationDate": "March 2020",
+        "marketInformationLink": "https://www.icmagroup.org/Emails/icma-vcards/SATO_Market_Information_Template.pdf"
     },
     {
         "companyName": "Saudi Electricity ",
@@ -3799,7 +4016,13 @@
         "reviewer": "CICERO",
         "reviewLink": "http://www.icmagroup.org/Emails/icma-vcards/SBAB%20Bank_External%20Review%20Report.pdf"
     },
-    { "companyName": "Scatec ASA", "country": "Norway", "sector": "Corporate-Infrastructure", "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/Scatec_Market%20Information%20Template.pdf" },
+    {
+        "companyName": "Scatec ASA",
+        "country": "Norway",
+        "sector": "Corporate-Infrastructure",
+        "marketInformationDate": "February 2021",
+        "marketInformationLink": "https://www.icmagroup.org/Emails/icma-vcards/Scatec_Market%20Information%20Template.pdf"
+    },
     {
         "companyName": "Scatec Solar ASA",
         "country": "Norway",
@@ -3868,7 +4091,9 @@
         "country": "France",
         "sector": "Agency",
         "reviewer": "SUSTAINALYTICS",
-        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/SFIL_External%20Review%20Report_Green_2019.pdf"
+        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/SFIL_External%20Review%20Report_Green_2019.pdf",
+        "marketInformationDate": "October 2019",
+        "marketInformationLink": "https://www.icmagroup.org/Emails/icma-vcards/SFIL_Market%20Information%20Template_Green.pdf"
     },
     {
         "companyName": "SHIMIZU CORPORATION",
@@ -3896,14 +4121,18 @@
         "country": "Singapore",
         "sector": "Corporate-Energy",
         "reviewer": "SUSTAINALYTICS",
-        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/Sindicatum_External%20Review%20Report.pdf"
+        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/Sindicatum_External%20Review%20Report.pdf",
+        "marketInformationDate": "November 2017",
+        "marketInformationLink": "https://www.icmagroup.org/Emails/icma-vcards/Sindicatum_Market%20Information%20Template.pdf"
     },
     {
         "companyName": "Skandinaviska Enskilda Banken (SEB)",
         "country": "Sweden",
         "sector": "Financial Institution",
         "reviewer": "CICERO/ENSO",
-        "reviewLink": "http://www.icmagroup.org/Emails/icma-vcards/SEB_External%20Review%20Report.pdf"
+        "reviewLink": "http://www.icmagroup.org/Emails/icma-vcards/SEB_External%20Review%20Report.pdf",
+        "marketInformationDate": "March 2017",
+        "marketInformationLink": "http://www.icmagroup.org/Emails/icma-vcards/SEB_Market%20Information%20Template.pdf"
     },
     {
         "companyName": "Skanska",
@@ -4009,13 +4238,16 @@
         "country": "Sweden",
         "sector": "Financial Institution",
         "reviewer": "CICERO",
-        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/Sparbanken%20Skane_External%20Review%20Report.pdf"
+        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/Sparbanken%20Skane_External%20Review%20Report.pdf",
+        "marketInformationDate": "September 2019",
+        "marketInformationLink": "https://www.icmagroup.org/Emails/icma-vcards/Sparbanken%20Skane_Market%20Information%20Template.pdf"
     },
     {
         "companyName": "Sparbanken Västra Mälardalen",
         "country": "Sweden",
         "sector": "Financial Institution",
-        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/Sparbanken%20V%C3%A4stra%20M%C3%A4lardalen_Market_Information_Template.pdf"
+        "marketInformationDate": "October 2021",
+        "marketInformationLink": "https://www.icmagroup.org/Emails/icma-vcards/Sparbanken%20V%C3%A4stra%20M%C3%A4lardalen_Market_Information_Template.pdf"
     },
     {
         "companyName": "SpareBank 1 Boligkreditt ",
@@ -4029,7 +4261,9 @@
         "country": "Norway",
         "sector": "Financial Institution",
         "reviewer": "CICERO",
-        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/SSF_External%20Review%20Report.pdf"
+        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/SSF_External%20Review%20Report.pdf",
+        "marketInformationDate": "December 2019",
+        "marketInformationLink": "https://www.icmagroup.org/Emails/icma-vcards/SSF_Market%20Information%20Template.pdf"
     },
     {
         "companyName": "Sparebanken Vest",
@@ -4058,7 +4292,9 @@
         "country": "Germany",
         "sector": "Municipal",
         "reviewer": "VIGEO EIRIS",
-        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/State%20of%20Baden-Wurttemberg_External%20Review%20Report%202021.pdf"
+        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/State%20of%20Baden-Wurttemberg_External%20Review%20Report%202021.pdf",
+        "marketInformationDate": "February 2021",
+        "marketInformationLink": "https://www.icmagroup.org/Emails/icma-vcards/State%20of%20Baden-W%C3%BCrttemberg_Market%20Information%20Template.pdf"
     },
     {
         "companyName": "State of Connecticut",
@@ -4087,7 +4323,9 @@
         "country": "Sweden",
         "sector": "Municipal",
         "reviewer": "CICERO",
-        "reviewLink": "http://www.icmagroup.org/Emails/icma-vcards/SCC_External%20Review%20report_150916.pdf"
+        "reviewLink": "http://www.icmagroup.org/Emails/icma-vcards/SCC_External%20Review%20report_150916.pdf",
+        "marketInformationDate": "September 2016",
+        "marketInformationLink": "http://www.icmagroup.org/Emails/icma-vcards/SCC_Market-Information-Template_150916.pdf"
     },
     {
         "companyName": "Stockholm Exergi",
@@ -4150,7 +4388,9 @@
         "country": "Norway",
         "sector": "Financial Institution",
         "reviewer": "CICERO",
-        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/Sunndal%20Sparebank_External%20Review%20Report.pdf"
+        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/Sunndal%20Sparebank_External%20Review%20Report.pdf",
+        "marketInformationDate": "December 2019",
+        "marketInformationLink": "https://www.icmagroup.org/Emails/icma-vcards/Sunndal_Market%20Information%20Template.pdf"
     },
     {
         "companyName": "Sunrun Inc. ",
@@ -4178,14 +4418,18 @@
         "country": "Sweden",
         "sector": "Corporate-Transportation",
         "reviewer": "CICERO",
-        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/swedavia_External%20Review%20Report.pdf"
+        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/swedavia_External%20Review%20Report.pdf",
+        "marketInformationDate": "September 2019",
+        "marketInformationLink": "https://www.icmagroup.org/Emails/icma-vcards/Swedavia_Market%20Information%20Template.pdf"
     },
     {
         "companyName": "Swedbank AB",
         "country": "Sweden",
         "sector": "Financial Institution",
         "reviewer": "DNV",
-        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/Swedbank_External%20Review%20Report.docx.pdf"
+        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/Swedbank_External%20Review%20Report.docx.pdf",
+        "marketInformationDate": "October 2017",
+        "marketInformationLink": "https://www.icmagroup.org/Emails/icma-vcards/Swedbank_Market%20Information%20Template.pdf"
     },
     {
         "companyName": "Swedish Export Credit (SEK)",
@@ -4256,7 +4500,9 @@
         "country": "US",
         "sector": "Agency",
         "reviewer": "SUSTAINALYTICS",
-        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/TVA_External%20Review%20Report.pdf"
+        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/TVA_External%20Review%20Report.pdf",
+        "marketInformationDate": "September 2021",
+        "marketInformationLink": "https://www.icmagroup.org/Emails/icma-vcards/TVA_Market%20Information%20Template.pdf"
     },
     {
         "companyName": "TenneT (2016)",
@@ -4516,7 +4762,9 @@
         "country": "Sweden",
         "sector": "Financial Institution",
         "reviewer": "CICERO",
-        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/Varbergs%20Sparbank_External%20Review%20Report.pdf"
+        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/Varbergs%20Sparbank_External%20Review%20Report.pdf",
+        "marketInformationDate": "September 2021",
+        "marketInformationLink": "https://www.icmagroup.org/Emails/icma-vcards/Varbergs%20Sparbank_Market_Information_Template.pdf"
     },
     {
         "companyName": "Vasakronan",
@@ -4581,13 +4829,21 @@
         "reviewer": "SUSTAINALYTICS",
         "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/Vesteda_External%20Review%20Report.pdf"
     },
-    { "companyName": "Vestel", "country": "Turkey", "sector": "Corporate-Technology", "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/Vestel_Market%20Information%20Template.pdf" },
+    {
+        "companyName": "Vestel",
+        "country": "Turkey",
+        "sector": "Corporate-Technology",
+        "marketInformationDate": "June 2020",
+        "marketInformationLink": "https://www.icmagroup.org/Emails/icma-vcards/Vestel_Market%20Information%20Template.pdf"
+    },
     {
         "companyName": "VGP NV",
         "country": "Belgium",
         "sector": "Corporate-Real Estate",
         "reviewer": "CICERO",
-        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/VGP_External%20Review%20Report.pdf"
+        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/VGP_External%20Review%20Report.pdf",
+        "marketInformationDate": "March 2021",
+        "marketInformationLink": "https://www.icmagroup.org/Emails/icma-vcards/VGP_Market%20Information%20Template.pdf"
     },
     {
         "companyName": "Vía Célere SL",
@@ -4699,7 +4955,9 @@
         "country": "Sweden",
         "sector": "Corporate-Real Estate",
         "reviewer": "CICERO",
-        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/wastbygg_External%20Review%20Report.pdf"
+        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/wastbygg_External%20Review%20Report.pdf",
+        "marketInformationDate": "May 2021",
+        "marketInformationLink": "https://www.icmagroup.org/Emails/icma-vcards/W%C3%A4stbygg%20Market_Information_Template.pdf"
     },
     {
         "companyName": "Water Wheel Green Securities Corporation B.V.",
@@ -4741,7 +4999,9 @@
         "country": "Supra-national",
         "sector": "MDB",
         "reviewer": "CICERO",
-        "reviewLink": "http://www.icmagroup.org/Emails/icma-vcards/World%20Bank%20%28IBRD%29_External%20Review%20report.pdf"
+        "reviewLink": "http://www.icmagroup.org/Emails/icma-vcards/World%20Bank%20%28IBRD%29_External%20Review%20report.pdf",
+        "marketInformationDate": "September 2016",
+        "marketInformationLink": "http://www.icmagroup.org/Emails/icma-vcards/World%20Bank%20%28IBRD%29_Market-Information-Template%20210916.pdf"
     },
     {
         "companyName": "Wuhan Metro Group Co., Ltd.",
@@ -4776,7 +5036,9 @@
         "country": "India",
         "sector": "Financial Institution",
         "reviewer": "KPMG",
-        "reviewLink": "http://www.icmagroup.org/Emails/icma-vcards/YES%20BANK-%20External%20Review%20report_101116.pdf"
+        "reviewLink": "http://www.icmagroup.org/Emails/icma-vcards/YES%20BANK-%20External%20Review%20report_101116.pdf",
+        "marketInformationDate": "September 2016",
+        "marketInformationLink": "http://www.icmagroup.org/Emails/icma-vcards/YES%20BANK-Market-Information-Template_101116.pdf"
     },
     {
         "companyName": "Ygrene Energy Fund",
@@ -4804,7 +5066,9 @@
         "country": "Switzerland",
         "sector": "Financial Institution",
         "reviewer": "oekom research",
-        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/ZKB_External%20Review%20Report.pdf"
+        "reviewLink": "https://www.icmagroup.org/Emails/icma-vcards/ZKB_External%20Review%20Report.pdf",
+        "marketInformationDate": "April 2018",
+        "marketInformationLink": "https://www.icmagroup.org/Emails/icma-vcards/ZKB_Market-Information-Template.pdf"
     },
     {
         "companyName": "Zürcher Kantonalbank (2019)",

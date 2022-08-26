@@ -36,7 +36,8 @@ exports.Schemas = {
             sector: joi_1.default.string().required(),
             reviewer: joi_1.default.string().required(),
             reviewLink: joi_1.default.string(),
-            wordCount: joi_1.default.number()
+            marketInformationDate: joi_1.default.string(),
+            marketInformationLink: joi_1.default.string()
         }),
         update: joi_1.default.object({
             companyName: joi_1.default.string().required(),
@@ -44,7 +45,8 @@ exports.Schemas = {
             sector: joi_1.default.string().required(),
             reviewer: joi_1.default.string().required(),
             reviewLink: joi_1.default.string(),
-            wordCount: joi_1.default.number()
+            marketInformationDate: joi_1.default.string(),
+            marketInformationLink: joi_1.default.string()
         })
     }
 };

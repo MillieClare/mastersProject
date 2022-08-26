@@ -30,7 +30,8 @@ const CompanySchema = new mongoose_1.Schema({
     sector: { type: String, required: true },
     reviewer: { type: String, required: true },
     reviewLink: { type: String, required: false },
-    wordCount: { type: Number, required: false }
+    marketInformationDate: { type: String, required: false },
+    marketInformationLink: { type: String, required: false }
 }, {
     versionKey: false // don't need to return the version key variable provided by mongo
 });

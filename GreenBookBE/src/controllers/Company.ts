@@ -1,10 +1,9 @@
 import { NextFunction, Request, Response } from 'express';
 import mongoose from 'mongoose';
-import { isJSDocAuthorTag } from 'typescript';
 import Company from '../models/Company';
 
 const createCompany = (req: Request, res: Response, next: NextFunction) => {
-  const { companyName, country, sector, reviewer, reviewLink, wordCount } = req.body;
+  const { companyName, country, sector, reviewer, reviewLink, marketInformationDate, marketInformationLink } = req.body;
 
   const company = new Company({
     _id: new mongoose.Types.ObjectId(),
@@ -13,7 +12,8 @@ const createCompany = (req: Request, res: Response, next: NextFunction) => {
     sector,
     reviewer,
     reviewLink,
-    wordCount
+    marketInformationDate,
+    marketInformationLink
   });
 
   return company
