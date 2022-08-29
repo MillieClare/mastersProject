@@ -2,24 +2,10 @@ const pdfjsLib = require('pdfjs-dist');
 const fs = require('fs');
 const http = require('http');
 const https = require('https');
-const stopwords = require('stopwords-en');
 const natural = require('natural');
 
 const filesToRead = fs.readdirSync('../../assets/files/corpus');
-const pdfsAsJson = require('../excel_pdfs/ICMA-Sustainable-Bonds-Database-110322.json');
-
-const getPdfs = (pdfs: []) => {
-  pdfs.forEach((pdf: any) => {
-    if (pdf.hasOwnProperty('External_Review_Report_Hyperlink_1') || pdf.hasOwnProperty('External_Review_Report_Hyperlink')) {
-      const fileName = pdf.Green_Bond_Issuer;
-      const fileLink = pdf.External_Review_Report_Hyperlink_1 || pdf.External_Review_Report_Hyperlink;
-
-      downloadPdfs(fileLink, fileName);
-    }
-  });
-};
-
-getPdfs(pdfsAsJson);
+const pdfsAsJson = require('../../assets/files/json/ICMA-Sustainable-Bonds-Database-110322.json');
 
 const downloadPdfs = (fileUrl: string, fileName: string) => {
   fileName = fileName.replace(/[^a-zA-Z0-9-().]/g, '');
@@ -47,6 +33,17 @@ const downloadPdfs = (fileUrl: string, fileName: string) => {
   } else {
     console.log('Error, file is neither http or https', fileName);
   }
+};
+
+const getPdfs = (pdfs: []) => {
+  pdfs.forEach((pdf: any) => {
+    if (pdf.hasOwnProperty('External_Review_Report_Hyperlink_1') || pdf.hasOwnProperty('External_Review_Report_Hyperlink')) {
+      const fileName = pdf.Green_Bond_Issuer;
+      const fileLink = pdf.External_Review_Report_Hyperlink_1 || pdf.External_Review_Report_Hyperlink;
+
+      downloadPdfs(fileLink, fileName);
+    }
+  });
 };
 
 const pdfToText = async (url: string, separator = ' ') => {
@@ -82,29 +79,18 @@ const pdfToText = async (url: string, separator = ' ') => {
   });
 };
 
-const removeStopwords = (text: string) => {
-  const res = [];
-  const words = text.split(' ');
-  for (let i = 0; i < words.length; i++) {
-    let checkWord = words[i].split('.').join('');
-    if (!stopwords.includes(checkWord)) {
-      res.push(checkWord);
-    }
-  }
-  return res.join(' ');
-};
-
-const updateTextFiles = (listOfFiles: string[]) => {
-  listOfFiles.forEach((file) => {
-    pdfToText(`../../assets/files/corpus/${file}`).then(
+const updateTextFiles = (listOfFiles: []) => {
+  listOfFiles.forEach((file: any) => {
+    console.log(file);
+    file = file.split('.')[0];
+    file = `../../assets/files/corpus/${file}.pdf`;
+    pdfToText(file).then(
       function (pdfTexts) {
-        const txtFileName = file.split('.')[0];
-        pdfTexts = pdfTexts.toString();
-
-        pdfTexts = removeStopwords(pdfTexts);
-        // pdfTexts = stemOutput(pdfTexts);
-
-        fs.writeFile(`../fileOutputs/${txtFileName}.txt`, pdfTexts.toString(), (err: string) => {
+        console.log('-------------------------------------------', file);
+        pdfTexts = pdfTexts.join(' ');
+        const regex = /[^A-Za-z0-9]/g;
+        pdfTexts = pdfTexts.replace(regex, ' ');
+        fs.writeFile(`../fileOutputs/${file}.txt`, pdfTexts.toString(), (err: any) => {
           if (err) {
             console.error(err);
             return;
@@ -117,6 +103,9 @@ const updateTextFiles = (listOfFiles: string[]) => {
     );
   });
 };
+
+// getPdfs(pdfsAsJson);
+updateTextFiles(filesToRead);
 
 module.exports = {
   getPdfs,

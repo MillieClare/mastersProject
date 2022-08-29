@@ -8,57 +8,52 @@ var __awaiter = (this && this.__awaiter) || function (thisArg, _arguments, P, ge
         step((generator = generator.apply(thisArg, _arguments || [])).next());
     });
 };
-const pdfjsLib = require("pdfjs-dist");
-const fs = require("fs");
-const http = require("http");
-const https = require("https");
-const stopwords = require("stopwords-en");
-const natural = require("natural");
-// const filesToRead = fs.readdirSync("../../assets/corpus");
-const filesToRead = fs.readdirSync("../../assets/files/corpus");
-const pdfsAsJson = require("../excel_pdfs/ICMA-Sustainable-Bonds-Database-110322.json");
-const getPdfs = (pdfs) => {
-    pdfs.forEach((pdf) => {
-        if (pdf.hasOwnProperty("External_Review_Report_Hyperlink_1") ||
-            pdf.hasOwnProperty("External_Review_Report_Hyperlink")) {
-            const fileName = pdf.Green_Bond_Issuer;
-            const fileLink = pdf.External_Review_Report_Hyperlink_1 ||
-                pdf.External_Review_Report_Hyperlink;
-            downloadPdfs(fileLink, fileName);
-        }
-    });
-};
-getPdfs(pdfsAsJson);
+const pdfjsLib = require('pdfjs-dist');
+const fs = require('fs');
+const http = require('http');
+const https = require('https');
+const natural = require('natural');
+const filesToRead = fs.readdirSync('../../assets/files/corpus');
+const pdfsAsJson = require('../../assets/files/json/ICMA-Sustainable-Bonds-Database-110322.json');
 const downloadPdfs = (fileUrl, fileName) => {
-    fileName = fileName.replace(/[^a-zA-Z0-9-().]/g, "");
-    const isHttp = fileUrl.split(":");
-    if (isHttp[0] === "http") {
+    fileName = fileName.replace(/[^a-zA-Z0-9-().]/g, '');
+    const isHttp = fileUrl.split(':');
+    if (isHttp[0] === 'http') {
         http.get(fileUrl, (res) => {
             const path = `../../assets/files/corpus/${fileName}.pdf`;
             const writeStream = fs.createWriteStream(path);
             res.pipe(writeStream);
-            writeStream.on("finish", () => {
+            writeStream.on('finish', () => {
                 writeStream.close();
-                console.log("------------Download Completed!");
+                console.log('------------Download Completed!');
             });
         });
     }
-    else if (isHttp[0] === "https") {
+    else if (isHttp[0] === 'https') {
         https.get(fileUrl, (res) => {
             const path = `../../assets/files/corpus/${fileName}.pdf`;
             const writeStream = fs.createWriteStream(path);
             res.pipe(writeStream);
-            writeStream.on("finish", () => {
+            writeStream.on('finish', () => {
                 writeStream.close();
-                console.log("------------Download Completed!");
+                console.log('------------Download Completed!');
             });
         });
     }
     else {
-        console.log("Error, file is neither http or https", fileName);
+        console.log('Error, file is neither http or https', fileName);
     }
 };
-const pdfToText = (url, separator = " ") => __awaiter(void 0, void 0, void 0, function* () {
+const getPdfs = (pdfs) => {
+    pdfs.forEach((pdf) => {
+        if (pdf.hasOwnProperty('External_Review_Report_Hyperlink_1') || pdf.hasOwnProperty('External_Review_Report_Hyperlink')) {
+            const fileName = pdf.Green_Bond_Issuer;
+            const fileLink = pdf.External_Review_Report_Hyperlink_1 || pdf.External_Review_Report_Hyperlink;
+            downloadPdfs(fileLink, fileName);
+        }
+    });
+};
+const pdfToText = (url, separator = ' ') => __awaiter(void 0, void 0, void 0, function* () {
     let pdf = pdfjsLib.getDocument(url);
     return pdf.promise.then(function (pdf) {
         // get all pages text
@@ -82,7 +77,7 @@ const pdfToText = (url, separator = " ") => __awaiter(void 0, void 0, void 0, fu
         // wait for all pages and join text
         return Promise.all(countPromises).then(function (texts) {
             for (let i = 0; i < texts.length; i++) {
-                texts[i] = texts[i].replace(/\s+/g, " ").trim();
+                texts[i] = texts[i].replace(/\s+/g, ' ').trim();
             }
             return texts;
         });
@@ -90,14 +85,15 @@ const pdfToText = (url, separator = " ") => __awaiter(void 0, void 0, void 0, fu
 });
 const updateTextFiles = (listOfFiles) => {
     listOfFiles.forEach((file) => {
-        pdfToText(`../../assets/files/corpus/${file}`).then(function (pdfTexts) {
-            const txtFileName = file.split(".")[0];
-            pdfTexts = pdfTexts.toString();
-            // console.log(countWords(pdfTexts));
-            // pdfTexts = removeStopwords(pdfTexts);
-            // pdfTexts = stemOutput(pdfTexts);
-            // console.log(pdfTexts);
-            fs.writeFile(`../fileOutputs/${txtFileName}.txt`, pdfTexts.toString(), (err) => {
+        console.log(file);
+        file = file.split('.')[0];
+        file = `../../assets/files/corpus/${file}.pdf`;
+        pdfToText(file).then(function (pdfTexts) {
+            console.log('-------------------------------------------', file);
+            pdfTexts = pdfTexts.join(' ');
+            const regex = /[^A-Za-z0-9]/g;
+            pdfTexts = pdfTexts.replace(regex, ' ');
+            fs.writeFile(`../fileOutputs/${file}.txt`, pdfTexts.toString(), (err) => {
                 if (err) {
                     console.error(err);
                     return;
@@ -108,9 +104,11 @@ const updateTextFiles = (listOfFiles) => {
         });
     });
 };
+// getPdfs(pdfsAsJson);
+updateTextFiles(filesToRead);
 module.exports = {
     getPdfs,
     downloadPdfs,
     updateTextFiles,
-    pdfToText,
+    pdfToText
 };

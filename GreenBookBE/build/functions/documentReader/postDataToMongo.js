@@ -1,4 +1,4 @@
-'use strict';
+"use strict";
 const jsonToPush = require('./JSON_for_mongo.json');
 const XMLHttpRequest = require('xmlhttprequest').XMLHttpRequest;
 const postDataToMongo = (companies) => {
