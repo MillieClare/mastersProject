@@ -26,7 +26,7 @@ const countWordFrequency = (filesToRead: any) => {
         }
       }
     }
-    console.log(maxValues(result, 5));
+    console.log(maxValues(result, 6));
   });
   return wordFrequenciesPerDocument;
 };
@@ -52,7 +52,7 @@ function maxValues(o: any, n: number) {
       .filter((key, index) => index < max)
       .map((key) => ({ [key]: obj[key] }));
 
-  return cutObject(resultsSorted, 5);
+  return cutObject(resultsSorted, 6);
 }
 
 countWordFrequency(filesToRead);

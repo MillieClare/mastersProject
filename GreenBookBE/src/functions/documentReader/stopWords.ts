@@ -1706,8 +1706,7 @@ const stopWords = [
   '2021a',
   '7',
   '13',
-  'sdg',
-  ''
+  'sdg'
 ];
 
 export default stopWords;
