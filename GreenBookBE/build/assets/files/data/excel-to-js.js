@@ -2,7 +2,7 @@ const XLSX = require('xlsx');
 const fs = require('fs');
 
 // const worksheet = XLSX.readFile('./ICMA-Sustainable-Bonds-Database-110322.xlsx');
-const worksheet = XLSX.readFile('./ICMA-Sustainable-Bonds-Database-110322.xlsx');
+const worksheet = XLSX.readFile('./ICMA-Sustainable-Bonds-Database-030822.xlsx');
 
 firstSheet = worksheet.Sheets['Green Bonds Issuers'];
 
@@ -37,12 +37,12 @@ for (cell in firstSheet) {
         ], {
             origin: 'H' + cellNumber
         });
-    } else if (cellSplit[0] == 'E') {
-        XLSX.utils.sheet_add_aoa(firstSheet, [
-            [hyperLink]
-        ], {
-            origin: 'I' + cellNumber
-        });
+        // } else if (cellSplit[0] == 'E') {
+        //     XLSX.utils.sheet_add_aoa(firstSheet, [
+        //         [hyperLink]
+        //     ], {
+        //         origin: 'I' + cellNumber
+        //     });
     } else if (cellSplit[0] == 'F') {
         XLSX.utils.sheet_add_aoa(firstSheet, [
             [hyperLink]
@@ -54,7 +54,7 @@ for (cell in firstSheet) {
 
 const jsa = XLSX.utils.sheet_to_json(firstSheet, { range: 1 });
 
-fs.writeFile(`../json/ICMA-Sustainable-Bonds-Database-110322.json`, JSON.stringify(jsa), (err) => {
+fs.writeFile(`../json/ICMA-Sustainable-Bonds-Database-030822.json`, JSON.stringify(jsa), (err) => {
     if (err) {
         console.error(err);
         return;

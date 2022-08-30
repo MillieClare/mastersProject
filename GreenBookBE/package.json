@@ -30,7 +30,7 @@
         "mongoose": "^6.5.2",
         "natural": "^5.2.3",
         "nodemon": "^2.0.19",
-        "pdfjs-dist": "^2.15.349",
+        "pdfjs-dist": "^2.7.570",
         "prettier": "^2.7.1",
         "remove-stopwords": "^1.0.3",
         "stopwords-en": "^0.3.0",

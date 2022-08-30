@@ -1,7 +1,7 @@
 import fs from 'fs';
 import path from 'path';
 
-import jsonFiles from '../../assets/files/json/ICMA-Sustainable-Bonds-Database-110322.json';
+import jsonFiles from '../../assets/files/json/ICMA-Sustainable-Bonds-Database-030822.json';
 const filesToRead = fs.readdirSync(path.resolve(__dirname, '../../assets/files/fileOutputs'));
 
 export const gatherDataBaseData = (companies: Record<string, any>) => {

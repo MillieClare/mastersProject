@@ -37,9 +37,9 @@ const downloadPdfs = (fileUrl: string, fileName: string) => {
 
 const getPdfs = (pdfs: []) => {
   pdfs.forEach((pdf: any) => {
-    if (pdf.hasOwnProperty('External_Review_Report_Hyperlink_1') || pdf.hasOwnProperty('External_Review_Report_Hyperlink')) {
+    if (pdf.hasOwnProperty('External_Review_Report_Hyperlink_1')) {
       const fileName = pdf.Green_Bond_Issuer;
-      const fileLink = pdf.External_Review_Report_Hyperlink_1 || pdf.External_Review_Report_Hyperlink;
+      const fileLink = pdf.External_Review_Report_Hyperlink_1;
 
       downloadPdfs(fileLink, fileName);
     }
@@ -47,7 +47,7 @@ const getPdfs = (pdfs: []) => {
 };
 
 const pdfToText = async (url: string, separator = ' ') => {
-  let pdf = pdfjsLib.getDocument(url);
+  let pdf = pdfjsLib.getDocument({ url: url });
   return pdf.promise.then(function (pdf: any) {
     // get all pages text
     let maxPages = pdf._pdfInfo.numPages;
@@ -81,19 +81,20 @@ const pdfToText = async (url: string, separator = ' ') => {
 
 const updateTextFiles = (listOfFiles: []) => {
   listOfFiles.forEach((file: any) => {
-    console.log(file);
-    file = file.split('.')[0];
-    file = `../../assets/files/corpus/${file}.pdf`;
-    pdfToText(file).then(
+    file = file.split('.pdf')[0];
+    const fileToRead = `../../assets/files/corpus/${file}.pdf`;
+    pdfToText(fileToRead).then(
       function (pdfTexts) {
-        console.log('-------------------------------------------', file);
         pdfTexts = pdfTexts.join(' ');
         const regex = /[^A-Za-z0-9]/g;
         pdfTexts = pdfTexts.replace(regex, ' ');
-        fs.writeFile(`../fileOutputs/${file}.txt`, pdfTexts.toString(), (err: any) => {
+        fs.writeFile(`../../assets/files/fileOutputs/${file}.txt`, pdfTexts.toString(), (err: any) => {
           if (err) {
             console.error(err);
+            console.log('THIS IS AN ERROR FILE DID NOT WRITE');
             return;
+          } else {
+            console.log('FILE DID WRITE');
           }
         });
       },

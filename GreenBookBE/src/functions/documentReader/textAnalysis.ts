@@ -1,20 +1,20 @@
 import fs from 'fs';
-import { any } from 'joi';
 import path from 'path';
 import stopWords from './stopWords';
 
 const filesToRead = fs.readdirSync(path.resolve(__dirname, '../../assets/files/fileOutputs'));
+import jsonFiles from '../../assets/files/json/ICMA-Sustainable-Bonds-Database-030822.json';
 
 const countWordFrequency = (filesToRead: any) => {
+  let counter: number = 0;
   const wordFrequenciesPerDocument = filesToRead.map((element: any) => {
-    // const result = numberOfWords(element);
-    // console.log(result);
     const elementContents = fs.readFileSync(`../../assets/files/fileOutputs/${element}`, 'utf-8');
-    // const elementContents = fs.readFileSync(`../../assets/files/fileOutputs/ABANCACorporacinBancariaS.txt`, 'utf-8');
+
+    const companyName = element.split('.')[0];
 
     const elementTextToLowercase = elementContents.toLowerCase();
     const regex = /[^A-Za-z0-9]/g;
-    const result = elementTextToLowercase
+    let result = elementTextToLowercase
       .replace(regex, ' ')
       .split(/\s/)
       .reduce((map: any, word: string) => Object.assign(map, { [word]: map[word] ? map[word] + 1 : 1 }), {});
@@ -26,8 +26,14 @@ const countWordFrequency = (filesToRead: any) => {
         }
       }
     }
-    console.log(maxValues(result, 6));
+    result = maxValues(result, 6);
+    result.companyName = jsonFiles[counter].Green_Bond_Issuer;
+    result.fileName = companyName;
+    counter++;
+
+    return result;
   });
+  console.log(wordFrequenciesPerDocument);
   return wordFrequenciesPerDocument;
 };
 
@@ -55,4 +61,17 @@ function maxValues(o: any, n: number) {
   return cutObject(resultsSorted, 6);
 }
 
-countWordFrequency(filesToRead);
+// map company name to JSON object
+
+const joinData = (wordData: any, companyJson: Record<string, any>) => {
+  // const dataStuff = wordData.map((element: any) => {
+  //   if(wordData.companyName === companyJson.) {
+
+  console.log('---------------', wordData);
+  //   }
+  // });
+};
+
+// countWordFrequency(filesToRead);
+
+joinData(countWordFrequency(filesToRead), jsonFiles);

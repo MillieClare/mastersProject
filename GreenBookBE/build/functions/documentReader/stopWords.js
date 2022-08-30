@@ -1644,7 +1644,6 @@ const stopWords = [
     '2017',
     'appendix',
     'evidence',
-    '2017',
     'hanjin',
     'wilshire',
     'grand',
@@ -1708,6 +1707,8 @@ const stopWords = [
     '2021a',
     '7',
     '13',
-    ''
+    'sdg',
+    '8',
+    'ebce'
 ];
 exports.default = stopWords;
