@@ -1,5 +1,5 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
+'use strict';
+Object.defineProperty(exports, '__esModule', { value: true });
 const stopWords = [
     '',
     "'ll",
@@ -1709,6 +1709,7 @@ const stopWords = [
     '13',
     'sdg',
     '8',
-    'ebce'
+    'ebce',
+    '15'
 ];
 exports.default = stopWords;

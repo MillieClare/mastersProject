@@ -1,0 +1,1579 @@
+[{
+        "frequentWords": "[{\"energy\":51},{\"party\":32},{\"environmental\":32},{\"renewable\":29},{\"sustainability\":29},{\"development\":28}]",
+        "companyName": "ABANCA Corporación Bancaria, S. A.",
+        "fileName": "ABANCACorporacinBancariaS",
+        "sector": "Financial Institution"
+    },
+    {
+        "frequentWords": "[{\"buildings\":120},{\"energy\":89},{\"loans\":64},{\"performance\":54},{\"co2\":49},{\"residential\":47}]",
+        "companyName": "ABN AMRO (2015)",
+        "fileName": "ABN_AMRO_2015_External_review_report",
+        "sector": "Financial Institution"
+    },
+    {
+        "frequentWords": "[{\"energy\":116},{\"loans\":111},{\"buildings\":89},{\"building\":81},{\"performance\":54},{\"co2\":52}]",
+        "companyName": "ABN AMRO (2016)",
+        "fileName": "ABN_AMRO_2016_External Review report",
+        "sector": "Financial Institution"
+    },
+    {
+        "frequentWords": "[{\"energy\":141},{\"renewable\":33},{\"market\":27},{\"report\":21},{\"environmental\":21},{\"party\":20}]",
+        "companyName": "AC Energy Finance Supra-national",
+        "fileName": "AC-Energy_External-Review-Report3",
+        "sector": "Corporate-Energy"
+    },
+    {
+        "frequentWords": "[{\"energy\":56},{\"management\":44},{\"environmental\":33},{\"water\":25},{\"defined\":25},{\"social\":21}]",
+        "companyName": "ACS SCE",
+        "fileName": "ACS-SCE_External Review Report",
+        "sector": "Corporate-Infrastructure"
+    },
+    {
+        "frequentWords": "[{\"api\":74},{\"energy\":59},{\"building\":45},{\"environmental\":42},{\"buildings\":40},{\"management\":37}]",
+        "companyName": "Activia Properties Inc.",
+        "fileName": "Activia Properties_External Review Report",
+        "sector": "Corporate-Real Estate"
+    },
+    {
+        "frequentWords": "[{\"solar\":38},{\"assurance\":30},{\"international\":29},{\"independent\":17},{\"indian\":16},{\"requirements\":16}]",
+        "companyName": "Adani Green Energy",
+        "fileName": "AdaniGreenEnergy",
+        "sector": "Corporate-Energy"
+    },
+    {
+        "frequentWords": "[{\"climate\":50},{\"energy\":37},{\"environmental\":35},{\"bc3\":31},{\"rail\":30},{\"efficiency\":20}]",
+        "companyName": "ADIF - Alta Velocidad",
+        "fileName": "ADIF-AltaVelocidad",
+        "sector": "Corporate-Infrastructure"
+    },
+    {
+        "frequentWords": "[{\"climate\":45},{\"asab\":33},{\"energy\":32},{\"environmental\":23},{\"advanced\":22},{\"solar\":22}]",
+        "companyName": "Advanced SolTech Sweden AB",
+        "fileName": "Advanced Soltech_External Review Report",
+        "sector": "Corporate-Energy"
+    },
+    {
+        "frequentWords": "[{\"finance\":75},{\"adr\":58},{\"management\":51},{\"environmental\":51},{\"energy\":43},{\"certification\":30}]",
+        "companyName": "Advance Residence Investment Corporation",
+        "fileName": "AdvanceResidenceInvestmentCorporation",
+        "sector": "Corporate-Real Estate"
+    },
+    {
+        "frequentWords": "[{\"financing\":29},{\"homes\":23},{\"alignment\":17},{\"buildings\":17},{\"finance\":13},{\"impact\":13}]",
+        "companyName": "AEDAS Homes",
+        "fileName": "AEDASHomes",
+        "sector": "Corporate-Real Estate"
+    },
+    {
+        "frequentWords": "[{\"adr\":74},{\"management\":21},{\"financing\":21},{\"energy\":15},{\"environmental\":15},{\"reviewed\":15}]",
+        "companyName": "Aeroporti di Roma S.p.A.",
+        "fileName": "AeroportidiRomaS",
+        "sector": "Corporate-Transportation"
+    },
+    {
+        "frequentWords": "[{\"afc\":43},{\"spo\":22},{\"energy\":21},{\"environmental\":19},{\"sustainability\":17},{\"impact\":17}]",
+        "companyName": "Africa Finance Corporation",
+        "fileName": "AfricaFinanceCorporation",
+        "sector": "Financial Institution"
+    },
+    {
+        "frequentWords": "[{\"environmental\":51},{\"climate\":39},{\"energy\":25},{\"emissions\":17},{\"impacts\":15},{\"hydropower\":14}]",
+        "companyName": "Agder Energi ",
+        "fileName": "AgderEnergi",
+        "sector": "Corporate-Energy"
+    },
+    {
+        "frequentWords": "[{\"climate\":136},{\"afd\":118},{\"environmental\":50},{\"carbon\":38},{\"emissions\":30},{\"impact\":24}]",
+        "companyName": "Agence Française de Développement (AFD) (2017)",
+        "fileName": "AgenceFranaisedeDveloppement(AFD)(2017)",
+        "sector": "Agency"
+    },
+    {
+        "frequentWords": "[{\"ani\":98},{\"production\":50},{\"energy\":44},{\"climate\":43},{\"organic\":40},{\"emissions\":39}]",
+        "companyName": "AgriNurture Inc.",
+        "fileName": "AgriNurtureInc",
+        "sector": "Corporate-agri food"
+    },
+    {
+        "frequentWords": "[{\"energy\":56},{\"climate\":37},{\"environmental\":34},{\"investments\":24},{\"governance\":21},{\"buildings\":19}]",
+        "companyName": "Akademiska Hus",
+        "fileName": "AkademiskaHus",
+        "sector": "Corporate-Real Estate"
+    },
+    {
+        "frequentWords": "[{\"hydropower\":78},{\"energy\":77},{\"finance\":76},{\"taxonomy\":52},{\"water\":51},{\"climate\":45}]",
+        "companyName": "Akershus Energi",
+        "fileName": "AkershusEnergi",
+        "sector": "Corporate-Energy"
+    },
+    {
+        "frequentWords": "[{\"impact\":66},{\"vehicles\":66},{\"automotive\":56},{\"positive\":53},{\"environmental\":38},{\"sustainability\":26}]",
+        "companyName": "ALD Automotive",
+        "fileName": "ALDAutomotive",
+        "sector": "Corporate-Consumer services"
+    },
+    {
+        "frequentWords": "[{\"sustainability\":43},{\"energy\":38},{\"spo\":26},{\"contribution\":26},{\"bon\":23},{\"management\":22}]",
+        "companyName": "Alimentation Couche-Tard Inc.",
+        "fileName": "AlimentationCouche-TardInc",
+        "sector": "Corporate-Consumer services"
+    },
+    {
+        "frequentWords": "[{\"energy\":79},{\"water\":60},{\"environmental\":58},{\"devices\":56},{\"sustainability\":47},{\"management\":28}]",
+        "companyName": "Analog Devices, Inc.",
+        "fileName": "AnalogDevicesInc",
+        "sector": "Corporate-Consumer services"
+    },
+    {
+        "frequentWords": "[{\"energy\":66},{\"carbon\":57},{\"environmental\":36},{\"party\":31},{\"report\":28},{\"renewable\":27}]",
+        "companyName": "Apple Inc. (2019)",
+        "fileName": "AppleInc",
+        "sector": "Corporate-Consumer goods"
+    },
+    {
+        "frequentWords": "[{\"finance\":59},{\"water\":45},{\"environmental\":33},{\"management\":28},{\"energy\":25},{\"sustainable\":23}]",
+        "companyName": "Aquafin (2020)",
+        "fileName": "Aquafin(2020)",
+        "sector": "Corporate-Infrastructure"
+    },
+    {
+        "frequentWords": "[{\"energy\":40},{\"climate\":40},{\"hydropower\":34},{\"production\":32},{\"investments\":29},{\"reporting\":27}]",
+        "companyName": "Arendals Fossekompani ASA",
+        "fileName": "ArendalsFossekompaniASA",
+        "sector": "Corporate-Energy"
+    },
+    {
+        "frequentWords": "[{\"environmental\":62},{\"management\":46},{\"social\":32},{\"activities\":27},{\"allocation\":27},{\"defined\":26}]",
+        "companyName": "ARKEMA",
+        "fileName": "ARKEMA",
+        "sector": "Corporate-Industry"
+    },
+    {
+        "frequentWords": "[{\"alco\":39},{\"environmental\":39},{\"management\":30},{\"buildings\":29},{\"building\":29},{\"category\":27}]",
+        "companyName": "Arthaland Corporation",
+        "fileName": "ArthalandCorporation",
+        "sector": "Corporate-Real Estate"
+    },
+    {
+        "frequentWords": "[{\"energy\":72},{\"finance\":49},{\"climate\":30},{\"buildings\":29},{\"environmental\":29},{\"efficiency\":28}]",
+        "companyName": "Arwidsro Fastighets",
+        "fileName": "ArwidsroFastighets",
+        "sector": "Corporate-Real Estate"
+    },
+    {
+        "frequentWords": "[{\"business\":203},{\"environmental\":178},{\"waste\":140},{\"investment\":115},{\"benefits\":113},{\"activities\":109}]",
+        "companyName": "Asahi Holdings, Inc.",
+        "fileName": "AsahiHoldingsInc",
+        "sector": "Corporate-Industry"
+    },
+    {
+        "frequentWords": "[{\"energy\":65},{\"environmental\":46},{\"management\":37},{\"water\":36},{\"investments\":34},{\"waste\":33}]",
+        "companyName": "Assicurazioni Generali ",
+        "fileName": "AssicurazioniGenerali",
+        "sector": "Financial Institution"
+    },
+    {
+        "frequentWords": "[{\"finance\":60},{\"energy\":49},{\"renewable\":31},{\"environmental\":24},{\"party\":22},{\"sustainable\":20}]",
+        "companyName": "Atlantica",
+        "fileName": "Atlantica",
+        "sector": "Corporate-Infrastructure"
+    },
+    {
+        "frequentWords": "[{\"assurance\":28},{\"issuance\":11},{\"management\":9},{\"climate\":9},{\"procedures\":9},{\"engagement\":8}]",
+        "companyName": "Auckland Council",
+        "fileName": "AucklandCouncil",
+        "sector": "Municipal"
+    },
+    {
+        "frequentWords": "[{\"renovables\":52},{\"energy\":49},{\"environmental\":44},{\"renewable\":31},{\"social\":27},{\"management\":26}]",
+        "companyName": "Audax Renovables",
+        "fileName": "AudaxRenovables",
+        "sector": "Corporate-Energy"
+    },
+    {
+        "frequentWords": "[{\"environmental\":16},{\"energy\":13},{\"external\":12},{\"finance\":11},{\"reporting\":9},{\"selection\":8}]",
+        "companyName": "AutoWallis Nyrt",
+        "fileName": "AutoWallisNyrt",
+        "sector": "Corporate-Transportation"
+    },
+    {
+        "frequentWords": "[{\"sustainability\":40},{\"axpo\":37},{\"energy\":28},{\"quality\":26},{\"spo\":22},{\"power\":21}]",
+        "companyName": "Axpo Holding AG",
+        "fileName": "AxpoHoldingAG",
+        "sector": "Corporate-Energy"
+    },
+    {
+        "frequentWords": "[{\"energy\":35},{\"environmental\":30},{\"renewable\":23},{\"party\":19},{\"reporting\":19},{\"honduras\":19}]",
+        "companyName": "Banco Atlántida",
+        "fileName": "BancoAtlntida",
+        "sector": "Financial Institution"
+    },
+    {
+        "frequentWords": "[{\"environmental\":49},{\"energy\":43},{\"colombia\":32},{\"sustainable\":32},{\"social\":30},{\"efficiency\":29}]",
+        "companyName": "Banco de Comercio Exterior de Colombia S.A.",
+        "fileName": "BancodeComercioExteriordeColombiaS",
+        "sector": "Agency"
+    },
+    {
+        "frequentWords": "[{\"management\":18},{\"approach\":10},{\"independent\":9},{\"report\":8},{\"limited\":8},{\"resources\":8}]",
+        "companyName": "Bancolombia (2018)",
+        "fileName": "Bancolombia(2018)",
+        "sector": "Financial Institution"
+    },
+    {
+        "frequentWords": "[{\"environmental\":31},{\"thailand\":30},{\"sustainability\":26},{\"transportation\":25},{\"party\":24},{\"bangkok\":24}]",
+        "companyName": "Bangkok Mass Transit System PCL (BTS) (2019)",
+        "fileName": "BangkokMassTransitSystemPCL(BTS)(2019)",
+        "sector": "Corporate-Transportation"
+    },
+    {
+        "frequentWords": "[{\"party\":36},{\"environmental\":30},{\"thailand\":29},{\"sustainability\":28},{\"transportation\":27},{\"allocation\":26}]",
+        "companyName": "Bangkok Mass Transit System PCL (BTS) (2020)",
+        "fileName": "BangkokMassTransitSystemPCL(BTS)(2020)",
+        "sector": "Corporate-Transportation"
+    },
+    {
+        "frequentWords": "[{\"affiliates\":69},{\"party\":36},{\"environmental\":33},{\"allocation\":31},{\"thailand\":28},{\"transportation\":22}]",
+        "companyName": "Bangkok Mass Transit System PCL (BTS) (2021)",
+        "fileName": "BangkokMassTransitSystemPCL(BTS)(2021)",
+        "sector": "Corporate-Transportation"
+    },
+    {
+        "frequentWords": "[{\"energy\":66},{\"environmental\":34},{\"party\":33},{\"buildings\":27},{\"management\":21},{\"spain\":20}]",
+        "companyName": "Bankinter, S.A. (2019)",
+        "fileName": "BankinterS",
+        "sector": "Financial Institution"
+    },
+    {
+        "frequentWords": "[{\"issuance\":12},{\"london\":8},{\"management\":8},{\"reporting\":8},{\"applicable\":7},{\"selection\":7}]",
+        "companyName": "Bank of China (2018)",
+        "fileName": "BankofChina(2018)",
+        "sector": "Financial Institution"
+    },
+    {
+        "frequentWords": "[{\"energy\":60},{\"finance\":50},{\"philippine\":45},{\"islands\":39},{\"management\":32},{\"party\":30}]",
+        "companyName": "Bank of the Philippine Islands",
+        "fileName": "BankofthePhilippineIslands",
+        "sector": "Financial Institution"
+    },
+    {
+        "frequentWords": "[{\"nominated\":37},{\"climate\":35},{\"verifier\":29},{\"clause\":26},{\"report\":24},{\"issuance\":22}]",
+        "companyName": "Barclays PLC",
+        "fileName": "BarclaysPLC",
+        "sector": "Financial Institution"
+    },
+    {
+        "frequentWords": "[{\"environmental\":22},{\"external\":13},{\"allocation\":13},{\"report\":11},{\"annual\":10},{\"selection\":9}]",
+        "companyName": "Baromfi-Coop Kft",
+        "fileName": "Baromfi-CoopKft",
+        "sector": "Corporate-agri food"
+    },
+    {
+        "frequentWords": "[{\"sustainability\":50},{\"environmental\":47},{\"solutions\":38},{\"management\":36},{\"products\":36},{\"performance\":36}]",
+        "companyName": "BASF",
+        "fileName": "BASF",
+        "sector": "Corporate-Industry"
+    },
+    {
+        "frequentWords": "[{\"baywa\":32},{\"sustainability\":19},{\"spo\":16},{\"environmental\":14},{\"report\":13},{\"quality\":12}]",
+        "companyName": "BayWa",
+        "fileName": "BayWa",
+        "sector": "Corporate-Industry"
+    },
+    {
+        "frequentWords": "[{\"water\":32},{\"environmental\":14},{\"bazalgette\":13},{\"tunnel\":13},{\"impact\":11},{\"mitigation\":11}]",
+        "companyName": "Bazalgette Finance plc (Tideway)",
+        "fileName": "BazalgetteFinanceplc(Tideway)",
+        "sector": "Corporate-Infrastructure"
+    },
+    {
+        "frequentWords": "[{\"sustainability\":23},{\"spo\":18},{\"buildings\":17},{\"energy\":15},{\"sus\":13},{\"tainabil\":13}]",
+        "companyName": "Berlin Hyp AG (2019)",
+        "fileName": "BerlinHypAG(2019)",
+        "sector": "Corporate-Real Estate"
+    },
+    {
+        "frequentWords": "[{\"sustainability\":48},{\"performance\":36},{\"corporate\":27},{\"industry\":26},{\"companies\":21},{\"social\":20}]",
+        "companyName": "Berlin Hyp AG (2020)",
+        "fileName": "BerlinHypAG(2020)",
+        "sector": "Corporate-Real Estate"
+    },
+    {
+        "frequentWords": "[{\"sustainability\":61},{\"performance\":30},{\"corporate\":28},{\"social\":27},{\"environmental\":26},{\"buildings\":26}]",
+        "companyName": "Berlin Hyp AG (2021)",
+        "fileName": "BerlinHypAG(2021)",
+        "sector": "Corporate-Real Estate"
+    },
+    {
+        "frequentWords": "[{\"besqab\":23},{\"finance\":20},{\"energy\":18},{\"reporting\":13},{\"external\":12},{\"environmental\":11}]",
+        "companyName": "Besqab AB",
+        "fileName": "BesqabAB",
+        "sector": "Corporate-Real Estate"
+    },
+    {
+        "frequentWords": "[{\"sind\":36},{\"ber\":32},{\"bks\":27},{\"ein\":25},{\"mit\":23},{\"das\":22}]",
+        "companyName": "BKS Bank AG (2021)",
+        "fileName": "BKSBankAG(2021)",
+        "sector": "Financial Institution"
+    },
+    {
+        "frequentWords": "[{\"energy\":121},{\"environmental\":39},{\"party\":36},{\"fuel\":35},{\"market\":27},{\"hydrogen\":24}]",
+        "companyName": "Bloom Energy Corporation",
+        "fileName": "BloomEnergyCorporation",
+        "sector": "Corporate-Energy"
+    },
+    {
+        "frequentWords": "[{\"environmental\":25},{\"sus\":24},{\"bility\":24},{\"qua\":24},{\"lity\":24},{\"een\":24}]",
+        "companyName": "BNP Paribas (2019)",
+        "fileName": "BNPParibas(2019)",
+        "sector": "Financial Institution"
+    },
+    {
+        "frequentWords": "[{\"climate\":44},{\"energy\":39},{\"taxonomy\":33},{\"environmental\":33},{\"solar\":31},{\"wind\":29}]",
+        "companyName": "Bpifrance",
+        "fileName": "Bpifrance",
+        "sector": "Financial Institution"
+    },
+    {
+        "frequentWords": "[{\"loans\":39},{\"environmental\":29},{\"climate\":22},{\"emissions\":19},{\"transport\":18},{\"aquaculture\":18}]",
+        "companyName": "Brage Finans AS",
+        "fileName": "BrageFinansAS",
+        "sector": "Financial Institution"
+    },
+    {
+        "frequentWords": "[{\"renewable\":75},{\"energy\":54},{\"environmental\":33},{\"party\":24},{\"management\":22},{\"reporting\":16}]",
+        "companyName": "Brookfield Renewable (2019)",
+        "fileName": "BrookfieldRenewable(2019)",
+        "sector": "Corporate-Energy"
+    },
+    {
+        "frequentWords": "[{\"renewable\":84},{\"energy\":54},{\"environmental\":31},{\"party\":24},{\"preferred\":24},{\"securities\":23}]",
+        "companyName": "Brookfield Renewable (2020)",
+        "fileName": "BrookfieldRenewable(2020)",
+        "sector": "Corporate-Energy"
+    },
+    {
+        "frequentWords": "[{\"management\":47},{\"party\":40},{\"energy\":40},{\"sustainable\":32},{\"investments\":31},{\"environmental\":27}]",
+        "companyName": "Caisse de dépôt et placement du Québec",
+        "fileName": "CaissededptetplacementduQubec",
+        "sector": "Agency"
+    },
+    {
+        "frequentWords": "[{\"energy\":112},{\"community\":40},{\"clean\":40},{\"renewable\":39},{\"carbon\":21},{\"verifiers\":19}]",
+        "companyName": "California Community Choice Financing Authority (East Bay Community Energy and Silicon Valley Clean Energy)",
+        "fileName": "CaliforniaCommunityChoiceFinancingAuthority(EastBayCommunityEnergyandSiliconValleyCleanEnergy)",
+        "sector": "Agency"
+    },
+    {
+        "frequentWords": "[{\"energy\":43},{\"climate\":40},{\"building\":37},{\"verifiers\":30},{\"buildings\":30},{\"expansion\":29}]",
+        "companyName": "California Infrastructure and Economic Development Bank (CalSTRS)",
+        "fileName": "CaliforniaInfrastructureandEconomicDevelopmentBank(CalSTRS)",
+        "sector": "MDB"
+    },
+    {
+        "frequentWords": "[{\"environmental\":107},{\"business\":67},{\"investment\":44},{\"campo\":42},{\"benefits\":41},{\"co2\":39}]",
+        "companyName": "CAMPO Co., Ltd. ",
+        "fileName": "CAMPOCo",
+        "sector": "Utility"
+    },
+    {
+        "frequentWords": "[{\"investment\":74},{\"climate\":58},{\"board\":33},{\"investments\":33},{\"environmental\":32},{\"change\":29}]",
+        "companyName": "Canada Pension Plan Investment Board (2018)",
+        "fileName": "CanadaPensionPlanInvestmentBoard(2018)",
+        "sector": "Agency"
+    },
+    {
+        "frequentWords": "[{\"investments\":159},{\"investment\":46},{\"climate\":37},{\"energy\":31},{\"carbon\":28},{\"sustainable\":26}]",
+        "companyName": "Canada Pension Plan Investment Board (2021)",
+        "fileName": "CanadaPensionPlanInvestmentBoard(2021)",
+        "sector": "Agency"
+    },
+    {
+        "frequentWords": "[{\"environmental\":76},{\"energy\":62},{\"certification\":52},{\"management\":51},{\"sustainable\":49},{\"party\":40}]",
+        "companyName": "Canadian Imperial Bank of Commerce",
+        "fileName": "CanadianImperialBankofCommerce",
+        "sector": "Financial Institution"
+    },
+    {
+        "frequentWords": "[{\"solar\":48},{\"power\":39},{\"environmental\":35},{\"management\":32},{\"construction\":26},{\"facilities\":26}]",
+        "companyName": "Canadian Solar Project",
+        "fileName": "CanadianSolarProject",
+        "sector": "Corporate-Energy"
+    },
+    {
+        "frequentWords": "[{\"sustainability\":51},{\"buildings\":27},{\"spo\":26},{\"environmental\":21},{\"social\":20},{\"energy\":19}]",
+        "companyName": "Canary Wharf Group Investment Holding PLC",
+        "fileName": "CanaryWharfGroupInvestmentHoldingPLC",
+        "sector": "Corporate-Real Estate"
+    },
+    {
+        "frequentWords": "[{\"energy\":52},{\"climate\":46},{\"finance\":34},{\"emissions\":34},{\"environmental\":31},{\"electricity\":30}]",
+        "companyName": "Caruna",
+        "fileName": "Caruna",
+        "sector": "Corporate-Energy"
+    },
+    {
+        "frequentWords": "[{\"energy\":70},{\"finance\":62},{\"buildings\":55},{\"climate\":27},{\"building\":25},{\"environmental\":23}]",
+        "companyName": "Catena AB",
+        "fileName": "CatenaAB",
+        "sector": "Corporate-Transportation"
+    },
+    {
+        "frequentWords": "[{\"environmental\":32},{\"management\":31},{\"energy\":22},{\"social\":21},{\"buildings\":20},{\"risks\":19}]",
+        "companyName": "Ceetrus",
+        "fileName": "Ceetrus",
+        "sector": "Corporate-Real Estate"
+    },
+    {
+        "frequentWords": "[{\"environmental\":65},{\"sustainable\":47},{\"social\":42},{\"management\":37},{\"party\":35},{\"certification\":34}]",
+        "companyName": "Central American Bank for Economic Integration (CABEI)",
+        "fileName": "CentralAmericanBankforEconomicIntegration(CABEI)",
+        "sector": "Agency"
+    },
+    {
+        "frequentWords": "[{\"environmental\":49},{\"transportation\":42},{\"central\":32},{\"environment\":31},{\"shinkansen\":22},{\"rolling\":22}]",
+        "companyName": "Central Japan Railway Company",
+        "fileName": "CentralJapanRailwayCompany",
+        "sector": "Corporate-Transportation"
+    },
+    {
+        "frequentWords": "[{\"central\":62},{\"management\":56},{\"expressway\":45},{\"plan\":36},{\"climate\":29},{\"construction\":27}]",
+        "companyName": "Central Nippon Expressway Company (Climate Resilience)",
+        "fileName": "CentralNipponExpresswayCompany(ClimateResilience)",
+        "sector": "Corporate-Transportation"
+    },
+    {
+        "frequentWords": "[{\"central\":69},{\"climate\":64},{\"management\":59},{\"change\":48},{\"plan\":42},{\"expressway\":38}]",
+        "companyName": "Central Nippon Expressway Company Limited (2020)",
+        "fileName": "CentralNipponExpresswayCompanyLimited(2020)",
+        "sector": "Corporate-Transportation"
+    },
+    {
+        "frequentWords": "[{\"energy\":60},{\"management\":39},{\"water\":39},{\"environmental\":37},{\"everbright\":36},{\"party\":28}]",
+        "companyName": "China Everbright Bank",
+        "fileName": "ChinaEverbrightBank",
+        "sector": "Financial Institution"
+    },
+    {
+        "frequentWords": "[{\"energy\":53},{\"buildings\":37},{\"party\":32},{\"environmental\":26},{\"building\":21},{\"impact\":18}]",
+        "companyName": "Cibus Nordic Real Estate AB",
+        "fileName": "CibusNordicRealEstateAB",
+        "sector": "Corporate-Real Estate"
+    },
+    {
+        "frequentWords": "[{\"energy\":82},{\"financing\":50},{\"buildings\":43},{\"sustainability\":37},{\"climate\":32},{\"environmental\":26}]",
+        "companyName": "Citycon",
+        "fileName": "Citycon",
+        "sector": "Corporate-Real Estate"
+    },
+    {
+        "frequentWords": "[{\"city\":39},{\"library\":27},{\"obligation\":18},{\"refunding\":17},{\"energy\":17},{\"verifiers\":16}]",
+        "companyName": "City of Berkeley, California (series A)",
+        "fileName": "CityofBerkeleyCalifornia(seriesA)",
+        "sector": "Municipal"
+    },
+    {
+        "frequentWords": "[{\"city\":33},{\"climate\":27},{\"energy\":20},{\"finance\":14},{\"adaptation\":14},{\"buildings\":14}]",
+        "companyName": "City of Boston",
+        "fileName": "CityofBoston",
+        "sector": "Municipal"
+    },
+    {
+        "frequentWords": "[{\"energy\":28},{\"city\":19},{\"environmental\":12},{\"public\":12},{\"minneapolis\":10},{\"certification\":10}]",
+        "companyName": "City of Minneapolis (2018)",
+        "fileName": "CityofMinneapolis(2018)",
+        "sector": "Municipal"
+    },
+    {
+        "frequentWords": "[{\"energy\":40},{\"city\":36},{\"plan\":22},{\"renewable\":20},{\"utility\":13},{\"infrastructure\":13}]",
+        "companyName": "City of Seattle (Municipal Light and Power Improvement Revenue Bonds, 2020)",
+        "fileName": "CityofSeattle(MunicipalLightandPowerImprovementRevenueBonds2020)",
+        "sector": "Municipal"
+    },
+    {
+        "frequentWords": "[{\"water\":68},{\"management\":19},{\"city\":18},{\"capital\":15},{\"improvement\":13},{\"conservation\":13}]",
+        "companyName": "City of Seattle (Water System Improvement and Refunding Revenue Bonds, 2021)",
+        "fileName": "CityofSeattle(WaterSystemImprovementandRefundingRevenueBonds2021)",
+        "sector": "Municipal"
+    },
+    {
+        "frequentWords": "[{\"power\":65},{\"capital\":28},{\"improvements\":25},{\"energy\":23},{\"verifiers\":22},{\"city\":21}]",
+        "companyName": "City of Tacoma, Washington (Electric System Revenue Bonds, Series 2021)",
+        "fileName": "CityofTacomaWashington(ElectricSystemRevenueBondsSeries2021)",
+        "sector": "Municipal"
+    },
+    {
+        "frequentWords": "[{\"environmental\":53},{\"management\":40},{\"energy\":39},{\"sustainable\":37},{\"performance\":29},{\"buildings\":28}]",
+        "companyName": "CNP Assurance",
+        "fileName": "CNPAssurance",
+        "sector": "Financial Institution"
+    },
+    {
+        "frequentWords": "[{\"finance\":47},{\"sustainability\":37},{\"spo\":22},{\"environmental\":20},{\"buildings\":20},{\"strategy\":17}]",
+        "companyName": "CODIC International",
+        "fileName": "CODICInternational",
+        "sector": "Corporate-Real Estate"
+    },
+    {
+        "frequentWords": "[{\"energy\":127},{\"environmental\":41},{\"solar\":35},{\"wind\":32},{\"climate\":27},{\"governance\":25}]",
+        "companyName": "Columbus Energy S.A.",
+        "fileName": "ColumbusEnergyS",
+        "sector": "Corporate-Energy"
+    },
+    {
+        "frequentWords": "[{\"energy\":59},{\"clean\":24},{\"verifiers\":23},{\"climate\":21},{\"party\":17},{\"program\":17}]",
+        "companyName": "Connecticut Green Bank (2020)",
+        "fileName": "ConnecticutGreenBank(2020)",
+        "sector": "Financial Institution"
+    },
+    {
+        "frequentWords": "[{\"climate\":32},{\"solar\":27},{\"assurance\":23},{\"verifiers\":23},{\"standard\":21},{\"issuance\":12}]",
+        "companyName": "Connecticut Green Bank (Series 2019-1)",
+        "fileName": "ConnecticutGreenBank(Series2019-1)",
+        "sector": "Financial Institution"
+    },
+    {
+        "frequentWords": "[{\"energy\":40},{\"wind\":34},{\"environmental\":29},{\"climate\":27},{\"renewable\":24},{\"solar\":22}]",
+        "companyName": "Continuum Green Energy",
+        "fileName": "ContinuumGreenEnergy",
+        "sector": "Corporate-Energy"
+    },
+    {
+        "frequentWords": "[{\"sustainable\":50},{\"management\":47},{\"environmental\":43},{\"party\":39},{\"certification\":38},{\"social\":32}]",
+        "companyName": "Corporación Andina de Fomento (CAF)",
+        "fileName": "CorporacinAndinadeFomento(CAF)",
+        "sector": "MDB"
+    },
+    {
+        "frequentWords": "[{\"environmental\":49},{\"covivio\":47},{\"management\":35},{\"buildings\":32},{\"social\":26},{\"energy\":25}]",
+        "companyName": "Covivio",
+        "fileName": "Covivio",
+        "sector": "Corporate-Real Estate"
+    },
+    {
+        "frequentWords": "[{\"environmental\":35},{\"management\":31},{\"agricole\":29},{\"content\":25},{\"expected\":24},{\"documents\":23}]",
+        "companyName": "Crédit Agricole next bank (Suisse) SA",
+        "fileName": "CrditAgricolenextbank(Suisse)SA",
+        "sector": "Financial Institution"
+    },
+    {
+        "frequentWords": "[{\"energy\":59},{\"buildings\":32},{\"environmental\":31},{\"party\":30},{\"certification\":23},{\"allocation\":21}]",
+        "companyName": "CTP",
+        "fileName": "CTP",
+        "sector": "Corporate-Real Estate"
+    },
+    {
+        "frequentWords": "[{\"paper\":70},{\"waste\":20},{\"biomass\":17},{\"reduction\":16},{\"recycle\":15},{\"energy\":14}]",
+        "companyName": "Daio Paper Corporation (2018)",
+        "fileName": "DaioPaperCorporation(2018)",
+        "sector": "Corporate-Consumer goods"
+    },
+    {
+        "frequentWords": "[{\"environmental\":61},{\"management\":51},{\"investment\":47},{\"energy\":44},{\"corporation\":42},{\"certification\":40}]",
+        "companyName": "Daiwa House REIT (2021)",
+        "fileName": "DaiwaHouseREIT(2021)",
+        "sector": "Corporate-Real Estate"
+    },
+    {
+        "frequentWords": "[{\"fund\":62},{\"development\":32},{\"management\":31},{\"energy\":29},{\"environmental\":28},{\"sustainable\":27}]",
+        "companyName": "Damu Entrepreneurship Development Fund JSC",
+        "fileName": "DamuEntrepreneurshipDevelopmentFundJSC",
+        "sector": "Agency"
+    },
+    {
+        "frequentWords": "[{\"financing\":32},{\"alignment\":16},{\"environmental\":16},{\"impact\":16},{\"finance\":14},{\"sustainable\":13}]",
+        "companyName": "Dana Inc.",
+        "fileName": "DanaInc",
+        "sector": "Corporate-Technology"
+    },
+    {
+        "frequentWords": "[{\"sustainability\":41},{\"spo\":24},{\"recycling\":22},{\"contribution\":21},{\"environmental\":21},{\"services\":19}]",
+        "companyName": "Derichebourg",
+        "fileName": "Derichebourg",
+        "sector": "Corporate-Industry"
+    },
+    {
+        "frequentWords": "[{\"energy\":47},{\"performance\":41},{\"sustainability\":36},{\"environmental\":32},{\"corporate\":31},{\"industry\":27}]",
+        "companyName": "Deutsche Bank AG",
+        "fileName": "DeutscheBankAG",
+        "sector": "Financial Institution"
+    },
+    {
+        "frequentWords": "[{\"building\":63},{\"buildings\":61},{\"family\":61},{\"house\":61},{\"sustainability\":56},{\"office\":48}]",
+        "companyName": "Deutsche Hypothekenbank AG (2020)",
+        "fileName": "DeutscheHypothekenbankAG(2020)",
+        "sector": "Financial Institution"
+    },
+    {
+        "frequentWords": "[{\"environmental\":57},{\"sustainability\":49},{\"social\":41},{\"sustainable\":40},{\"performance\":35},{\"taxonomy\":34}]",
+        "companyName": "Deutsche Kreditbank (DKB) (2020)",
+        "fileName": "DeutscheKreditbank(DKB)(2020)",
+        "sector": "Financial Institution"
+    },
+    {
+        "frequentWords": "[{\"energy\":68},{\"climate\":40},{\"buildings\":38},{\"financing\":36},{\"environmental\":24},{\"investments\":23}]",
+        "companyName": "Diös",
+        "fileName": "Dis",
+        "sector": "Corporate-Real Estate"
+    },
+    {
+        "frequentWords": "[{\"school\":27},{\"construction\":18},{\"building\":17},{\"buildings\":13},{\"verifiers\":12},{\"obligation\":11}]",
+        "companyName": "Dublin Unified School District",
+        "fileName": "DublinUnifiedSchoolDistrict",
+        "sector": "Utility"
+    },
+    {
+        "frequentWords": "[{\"energy\":147},{\"management\":81},{\"alignment\":74},{\"sustainability\":70},{\"party\":64},{\"environmental\":58}]",
+        "companyName": "E.ON (2021)",
+        "fileName": "E",
+        "sector": "Corporate-Energy"
+    },
+    {
+        "frequentWords": "[{\"renewable\":65},{\"wind\":47},{\"environmental\":39},{\"construction\":29},{\"climate\":24},{\"farm\":22}]",
+        "companyName": "East Renewable AB",
+        "fileName": "EastRenewableAB",
+        "sector": "Corporate-Energy"
+    },
+    {
+        "frequentWords": "[{\"energy\":93},{\"sustainability\":60},{\"report\":45},{\"environmental\":38},{\"renewable\":37},{\"default\":27}]",
+        "companyName": "Electricity Supply Board (ESB)",
+        "fileName": "ElectricitySupplyBoard(ESB)",
+        "sector": "Corporate-Energy"
+    },
+    {
+        "frequentWords": "[{\"climate\":29},{\"requirements\":17},{\"findings\":16},{\"energy\":15},{\"res\":14},{\"wind\":13}]",
+        "companyName": "Ellaktor Value PLC",
+        "fileName": "EllaktorValuePLC",
+        "sector": "Corporate-Infrastructure"
+    },
+    {
+        "frequentWords": "[{\"energy\":40},{\"environmental\":27},{\"party\":24},{\"sustainability\":24},{\"reporting\":19},{\"renewable\":18}]",
+        "companyName": "Energias de Portugal Group (EDP)",
+        "fileName": "EnergiasdePortugalGroup(EDP)",
+        "sector": "Corporate-Energy"
+    },
+    {
+        "frequentWords": "[{\"energy\":46},{\"party\":31},{\"generation\":28},{\"environmental\":27},{\"allocation\":27},{\"power\":22}]",
+        "companyName": "Energy Development Corporation (EDC)",
+        "fileName": "EnergyDevelopmentCorporation(EDC)",
+        "sector": "Corporate-Energy"
+    },
+    {
+        "frequentWords": "[{\"government\":62},{\"federal\":48},{\"ministry\":41},{\"environment\":32},{\"issuance\":31},{\"reporting\":26}]",
+        "companyName": "Federal Government of Nigeria",
+        "fileName": "FederalGovernmentofNigeria",
+        "sector": "Sovereign"
+    },
+    {
+        "frequentWords": "[{\"climate\":40},{\"sustainability\":39},{\"expenditure\":37},{\"environmental\":32},{\"contribution\":27},{\"protection\":26}]",
+        "companyName": "Federal State of Hessen",
+        "fileName": "FederalStateofHessen",
+        "sector": "Municipal"
+    },
+    {
+        "frequentWords": "[{\"transport\":31},{\"trains\":31},{\"energy\":29},{\"sustainability\":27},{\"environmental\":26},{\"management\":22}]",
+        "companyName": "Ferrovie dello Stato Italiane SpA",
+        "fileName": "FerroviedelloStatoItalianeSpA",
+        "sector": "Corporate-Transportation"
+    },
+    {
+        "frequentWords": "[{\"climate\":43},{\"sustainability\":38},{\"energy\":36},{\"sus\":24},{\"tainabil\":24},{\"ual\":24}]",
+        "companyName": "Green Lucca S.p.A.",
+        "fileName": "GreenLuccaS",
+        "sector": "Corporate-Energy"
+    },
+    {
+        "frequentWords": "[{\"energy\":42},{\"management\":42},{\"environmental\":37},{\"certification\":37},{\"party\":35},{\"sustainable\":35}]",
+        "companyName": "Groupama Group",
+        "fileName": "GroupamaGroup",
+        "sector": "Financial Institution"
+    },
+    {
+        "frequentWords": "[{\"assurance\":29},{\"limited\":14},{\"engagement\":14},{\"report\":13},{\"proposed\":11},{\"preissuance\":9}]",
+        "companyName": "Growthpoint",
+        "fileName": "Growthpoint",
+        "sector": "Corporate-Real Estate"
+    },
+    {
+        "frequentWords": "[{\"energy\":50},{\"environmental\":38},{\"allocation\":33},{\"party\":32},{\"renewable\":21},{\"water\":21}]",
+        "companyName": "Grupo Aeroportuario del Centro Norte (OMA)",
+        "fileName": "GrupoAeroportuariodelCentroNorte(OMA)",
+        "sector": "Corporate-Transportation"
+    },
+    {
+        "frequentWords": "[{\"11\":11},{\"reviewed\":15},{\"energy\":15},{\"eligibility\":12},{\"environmental\":12},{\"findings\":12}]",
+        "companyName": "Grupo Pestana SGPS",
+        "fileName": "GrupoPestanaSGPS",
+        "sector": "Corporate-Tourism"
+    },
+    {
+        "frequentWords": "[{\"certification\":36},{\"international\":33},{\"building\":24},{\"construction\":22},{\"environmental\":21},{\"energy\":19}]",
+        "companyName": "Hanjin Supra-national Corp.",
+        "fileName": "HanjinSupra-nationalCorp",
+        "sector": "Corporate-Real Estate"
+    },
+    {
+        "frequentWords": "[{\"solutions\":70},{\"energy\":62},{\"renewable\":40},{\"financing\":36},{\"party\":32},{\"environmental\":23}]",
+        "companyName": "Hanwha Solutions",
+        "fileName": "HanwhaSolutions",
+        "sector": "Corporate-Energy"
+    },
+    {
+        "frequentWords": "[{\"energy\":51},{\"waste\":46},{\"water\":40},{\"contribution\":35},{\"environmental\":32},{\"sdgs\":30}]",
+        "companyName": "HERA",
+        "fileName": "HERA",
+        "sector": "Corporate-Energy"
+    },
+    {
+        "frequentWords": "[{\"energy\":33},{\"waste\":28},{\"environmental\":18},{\"emission\":15},{\"assurance\":12},{\"principle\":11}]",
+        "companyName": "Hitachi Zosen Corporation",
+        "fileName": "HitachiZosenCorporation",
+        "sector": "Corporate-Industry"
+    },
+    {
+        "frequentWords": "[{\"management\":51},{\"energy\":46},{\"government\":44},{\"environmental\":38},{\"public\":31},{\"sustainable\":31}]",
+        "companyName": "HKSAR Government",
+        "fileName": "HKSARGovernment",
+        "sector": "Municipal"
+    },
+    {
+        "frequentWords": "[{\"external\":12},{\"invest\":12},{\"reporting\":11},{\"principles\":10},{\"defined\":9},{\"environmental\":9}]",
+        "companyName": "Home Invest Belgium ",
+        "fileName": "HomeInvestBelgium",
+        "sector": "Corporate-Real Estate"
+    },
+    {
+        "frequentWords": "[{\"gas\":87},{\"energy\":68},{\"waste\":33},{\"fuel\":29},{\"fossil\":29},{\"environmental\":25}]",
+        "companyName": "Hong Kong and China Gas Company Limited (Towngas Group)",
+        "fileName": "HongKongandChinaGasCompanyLimited(TowngasGroup)",
+        "sector": "Corporate-Energy"
+    },
+    {
+        "frequentWords": "[{\"yards\":21},{\"extension\":21},{\"development\":21},{\"corporation\":20},{\"subway\":20},{\"city\":19}]",
+        "companyName": "Hudson Yards Infrastructure Corporation",
+        "fileName": "HudsonYardsInfrastructureCorporation",
+        "sector": "Utility"
+    },
+    {
+        "frequentWords": "[{\"climate\":17},{\"standard\":17},{\"verification\":13},{\"nominated\":12},{\"solar\":12},{\"assurance\":11}]",
+        "companyName": "humm group limited (ex Flexigroup)",
+        "fileName": "hummgrouplimited(exFlexigroup)",
+        "sector": "Financial Institution"
+    },
+    {
+        "frequentWords": "[{\"infrastructure\":37},{\"community\":35},{\"sustainable\":34},{\"envision\":32},{\"verifiers\":28},{\"design\":26}]",
+        "companyName": "Indiana Finance Authority ",
+        "fileName": "IndianaFinanceAuthority",
+        "sector": "Municipal"
+    },
+    {
+        "frequentWords": "[{\"environmental\":49},{\"climate\":33},{\"energy\":26},{\"impacts\":20},{\"management\":17},{\"report\":17}]",
+        "companyName": "Industrial and Commercial Bank of China",
+        "fileName": "IndustrialandCommercialBankofChina",
+        "sector": "Financial Institution"
+    },
+    {
+        "frequentWords": "[{\"energy\":92},{\"environmental\":33},{\"renewable\":28},{\"impact\":25},{\"climate\":22},{\"sustainable\":17}]",
+        "companyName": "Innogy SE",
+        "fileName": "InnogySE",
+        "sector": "Corporate-Energy"
+    },
+    {
+        "frequentWords": "[{\"loans\":50},{\"energy\":49},{\"management\":35},{\"environmental\":31},{\"reporting\":28},{\"defined\":23}]",
+        "companyName": "Intesa Sanpaolo",
+        "fileName": "IntesaSanpaolo",
+        "sector": "Financial Institution"
+    },
+    {
+        "frequentWords": "[{\"energy\":47},{\"management\":38},{\"waste\":34},{\"efficiency\":22},{\"environmental\":21},{\"reporting\":21}]",
+        "companyName": "IREN S.p.A. (2021)",
+        "fileName": "IRENS",
+        "sector": "Utility"
+    },
+    {
+        "frequentWords": "[{\"finance\":74},{\"management\":73},{\"investment\":62},{\"environmental\":59},{\"corporation\":58},{\"sustainability\":41}]",
+        "companyName": "ITOCHU",
+        "fileName": "ITOCHU",
+        "sector": "Corporate-consumer services"
+    },
+    {
+        "frequentWords": "[{\"energy\":86},{\"controls\":67},{\"finance\":48},{\"sustainability\":38},{\"party\":34},{\"buildings\":31}]",
+        "companyName": "Johnson Controls Supra-national plc",
+        "fileName": "JohnsonControlsSupra-nationalplc",
+        "sector": "Corporate-Real Estate"
+    },
+    {
+        "frequentWords": "[{\"climate\":53},{\"prevention\":51},{\"plan\":49},{\"measures\":46},{\"change\":45},{\"river\":37}]",
+        "companyName": "Kanagawa Prefecture",
+        "fileName": "KanagawaPrefecture",
+        "sector": "Municipal"
+    },
+    {
+        "frequentWords": "[{\"environmental\":66},{\"management\":63},{\"energy\":40},{\"corporation\":38},{\"building\":31},{\"buildings\":24}]",
+        "companyName": "Kenedix Office Investment Corporation (2019)",
+        "fileName": "KenedixOfficeInvestmentCorporation(2019)",
+        "sector": "Financial Institution"
+    },
+    {
+        "frequentWords": "[{\"environmental\":84},{\"climate\":71},{\"emissions\":51},{\"government\":41},{\"reporting\":34},{\"swedish\":33}]",
+        "companyName": "Kingdom of Sweden",
+        "fileName": "KingdomofSweden",
+        "sector": "Sovereign"
+    },
+    {
+        "frequentWords": "[{\"energy\":129},{\"climate\":66},{\"expenditures\":49},{\"change\":39},{\"sustainable\":38},{\"management\":35}]",
+        "companyName": "Kingdom of the Netherlands",
+        "fileName": "KingdomoftheNetherlands",
+        "sector": "Sovereign"
+    },
+    {
+        "frequentWords": "[{\"energy\":36},{\"climate\":34},{\"environmental\":26},{\"buildings\":22},{\"carbon\":17},{\"sustainability\":14}]",
+        "companyName": "Klövern (Publ.) (2018)",
+        "fileName": "Klvern(Publ",
+        "sector": "Corporate-Real Estate"
+    },
+    {
+        "frequentWords": "[{\"energy\":52},{\"power\":51},{\"environmental\":39},{\"renewable\":30},{\"management\":29},{\"midland\":26}]",
+        "companyName": "Korea Midland Power",
+        "fileName": "KoreaMidlandPower",
+        "sector": "Corporate-Energy"
+    },
+    {
+        "frequentWords": "[{\"das\":36},{\"kwo\":35},{\"oder\":35},{\"mit\":31},{\"nen\":29},{\"performance\":28}]",
+        "companyName": "Kraftwerke Oberhasli AG",
+        "fileName": "KraftwerkeOberhasliAG",
+        "sector": "Utility"
+    },
+    {
+        "frequentWords": "[{\"energy\":56},{\"finance\":50},{\"environmental\":46},{\"party\":34},{\"limited\":33},{\"holdings\":32}]",
+        "companyName": "KWG Group Holdings Limited",
+        "fileName": "KWGGroupHoldingsLimited",
+        "sector": "Corporate-Real Estate"
+    },
+    {
+        "frequentWords": "[{\"climate\":43},{\"forest\":31},{\"environmental\":27},{\"carbon\":26},{\"sustainability\":25},{\"management\":24}]",
+        "companyName": "Landshypotek Bank AB",
+        "fileName": "LandshypotekBankAB",
+        "sector": "Financial Institution"
+    },
+    {
+        "frequentWords": "[{\"vehicles\":37},{\"environmental\":27},{\"electric\":26},{\"emissions\":26},{\"party\":22},{\"sustainability\":22}]",
+        "companyName": "LeasePlan",
+        "fileName": "LeasePlan",
+        "sector": "Financial Institution"
+    },
+    {
+        "frequentWords": "[{\"climate\":51},{\"energy\":37},{\"environmental\":34},{\"impacts\":22},{\"change\":18},{\"management\":18}]",
+        "companyName": "Lietuvos Energija",
+        "fileName": "LietuvosEnergija",
+        "sector": "Corporate-Energy"
+    },
+    {
+        "frequentWords": "[{\"business\":149},{\"environmental\":129},{\"investment\":97},{\"benefits\":97},{\"activities\":80},{\"businesses\":56}]",
+        "companyName": "Looop Inc.",
+        "fileName": "LooopInc",
+        "sector": "Corporate-Energy"
+    },
+    {
+        "frequentWords": "[{\"energy\":57},{\"management\":38},{\"certification\":37},{\"sustainable\":31},{\"environmental\":30},{\"sustainability\":21}]",
+        "companyName": "Manulife",
+        "fileName": "Manulife",
+        "sector": "Financial Institution"
+    },
+    {
+        "frequentWords": "[{\"energy\":73},{\"renewable\":61},{\"power\":61},{\"sustainability\":43},{\"reduction\":29},{\"department\":27}]",
+        "companyName": "Marui Group",
+        "fileName": "MaruiGroup",
+        "sector": "Corporate-consumer services"
+    },
+    {
+        "frequentWords": "[{\"climate\":60},{\"measures\":59},{\"environmental\":51},{\"change\":49},{\"facilities\":39},{\"adaptation\":30}]",
+        "companyName": "Mie Prefecture",
+        "fileName": "MiePrefecture",
+        "sector": "Municipal"
+    },
+    {
+        "frequentWords": "[{\"environmental\":20},{\"power\":12},{\"electric\":11},{\"solar\":11},{\"reporting\":10},{\"generation\":10}]",
+        "companyName": "Mitsubishi Electric Credit Corporation ",
+        "fileName": "MitsubishiElectricCreditCorporation",
+        "sector": "Corporate-Technology"
+    },
+    {
+        "frequentWords": "[{\"power\":90},{\"energy\":84},{\"environmental\":57},{\"generation\":55},{\"hydrogen\":50},{\"renewable\":40}]",
+        "companyName": "Mitsubishi Heavy Industries (2020)",
+        "fileName": "MitsubishiHeavyIndustries(2020)",
+        "sector": "Corporate-Industry"
+    },
+    {
+        "frequentWords": "[{\"finance\":74},{\"lease\":71},{\"energy\":66},{\"environmental\":48},{\"power\":48},{\"business\":34}]",
+        "companyName": "Mitsubishi UFJ Lease and Finance",
+        "fileName": "MitsubishiUFJLeaseandFinance",
+        "sector": "Financial Institution"
+    },
+    {
+        "frequentWords": "[{\"environmental\":70},{\"trust\":49},{\"rights\":38},{\"energy\":35},{\"beneficiary\":32},{\"management\":30}]",
+        "companyName": "Mitsubishi UFJ Trust and Banking Corporation",
+        "fileName": "MitsubishiUFJTrustandBankingCorporation",
+        "sector": "Financial Institution"
+    },
+    {
+        "frequentWords": "[{\"environmental\":86},{\"energy\":68},{\"building\":60},{\"buildings\":58},{\"party\":54},{\"certification\":49}]",
+        "companyName": "Mitsui Fudosan Co., Ltd. (2020)",
+        "fileName": "MitsuiFudosanCo",
+        "sector": "Corporate-Real Estate"
+    },
+    {
+        "frequentWords": "[{\"energy\":84},{\"environmental\":77},{\"financial\":62},{\"party\":50},{\"building\":45},{\"buildings\":42}]",
+        "companyName": "Mizuho Financial Group, Inc. (2020)",
+        "fileName": "MizuhoFinancialGroupInc",
+        "sector": "Financial Institution"
+    },
+    {
+        "frequentWords": "[{\"energy\":50},{\"solar\":40},{\"climate\":33},{\"environmental\":32},{\"investments\":25},{\"governance\":23}]",
+        "companyName": "New Energy Investments",
+        "fileName": "NewEnergyInvestments",
+        "sector": "Corporate-Energy"
+    },
+    {
+        "frequentWords": "[{\"building\":50},{\"environmental\":38},{\"energy\":29},{\"development\":27},{\"standard\":23},{\"sustainable\":18}]",
+        "companyName": "New World Development",
+        "fileName": "NewWorldDevelopment",
+        "sector": "Corporate-Real Estate"
+    },
+    {
+        "frequentWords": "[{\"security\":26},{\"disaster\":25},{\"recovery\":25},{\"transit\":13},{\"verification\":12},{\"capital\":12}]",
+        "companyName": "New York MTA",
+        "fileName": "NewYorkMTA",
+        "sector": "Corporate-Transportation"
+    },
+    {
+        "frequentWords": "[{\"environmental\":25},{\"governance\":20},{\"buses\":18},{\"transport\":15},{\"climate\":15},{\"biofuels\":15}]",
+        "companyName": "Nobina AB",
+        "fileName": "NobinaAB",
+        "sector": "Corporate-Transportation"
+    },
+    {
+        "frequentWords": "[{\"2016\":23},{\"management\":38},{\"environmental\":36},{\"construction\":32},{\"robust\":31},{\"commitments\":26}]",
+        "companyName": "Nomura Research Institute (NRI)",
+        "fileName": "NomuraResearchInstitute(NRI)",
+        "sector": "Corporate-Consumer services"
+    },
+    {
+        "frequentWords": "[{\"environmental\":97},{\"energy\":57},{\"climate\":47},{\"emissions\":37},{\"impact\":32},{\"mandate\":30}]",
+        "companyName": "Nordic Investment Bank (NIB)",
+        "fileName": "NordicInvestmentBank(NIB)",
+        "sector": "MDB"
+    },
+    {
+        "frequentWords": "[{\"energy\":64},{\"renewable\":38},{\"environmental\":34},{\"sustainability\":31},{\"party\":26},{\"impact\":24}]",
+        "companyName": "NORD/LB Luxembourg S.A.",
+        "fileName": "NORDLBLuxembourgS",
+        "sector": "Financial Institution"
+    },
+    {
+        "frequentWords": "[{\"power\":58},{\"alignment\":49},{\"energy\":43},{\"party\":40},{\"environmental\":40},{\"taxonomy\":37}]",
+        "companyName": "Northland Power",
+        "fileName": "NorthlandPower",
+        "sector": "Corporate-Energy"
+    },
+    {
+        "frequentWords": "[{\"regional\":22},{\"water\":22},{\"treatment\":16},{\"management\":15},{\"verifiers\":13},{\"texas\":12}]",
+        "companyName": "North Texas Municipal Water District",
+        "fileName": "NorthTexasMunicipalWaterDistrict",
+        "sector": "Municipal"
+    },
+    {
+        "frequentWords": "[{\"environmental\":35},{\"party\":32},{\"aluminium\":28},{\"energy\":24},{\"reporting\":19},{\"impact\":18}]",
+        "companyName": "Novelis Inc",
+        "fileName": "NovelisInc",
+        "sector": "Corporate-Industry"
+    },
+    {
+        "frequentWords": "[{\"energy\":84},{\"buildings\":39},{\"efficiency\":34},{\"environmental\":32},{\"climate\":30},{\"consumption\":20}]",
+        "companyName": "NP3 Fastigheter",
+        "fileName": "NP3Fastigheter",
+        "sector": "Corporate-Real Estate"
+    },
+    {
+        "frequentWords": "[{\"environmental\":82},{\"construction\":54},{\"standards\":48},{\"energy\":44},{\"percentage\":43},{\"category\":40}]",
+        "companyName": "NRW.BANK (2018)",
+        "fileName": "NRW",
+        "sector": "Financial Institution"
+    },
+    {
+        "frequentWords": "[{\"teachers\":117},{\"climate\":67},{\"investments\":56},{\"energy\":51},{\"emissions\":49},{\"otppb\":35}]",
+        "companyName": "Ontario Teachers’ Pension Plan Board",
+        "fileName": "OntarioTeachersPensionPlanBoard",
+        "sector": "Financial Institution"
+    },
+    {
+        "frequentWords": "[{\"financial\":99},{\"energy\":51},{\"sustainable\":34},{\"management\":33},{\"party\":28},{\"buildings\":27}]",
+        "companyName": "OP Financial Group ",
+        "fileName": "OPFinancialGroup",
+        "sector": "Financial Institution"
+    },
+    {
+        "frequentWords": "[{\"energy\":86},{\"environmental\":57},{\"sustainability\":45},{\"buildings\":43},{\"corporation\":40},{\"party\":35}]",
+        "companyName": "ORIX Corporation",
+        "fileName": "ORIXCorporation",
+        "sector": "Financial Institution"
+    },
+    {
+        "frequentWords": "[{\"management\":45},{\"environmental\":34},{\"certification\":27},{\"stars\":26},{\"energy\":26},{\"environment\":22}]",
+        "companyName": "Orix JREIT Inc.",
+        "fileName": "OrixJREITInc",
+        "sector": "Financial Institution"
+    },
+    {
+        "frequentWords": "[{\"materials\":59},{\"climate\":47},{\"raw\":46},{\"packaging\":46},{\"production\":44},{\"products\":43}]",
+        "companyName": "Orkla",
+        "fileName": "Orkla",
+        "sector": "Corporate-Consumer goods"
+    },
+    {
+        "frequentWords": "[{\"environmental\":39},{\"party\":34},{\"energy\":31},{\"allocation\":31},{\"impact\":23},{\"climate\":21}]",
+        "companyName": "Pakistan Water & Power Development Authority ",
+        "fileName": "PakistanWaterPowerDevelopmentAuthority",
+        "sector": "Utility"
+    },
+    {
+        "frequentWords": "[{\"energy\":65},{\"certification\":53},{\"building\":53},{\"environmental\":40},{\"party\":36},{\"buildings\":35}]",
+        "companyName": "Prologis (2020)",
+        "fileName": "Prologis(2018)",
+        "sector": "Corporate-Real Estate"
+    },
+    {
+        "frequentWords": "[{\"climate\":47},{\"environmental\":40},{\"emissions\":23},{\"impacts\":21},{\"change\":20},{\"sustainable\":17}]",
+        "companyName": "Province of Québec",
+        "fileName": "ProvinceofQubec",
+        "sector": "Municipal"
+    },
+    {
+        "frequentWords": "[{\"sustainability\":53},{\"energy\":53},{\"loans\":48},{\"performance\":36},{\"raiffeisenbank\":35},{\"corporate\":30}]",
+        "companyName": "Raiffeisen Bank Czech Republic",
+        "fileName": "RaiffeisenBankCzechRepublic",
+        "sector": "Financial Institution"
+    },
+    {
+        "frequentWords": "[{\"energy\":95},{\"environmental\":49},{\"party\":43},{\"certification\":38},{\"management\":33},{\"sustainable\":31}]",
+        "companyName": "Raiffeisen Bank Romania",
+        "fileName": "RaiffeisenBankRomania",
+        "sector": "Financial Institution"
+    },
+    {
+        "frequentWords": "[{\"energy\":73},{\"water\":38},{\"environmental\":36},{\"international\":34},{\"management\":31},{\"party\":27}]",
+        "companyName": "Raiffeisen Bank Supra-national",
+        "fileName": "RaiffeisenBankSupra-national",
+        "sector": "Financial Institution"
+    },
+    {
+        "frequentWords": "[{\"rail\":47},{\"electric\":35},{\"climate\":32},{\"transit\":27},{\"verifiers\":23},{\"regional\":23}]",
+        "companyName": "Regional Transportation District (Colorado)",
+        "fileName": "RegionalTransportationDistrict(Colorado)",
+        "sector": "Utility"
+    },
+    {
+        "frequentWords": "[{\"renewable\":41},{\"diesel\":31},{\"party\":30},{\"environmental\":26},{\"energy\":22},{\"fuel\":20}]",
+        "companyName": "Renewable Energy Group, Inc",
+        "fileName": "RenewableEnergyGroupInc",
+        "sector": "Corporate-Energy"
+    },
+    {
+        "frequentWords": "[{\"power\":76},{\"environmental\":72},{\"renewable\":64},{\"energy\":61},{\"business\":30},{\"benefits\":29}]",
+        "companyName": "Renewable Japan Co. RJ Renewable Energy Project Bond IX Trust Certificate/ABL (2021)",
+        "fileName": "RenewableJapanCo",
+        "sector": "Corporate-Energy"
+    },
+    {
+        "frequentWords": "[{\"waste\":131},{\"finance\":53},{\"energy\":45},{\"management\":36},{\"operations\":26},{\"reporting\":25}]",
+        "companyName": "Renewi plc ",
+        "fileName": "Renewiplc",
+        "sector": "Corporate-Industry"
+    },
+    {
+        "frequentWords": "[{\"environmental\":32},{\"development\":27},{\"sustainable\":26},{\"management\":24},{\"commitments\":21},{\"energy\":19}]",
+        "companyName": "Republic and Canton of Geneva",
+        "fileName": "RepublicandCantonofGeneva",
+        "sector": "Municipal"
+    },
+    {
+        "frequentWords": "[{\"performance\":19},{\"sustainability\":18},{\"data\":17},{\"country\":17},{\"selection\":16},{\"expenditures\":15}]",
+        "companyName": "Republic of France (2021)",
+        "fileName": "RepublicofFrance(2021)",
+        "sector": "Sovereign"
+    },
+    {
+        "frequentWords": "[{\"climate\":63},{\"ministry\":48},{\"republic\":44},{\"environmental\":40},{\"energy\":31},{\"finance\":24}]",
+        "companyName": "Republic of Indonesia",
+        "fileName": "RepublicofIndonesia",
+        "sector": "Sovereign"
+    },
+    {
+        "frequentWords": "[{\"environmental\":42},{\"geothermal\":39},{\"emissions\":32},{\"energy\":28},{\"climate\":26},{\"impact\":25}]",
+        "companyName": "Reykjavik Energy",
+        "fileName": "ReykjavikEnergy",
+        "sector": "Corporate-Energy"
+    },
+    {
+        "frequentWords": "[{\"leasing\":41},{\"power\":21},{\"environmental\":21},{\"management\":20},{\"facilities\":20},{\"solar\":19}]",
+        "companyName": "Ricoh Leasing Company (2018)",
+        "fileName": "RicohLeasingCompany(2018)",
+        "sector": "Corporate-Consumer services"
+    },
+    {
+        "frequentWords": "[{\"energy\":35},{\"environmental\":34},{\"management\":32},{\"buildings\":27},{\"issuance\":25},{\"sustainable\":25}]",
+        "companyName": "Royal Schiphol Group",
+        "fileName": "RoyalSchipholGroup",
+        "sector": "Corporate-Infrastructure"
+    },
+    {
+        "frequentWords": "[{\"environmental\":32},{\"sustainability\":20},{\"report\":15},{\"impact\":15},{\"transport\":14},{\"freight\":14}]",
+        "companyName": "Rumo S.A.",
+        "fileName": "RumoS",
+        "sector": "Corporate-Transportation"
+    },
+    {
+        "frequentWords": "[{\"energy\":52},{\"renewable\":31},{\"party\":29},{\"environmental\":23},{\"sustainability\":22},{\"reporting\":18}]",
+        "companyName": "RWE",
+        "fileName": "RWE",
+        "sector": "Corporate-Energy"
+    },
+    {
+        "frequentWords": "[{\"energy\":40},{\"verifiers\":23},{\"construction\":23},{\"facilities\":22},{\"building\":22},{\"school\":21}]",
+        "companyName": "San Diego Unified School District (San Diego County, California)",
+        "fileName": "SanDiegoUnifiedSchoolDistrict(SanDiegoCountyCalifornia)",
+        "sector": "Utility"
+    },
+    {
+        "frequentWords": "[{\"energy\":57},{\"finance\":42},{\"buildings\":35},{\"environmental\":23},{\"climate\":22},{\"emissions\":20}]",
+        "companyName": "SATO",
+        "fileName": "SATO",
+        "sector": "Corporate-Real Estate"
+    },
+    {
+        "frequentWords": "[{\"finance\":20},{\"energy\":18},{\"report\":12},{\"environmental\":12},{\"financing\":11},{\"external\":10}]",
+        "companyName": "Scatec ASA",
+        "fileName": "ScatecASA",
+        "sector": "Corporate-Infrastructure"
+    },
+    {
+        "frequentWords": "[{\"energy\":75},{\"finance\":40},{\"sustainability\":32},{\"management\":31},{\"emissions\":29},{\"electricity\":26}]",
+        "companyName": "Schaeffler Group",
+        "fileName": "SchaefflerGroup",
+        "sector": "Corporate-Industry"
+    },
+    {
+        "frequentWords": "[{\"sustainable\":65},{\"environmental\":64},{\"energy\":59},{\"certification\":47},{\"organic\":45},{\"party\":39}]",
+        "companyName": "Scotiabank",
+        "fileName": "Scotiabank",
+        "sector": "Financial Institution"
+    },
+    {
+        "frequentWords": "[{\"power\":35},{\"management\":34},{\"environmental\":34},{\"environment\":21},{\"trains\":21},{\"solar\":20}]",
+        "companyName": "Seibu Holdings Inc.",
+        "fileName": "SeibuHoldingsInc",
+        "sector": "Corporate-Consumer services"
+    },
+    {
+        "frequentWords": "[{\"environmental\":59},{\"energy\":52},{\"management\":51},{\"products\":44},{\"printers\":38},{\"water\":33}]",
+        "companyName": "Seiko Epson Corporation (2019)",
+        "fileName": "SeikoEpsonCorporation(2019)",
+        "sector": "Corporate-Technology"
+    },
+    {
+        "frequentWords": "[{\"business\":151},{\"environmental\":139},{\"investment\":96},{\"activities\":81},{\"benefits\":80},{\"including\":57}]",
+        "companyName": "Seiko Epson Corporation (2020)",
+        "fileName": "SeikoEpsonCorporation(2020)",
+        "sector": "Corporate-Technology"
+    },
+    {
+        "frequentWords": "[{\"house\":45},{\"sustainability\":38},{\"buildings\":35},{\"environmental\":35},{\"certification\":32},{\"reit\":31}]",
+        "companyName": "Sekisui House Reit",
+        "fileName": "SekisuiHouseReit",
+        "sector": "Corporate-Real Estate"
+    },
+    {
+        "frequentWords": "[{\"environmental\":81},{\"center\":45},{\"co2\":44},{\"distribution\":44},{\"emissions\":39},{\"logistics\":35}]",
+        "companyName": "Senko Group Holdings Co., Ltd.",
+        "fileName": "SenkoGroupHoldingsCo",
+        "sector": "Corporate-Consumer services"
+    },
+    {
+        "frequentWords": "[{\"energy\":30},{\"environmental\":24},{\"social\":18},{\"renewable\":17},{\"standards\":16},{\"sindicatum\":11}]",
+        "companyName": "Sindicatum Renewable Energy Company Pte",
+        "fileName": "SindicatumRenewableEnergyCompanyPte",
+        "sector": "Corporate-Energy"
+    },
+    {
+        "frequentWords": "[{\"energy\":53},{\"biomass\":50},{\"plant\":36},{\"forest\":35},{\"environmental\":33},{\"power\":31}]",
+        "companyName": "Sociedade Bioelétrica do Mondego",
+        "fileName": "SociedadeBioeltricadoMondego",
+        "sector": "Corporate-Energy"
+    },
+    {
+        "frequentWords": "[{\"environmental\":36},{\"climate\":27},{\"energy\":27},{\"power\":19},{\"emissions\":15},{\"management\":14}]",
+        "companyName": "Sogn Fjordane Energi (SFE)",
+        "fileName": "SognFjordaneEnergi(SFE)",
+        "sector": "Corporate-Energy"
+    },
+    {
+        "frequentWords": "[{\"waste\":80},{\"management\":40},{\"environmental\":39},{\"energy\":27},{\"center\":24},{\"recycling\":23}]",
+        "companyName": "South Bayside Waste Management Authority",
+        "fileName": "SouthBaysideWasteManagementAuthority",
+        "sector": "Agency"
+    },
+    {
+        "frequentWords": "[{\"2015\":8},{\"management\":14},{\"senior\":12},{\"assertion\":10},{\"generation\":8},{\"report\":7}]",
+        "companyName": "Southern Power",
+        "fileName": "SouthernPower",
+        "sector": "Corporate-Energy"
+    },
+    {
+        "frequentWords": "[{\"energy\":67},{\"sustainability\":38},{\"emissions\":28},{\"waste\":25},{\"buildings\":23},{\"environmental\":23}]",
+        "companyName": "Sparbanken Skåne",
+        "fileName": "SparbankenSkne",
+        "sector": "Financial Institution"
+    },
+    {
+        "frequentWords": "[{\"loans\":29},{\"energy\":19},{\"environmental\":12},{\"reporting\":11},{\"annual\":11},{\"external\":10}]",
+        "companyName": "Sparbanken Västra Mälardalen",
+        "fileName": "SparbankenVstraMlardalen",
+        "sector": "Financial Institution"
+    },
+    {
+        "frequentWords": "[{\"environmental\":30},{\"sparebanken\":24},{\"og\":24},{\"climate\":23},{\"reporting\":20},{\"governance\":17}]",
+        "companyName": "Sparebanken Sogn og Fjordane",
+        "fileName": "SparebankenSognogFjordane",
+        "sector": "Financial Institution"
+    },
+    {
+        "frequentWords": "[{\"environmental\":16},{\"external\":11},{\"energy\":11},{\"report\":10},{\"reporting\":9},{\"production\":9}]",
+        "companyName": "Stavmat Kft",
+        "fileName": "StavmatKft",
+        "sector": "Corporate-Real Estate"
+    },
+    {
+        "frequentWords": "[{\"climate\":43},{\"recycling\":35},{\"environmental\":24},{\"snrc\":21},{\"investments\":14},{\"waste\":12}]",
+        "companyName": "Stena Metall AB",
+        "fileName": "StenaMetallAB",
+        "sector": "Corporate-Industry"
+    },
+    {
+        "frequentWords": "[{\"energy\":89},{\"environmental\":77},{\"financial\":41},{\"environment\":34},{\"sumitomo\":33},{\"efficiency\":31}]",
+        "companyName": "Sumitomo Mitsui Financial Group, Inc (2018)",
+        "fileName": "SumitomoMitsuiFinancialGroupInc(2018)",
+        "sector": "Financial Institution"
+    },
+    {
+        "frequentWords": "[{\"trust\":69},{\"environmental\":39},{\"management\":38},{\"power\":37},{\"rights\":33},{\"generation\":32}]",
+        "companyName": "Sumitomo Mitsui Trust Bank (2018)",
+        "fileName": "SumitomoMitsuiTrustBank(2018)",
+        "sector": "Financial Institution"
+    },
+    {
+        "frequentWords": "[{\"trust\":134},{\"energy\":102},{\"environmental\":55},{\"party\":48},{\"sumitomo\":47},{\"certification\":40}]",
+        "companyName": "Sumitomo Mitsui Trust Bank (2021)",
+        "fileName": "SumitomoMitsuiTrustBank(2021)",
+        "sector": "Financial Institution"
+    },
+    {
+        "frequentWords": "[{\"summit\":47},{\"financing\":22},{\"energy\":22},{\"management\":17},{\"environmental\":16},{\"investments\":13}]",
+        "companyName": "Summit Industrial Income REIT",
+        "fileName": "SummitIndustrialIncomeREIT",
+        "sector": "Corporate-Real Estate"
+    },
+    {
+        "frequentWords": "[{\"climate\":49},{\"environmental\":39},{\"governance\":21},{\"energy\":18},{\"loans\":18},{\"renewable\":16}]",
+        "companyName": "Sunndal Sparebanken",
+        "fileName": "SunndalSparebanken",
+        "sector": "Financial Institution"
+    },
+    {
+        "frequentWords": "[{\"sustainability\":49},{\"solar\":35},{\"performance\":33},{\"energy\":33},{\"corporate\":27},{\"industry\":25}]",
+        "companyName": "Sunrun Inc. ",
+        "fileName": "SunrunInc",
+        "sector": "Corporate-Energy"
+    },
+    {
+        "frequentWords": "[{\"2016\":18},{\"environmental\":39},{\"management\":30},{\"certification\":29},{\"forest\":24},{\"water\":20}]",
+        "companyName": "Suzano Papel e Celulose S.A.",
+        "fileName": "SuzanoPapeleCeluloseS",
+        "sector": "Corporate-Industry"
+    },
+    {
+        "frequentWords": "[{\"forest\":54},{\"energy\":42},{\"climate\":35},{\"fossil\":32},{\"forests\":29},{\"products\":28}]",
+        "companyName": "Svenska Cellulosa Aktiebolaget SCA",
+        "fileName": "SvenskaCellulosaAktiebolagetSCA",
+        "sector": "Corporate-Consumer goods"
+    },
+    {
+        "frequentWords": "[{\"emissions\":44},{\"energy\":41},{\"environmental\":41},{\"airport\":30},{\"climate\":27},{\"aviation\":24}]",
+        "companyName": "Swedavia",
+        "fileName": "Swedavia",
+        "sector": "Corporate-Transportation"
+    },
+    {
+        "frequentWords": "[{\"energy\":26},{\"management\":24},{\"sustainable\":15},{\"reviewed\":14},{\"addition\":13},{\"environmental\":13}]",
+        "companyName": "Swedbank AB",
+        "fileName": "SwedbankAB",
+        "sector": "Financial Institution"
+    },
+    {
+        "frequentWords": "[{\"energy\":79},{\"efficiency\":40},{\"data\":36},{\"environmental\":33},{\"network\":29},{\"report\":28}]",
+        "companyName": "Swisscom",
+        "fileName": "Swisscom",
+        "sector": "Corporate-Telecom"
+    },
+    {
+        "frequentWords": "[{\"life\":75},{\"energy\":35},{\"environmental\":32},{\"buildings\":30},{\"management\":26},{\"building\":22}]",
+        "companyName": "Swiss Life",
+        "fileName": "SwissLife",
+        "sector": "Financial Institution"
+    },
+    {
+        "frequentWords": "[{\"sustainability\":32},{\"spo\":23},{\"performance\":19},{\"social\":19},{\"sus\":15},{\"tainabil\":15}]",
+        "companyName": "Swiss Prime Site",
+        "fileName": "SwissPrimeSite",
+        "sector": "Corporate-Real Estate"
+    },
+    {
+        "frequentWords": "[{\"waste\":62},{\"environmental\":42},{\"energy\":42},{\"management\":41},{\"syctom\":37},{\"defined\":24}]",
+        "companyName": "SYCTOM",
+        "fileName": "SYCTOM",
+        "sector": "Utility"
+    },
+    {
+        "frequentWords": "[{\"energy\":74},{\"synthesis\":72},{\"analytics\":60},{\"party\":34},{\"environmental\":30},{\"efficiency\":28}]",
+        "companyName": "Synthesis Analytics",
+        "fileName": "SynthesisAnalytics",
+        "sector": "Corporate-Energy"
+    },
+    {
+        "frequentWords": "[{\"energy\":90},{\"environmental\":47},{\"party\":43},{\"management\":40},{\"certification\":39},{\"tbsk\":38}]",
+        "companyName": "Tatra Banka",
+        "fileName": "TatraBanka",
+        "sector": "Financial Institution"
+    },
+    {
+        "frequentWords": "[{\"sustainability\":62},{\"valley\":54},{\"authority\":50},{\"energy\":49},{\"environmental\":48},{\"climate\":45}]",
+        "companyName": "Tennessee Valley Authority ",
+        "fileName": "TennesseeValleyAuthority",
+        "sector": "Agency"
+    },
+    {
+        "frequentWords": "[{\"energy\":27},{\"rail\":26},{\"management\":23},{\"transit\":22},{\"transportation\":20},{\"pollution\":20}]",
+        "companyName": "Tianjin Rail Transit Group",
+        "fileName": "TianjinRailTransitGroup",
+        "sector": "Corporate-Transportation"
+    },
+    {
+        "frequentWords": "[{\"environmental\":48},{\"sustainability\":46},{\"financed\":44},{\"quality\":40},{\"impact\":33},{\"sdgs\":28}]",
+        "companyName": "Tokyo Metropolitan Government",
+        "fileName": "TokyoMetropolitanGovernment",
+        "sector": "Municipal"
+    },
+    {
+        "frequentWords": "[{\"energy\":95},{\"holdings\":84},{\"environmental\":83},{\"building\":64},{\"buildings\":47},{\"management\":44}]",
+        "companyName": "Tokyu Fudosan Holdings",
+        "fileName": "TokyuFudosanHoldings",
+        "sector": "Corporate-Real Estate"
+    },
+    {
+        "frequentWords": "[{\"business\":179},{\"environmental\":143},{\"investment\":126},{\"benefits\":112},{\"activities\":96},{\"including\":67}]",
+        "companyName": "Tokyu Land Capital Management Inc. (2021)",
+        "fileName": "TokyuLandCapitalManagementInc",
+        "sector": "Corporate-Real Estate"
+    },
+    {
+        "frequentWords": "[{\"school\":44},{\"elementary\":23},{\"town\":19},{\"verifiers\":13},{\"energy\":13},{\"building\":12}]",
+        "companyName": "Town of Wareham",
+        "fileName": "TownofWareham",
+        "sector": "Municipal"
+    },
+    {
+        "frequentWords": "[{\"business\":225},{\"environmental\":207},{\"investment\":136},{\"activities\":112},{\"benefits\":109},{\"vehicles\":79}]",
+        "companyName": "Toyota Finance Corporation (2020)",
+        "fileName": "ToyotaFinanceCorporation(2020)",
+        "sector": "Financial Institution"
+    },
+    {
+        "frequentWords": "[{\"business\":211},{\"environmental\":198},{\"investment\":134},{\"benefits\":109},{\"activities\":106},{\"vehicles\":79}]",
+        "companyName": "Toyota Motor Credit Corporation (2017)",
+        "fileName": "ToyotaMotorCreditCorporation(2017)",
+        "sector": "Corporate-Transportation"
+    },
+    {
+        "frequentWords": "[{\"environmental\":43},{\"party\":36},{\"sustainability\":25},{\"vehicles\":24},{\"emissions\":23},{\"market\":21}]",
+        "companyName": "Toyota Motor Credit Corporation (2021)",
+        "fileName": "ToyotaMotorCreditCorporation(2021)",
+        "sector": "Corporate-Transportation"
+    },
+    {
+        "frequentWords": "[{\"energy\":64},{\"finance\":56},{\"party\":36},{\"buildings\":35},{\"environmental\":34},{\"building\":27}]",
+        "companyName": "Tritax EuroBox plc",
+        "fileName": "TritaxEuroBoxplc",
+        "sector": "Corporate-Real Estate"
+    },
+    {
+        "frequentWords": "[{\"environmental\":50},{\"construction\":37},{\"standards\":33},{\"percentage\":26},{\"sustainability\":23},{\"provide\":22}]",
+        "companyName": "UBI Banca",
+        "fileName": "UBIBanca",
+        "sector": "Financial Institution"
+    },
+    {
+        "frequentWords": "[{\"funding\":38},{\"environmental\":35},{\"party\":33},{\"building\":24},{\"impact\":21},{\"energy\":21}]",
+        "companyName": "UBS",
+        "fileName": "UBS",
+        "sector": "Financial Institution"
+    },
+    {
+        "frequentWords": "[{\"energy\":39},{\"environmental\":36},{\"party\":31},{\"buildings\":28},{\"allocation\":22},{\"impact\":21}]",
+        "companyName": "Vía Célere SL",
+        "fileName": "VaClereSL",
+        "sector": "Corporate-Real Estate"
+    },
+    {
+        "frequentWords": "[{\"management\":45},{\"assurance\":41},{\"paper\":40},{\"environmental\":38},{\"report\":33},{\"energy\":27}]",
+        "companyName": "Vajda Papír Kft",
+        "fileName": "VajdaPaprKft",
+        "sector": "Corporate-Consumer goods"
+    },
+    {
+        "frequentWords": "[{\"energy\":53},{\"emissions\":37},{\"buildings\":35},{\"climate\":34},{\"loans\":31},{\"environmental\":30}]",
+        "companyName": "Varbergs Sparbank",
+        "fileName": "VarbergsSparbank",
+        "sector": "Financial Institution"
+    },
+    {
+        "frequentWords": "[{\"energy\":61},{\"finance\":44},{\"management\":41},{\"environmental\":37},{\"standards\":21},{\"operation\":20}]",
+        "companyName": "Vena Energy (2019)",
+        "fileName": "VenaEnergy(2019)",
+        "sector": "Corporate-Energy"
+    },
+    {
+        "frequentWords": "[{\"energy\":36},{\"change\":27},{\"financial\":20},{\"debt\":19},{\"payment\":19},{\"alteration\":18}]",
+        "companyName": "Vena Energy (2020)",
+        "fileName": "VenaEnergy(2020)",
+        "sector": "Corporate-Energy"
+    },
+    {
+        "frequentWords": "[{\"principles\":10},{\"environmental\":8},{\"benefits\":6},{\"investment\":5},{\"management\":5},{\"principle\":5}]",
+        "companyName": "Vestas Wind Systems A/S",
+        "fileName": "VestasWindSystemsAS",
+        "sector": "Corporate-Energy"
+    },
+    {
+        "frequentWords": "[{\"energy\":51},{\"finance\":49},{\"buildings\":24},{\"party\":22},{\"allocation\":21},{\"environmental\":19}]",
+        "companyName": "Vesteda",
+        "fileName": "Vesteda",
+        "sector": "Corporate-Real Estate"
+    },
+    {
+        "frequentWords": "[{\"environmental\":17},{\"external\":10},{\"categories\":10},{\"reporting\":9},{\"allocation\":9},{\"verification\":8}]",
+        "companyName": "Vestel",
+        "fileName": "Vestel",
+        "sector": "Corporate-Technology"
+    },
+    {
+        "frequentWords": "[{\"energy\":69},{\"finance\":51},{\"buildings\":44},{\"emissions\":38},{\"environmental\":35},{\"climate\":34}]",
+        "companyName": "VGP NV",
+        "fileName": "VGPNV",
+        "sector": "Corporate-Real Estate"
+    },
+    {
+        "frequentWords": "[{\"outlets\":75},{\"finance\":56},{\"sustainability\":46},{\"instruments\":33},{\"environmental\":26},{\"energy\":26}]",
+        "companyName": "VIA Outlets",
+        "fileName": "VIAOutlets",
+        "sector": "Corporate-Real Estate"
+    },
+    {
+        "frequentWords": "[{\"visa\":144},{\"energy\":50},{\"sustainable\":41},{\"environmental\":37},{\"data\":33},{\"party\":26}]",
+        "companyName": "Visa Inc.",
+        "fileName": "VisaInc",
+        "sector": "Corporate-Consumer services"
+    },
+    {
+        "frequentWords": "[{\"solar\":62},{\"vivint\":38},{\"performance\":37},{\"sustainability\":34},{\"industry\":29},{\"corporate\":27}]",
+        "companyName": "Vivint Solar Inc",
+        "fileName": "VivintSolarInc",
+        "sector": "Corporate-Energy"
+    },
+    {
+        "frequentWords": "[{\"electric\":37},{\"vehicles\":34},{\"reporting\":27},{\"emissions\":27},{\"sustainability\":26},{\"party\":24}]",
+        "companyName": "Volkswagen",
+        "fileName": "Volkswagen",
+        "sector": "Corporate-Transportation"
+    },
+    {
+        "frequentWords": "[{\"cars\":46},{\"electric\":29},{\"emissions\":25},{\"hybrid\":24},{\"environmental\":24},{\"climate\":23}]",
+        "companyName": "Volvofinans Bank AB (2019)",
+        "fileName": "VolvofinansBankAB(2019)",
+        "sector": "Financial Institution"
+    },
+    {
+        "frequentWords": "[{\"energy\":80},{\"building\":41},{\"environmental\":36},{\"party\":35},{\"efficiency\":31},{\"allocation\":26}]",
+        "companyName": "Vonovia",
+        "fileName": "Vonovia",
+        "sector": "Corporate-Real Estate"
+    },
+    {
+        "frequentWords": "[{\"energy\":40},{\"buildings\":25},{\"climate\":22},{\"building\":20},{\"environmental\":19},{\"governance\":18}]",
+        "companyName": "Wallenstam",
+        "fileName": "Wallenstam",
+        "sector": "Corporate-Real Estate"
+    },
+    {
+        "frequentWords": "[{\"authority\":47},{\"bus\":47},{\"program\":41},{\"public\":27},{\"infrastructure\":27},{\"rehabilitation\":27}]",
+        "companyName": "Washington Metropolitan Area Transit Authority (WMATA)",
+        "fileName": "WashingtonMetropolitanAreaTransitAuthority(WMATA)",
+        "sector": "Utility"
+    },
+    {
+        "frequentWords": "[{\"energy\":70},{\"environmental\":35},{\"water\":30},{\"certification\":30},{\"party\":26},{\"efficiency\":25}]",
+        "companyName": "Welltower Inc.",
+        "fileName": "WelltowerInc",
+        "sector": "Corporate-Healthcare"
+    },
+    {
+        "frequentWords": "[{\"energy\":34},{\"verifiers\":22},{\"upgrades\":19},{\"solar\":18},{\"authority\":14},{\"management\":14}]",
+        "companyName": "West County Facilities Financing Authority",
+        "fileName": "WestCountyFacilitiesFinancingAuthority",
+        "sector": "Agency"
+    },
+    {
+        "frequentWords": "[{\"energy\":45},{\"finance\":44},{\"building\":43},{\"environmental\":39},{\"climate\":31},{\"buildings\":20}]",
+        "companyName": "White Peak",
+        "fileName": "WhitePeak",
+        "sector": "Corporate-Real Estate"
+    },
+    {
+        "frequentWords": "[{\"workspace\":115},{\"report\":30},{\"finance\":27},{\"energy\":27},{\"management\":25},{\"reviewed\":24}]",
+        "companyName": "Workspace Group PLC",
+        "fileName": "WorkspaceGroupPLC",
+        "sector": "Corporate-Real Estate"
+    },
+    {
+        "frequentWords": "[{\"energy\":77},{\"management\":45},{\"environmental\":45},{\"finance\":44},{\"party\":41},{\"waste\":35}]",
+        "companyName": "Xiaomi Corporation",
+        "fileName": "XiaomiCorporation",
+        "sector": "Corporate-Consumer goods"
+    },
+    {
+        "frequentWords": "[{\"energy\":63},{\"finance\":54},{\"student\":47},{\"waste\":42},{\"housing\":37},{\"management\":30}]",
+        "companyName": "Xior Student Housing N.V.",
+        "fileName": "XiorStudentHousingN",
+        "sector": "Corporate-Real Estate"
+    },
+    {
+        "frequentWords": "[{\"energy\":20},{\"alignment\":17},{\"environmental\":14},{\"sustainable\":13},{\"finance\":13},{\"impact\":12}]",
+        "companyName": "Zhenro Properties Group Ltd.",
+        "fileName": "ZhenroPropertiesGroupLtd",
+        "sector": "Corporate-Real Estate"
+    },
+    {
+        "frequentWords": "[{\"holdings\":112},{\"energy\":76},{\"data\":63},{\"corporation\":58},{\"environmental\":49},{\"party\":38}]",
+        "companyName": "Z Holdings Corporation",
+        "fileName": "ZHoldingsCorporation",
+        "sector": "Corporate-Consumer services"
+    }
+]

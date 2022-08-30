@@ -9,9 +9,10 @@ const fs_1 = __importDefault(require('fs'));
 const path_1 = __importDefault(require('path'));
 const stopWords_1 = __importDefault(require('./stopWords'));
 const filesToRead = fs_1.default.readdirSync(path_1.default.resolve(__dirname, '../../assets/files/fileOutputs'));
-const ICMA_Sustainable_Bonds_Database_110322_json_1 = __importDefault(require('../../assets/files/json/ICMA-Sustainable-Bonds-Database-030822.json'));
+const ICMA_Sustainable_Bonds_Database_030822_json_1 = __importDefault(require('./JSON_for_mongo.json'));
 const countWordFrequency = (filesToRead) => {
     let counter = 0;
+
     const wordFrequenciesPerDocument = filesToRead.map((element) => {
         const elementContents = fs_1.default.readFileSync(`../../assets/files/fileOutputs/${element}`, 'utf-8');
         const companyName = element.split('.')[0];
@@ -33,15 +34,23 @@ const countWordFrequency = (filesToRead) => {
                 }
             }
         }
-        console.log((result = maxValues(result, 6)), (result.companyName = ICMA_Sustainable_Bonds_Database_110322_json_1.default[counter].Green_Bond_Issuer), (result.fileName = companyName));
+        result = maxValues(result, 6);
+        const objectToReturn = {
+            frequentWords: JSON.stringify(result),
+            companyName: ICMA_Sustainable_Bonds_Database_030822_json_1.default[counter].companyName,
+            fileName: companyName,
+            sector: ICMA_Sustainable_Bonds_Database_030822_json_1.default[counter].sector
+        };
+
+        // result.companyName = ICMA_Sustainable_Bonds_Database_030822_json_1.default[counter].companyName;
+
+        // result.fileName = companyName;
+        // result.sector = ICMA_Sustainable_Bonds_Database_030822_json_1.default[counter].sector;
         counter++;
 
-        return result;
+        return objectToReturn;
     });
-    // for (let i = 0; i < wordFrequenciesPerDocument.length; i++) {
-    //     console.log(wordFrequenciesPerDocument);
-    // }
-    // process.stdout.write(JSON.stringify(wordFrequenciesPerDocument) + '\n');
+    console.log(wordFrequenciesPerDocument);
     return wordFrequenciesPerDocument;
 };
 
@@ -76,8 +85,20 @@ function maxValues(o, n) {
 const joinData = (wordData, companyJson) => {
     // const dataStuff = wordData.map((element: any) => {
     //   if(wordData.companyName === companyJson.) {
+    console.log('---------------', wordData);
     //   }
     // });
 };
 // countWordFrequency(filesToRead);
-joinData(countWordFrequency(filesToRead), ICMA_Sustainable_Bonds_Database_110322_json_1.default);
+const createListOfFrequentWords = (jsonFile) => {
+    console.log('typeof', typeof jsonFile, 'result', jsonFile);
+    fs_1.default.writeFile(`./word_frequencies.json`, JSON.stringify(jsonFile), (err) => {
+        if (err) {
+            console.error(err);
+            return;
+        }
+    });
+};
+const Json = countWordFrequency(filesToRead, ICMA_Sustainable_Bonds_Database_030822_json_1.default);
+// console.log('myJsonFile', Json);
+createListOfFrequentWords(Json);

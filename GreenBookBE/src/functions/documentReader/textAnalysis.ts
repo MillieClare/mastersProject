@@ -3,7 +3,7 @@ import path from 'path';
 import stopWords from './stopWords';
 
 const filesToRead = fs.readdirSync(path.resolve(__dirname, '../../assets/files/fileOutputs'));
-import jsonFiles from '../../assets/files/json/ICMA-Sustainable-Bonds-Database-030822.json';
+import jsonFiles from './JSON_for_mongo.json';
 
 const countWordFrequency = (filesToRead: any) => {
   let counter: number = 0;
@@ -27,11 +27,15 @@ const countWordFrequency = (filesToRead: any) => {
       }
     }
     result = maxValues(result, 6);
-    result.companyName = jsonFiles[counter].Green_Bond_Issuer;
-    result.fileName = companyName;
+    const objectToReturn = {
+      frequentWords: JSON.stringify(result),
+      companyName: jsonFiles[counter].companyName,
+      fileName: companyName,
+      sector: jsonFiles[counter].sector
+    };
     counter++;
 
-    return result;
+    return objectToReturn;
   });
   console.log(wordFrequenciesPerDocument);
   return wordFrequenciesPerDocument;
@@ -61,17 +65,14 @@ function maxValues(o: any, n: number) {
   return cutObject(resultsSorted, 6);
 }
 
-// map company name to JSON object
-
-const joinData = (wordData: any, companyJson: Record<string, any>) => {
-  // const dataStuff = wordData.map((element: any) => {
-  //   if(wordData.companyName === companyJson.) {
-
-  console.log('---------------', wordData);
-  //   }
-  // });
+const createListOfFrequentWords = (jsonFile: any) => {
+  fs.writeFile(`./word_frequencies.json`, JSON.stringify(jsonFile), (err) => {
+    if (err) {
+      console.error(err);
+      return;
+    }
+  });
 };
 
-// countWordFrequency(filesToRead);
-
-joinData(countWordFrequency(filesToRead), jsonFiles);
+const Json = countWordFrequency(filesToRead);
+createListOfFrequentWords(Json);
