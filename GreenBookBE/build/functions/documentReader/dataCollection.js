@@ -3,7 +3,7 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
     return (mod && mod.__esModule) ? mod : { "default": mod };
 };
 Object.defineProperty(exports, "__esModule", { value: true });
-exports.gatherDataBaseData = void 0;
+exports.getDataForScoresAndGraphs = exports.gatherDataBaseData = void 0;
 const fs_1 = __importDefault(require("fs"));
 const path_1 = __importDefault(require("path"));
 const ICMA_Sustainable_Bonds_Database_030822_json_1 = __importDefault(require("../../assets/files/json/ICMA-Sustainable-Bonds-Database-030822.json"));
@@ -33,3 +33,20 @@ const createJsonForMongo = () => {
     });
 };
 createJsonForMongo();
+const getDataForScoresAndGraphs = (companies) => {
+    const dataCollection = companies.map((element) => {
+        return {
+            companyName: element.Green_Bond_Issuer,
+            score: 0,
+            normalisedWordTfIdfScores: {
+                1: 1,
+                2: 2,
+                3: 3,
+                4: 4,
+                5: 5,
+                6: 6
+            }
+        };
+    });
+};
+exports.getDataForScoresAndGraphs = getDataForScoresAndGraphs;

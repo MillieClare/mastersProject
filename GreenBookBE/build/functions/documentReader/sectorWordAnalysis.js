@@ -9,13 +9,12 @@ const word_frequencies_json_1 = __importDefault(require('./word_frequencies.json
 const natural = require('natural');
 const fs = require('fs');
 const TfIdf = natural.TfIdf;
+const tfidf = new TfIdf();
 const sectors = new Set(word_frequencies_json_1.default.map((element) => element.sector));
 const sectorsArray = Array.from(sectors);
-// console.log(sectors);
 const frequentWordsPerSector = (sectors) => {
     const wordFrequenciesPerSector = sectors.map((sector) => {
         const reports = word_frequencies_json_1.default.filter((record) => record.sector === sector);
-        // console.log('reports', reports.length);
         const reportWords = reports.map((element) => JSON.parse(element.frequentWords));
         const wordArray = [];
         reportWords.map((object) => {
@@ -41,57 +40,55 @@ const frequentWordsPerSector = (sectors) => {
     });
     return wordFrequenciesPerSector;
 };
-
 const tfidfScores = (sectorData) => {
-    // console.log(sectorData);
     const results = sectorData.map((entry) => {
         const tfidf = new TfIdf();
-
         const getFilesInSector = [];
         const reports = word_frequencies_json_1.default.filter((record) => record.sector === entry.sector);
-        // console.log('entry', entry);
         reports.map((reportToGet) => getFilesInSector.push(reportToGet.fileName + '.txt'));
         const loadDocuments = (listOfFilesToRead, tfidfObject) => {
-            return new Promise((resolve, reject) => {
-                listOfFilesToRead.forEach((file) => {
-                    try {
-                        const data = fs.readFileSync(`../../assets/files/fileOutputs/${file}`, { encoding: 'utf8', flag: 'r' });
-                        tfidfObject.addDocument(data);
-                    } catch (err) {
-                        console.error(err);
-                    }
-                });
-                return resolve(tfidfObject);
+            listOfFilesToRead.forEach((file) => {
+                try {
+                    const data = fs.readFileSync(`../../assets/files/fileOutputs/${file}`, { encoding: 'utf8', flag: 'r' });
+                    tfidfObject.addDocument(data);
+                } catch (err) {
+                    console.error(err);
+                }
             });
+            return tfidfObject;
         };
         const runTfIdf = (tfidfObject) => {
             const wordsObjectArray = JSON.parse(entry.words);
             const flattenedWordsArray = Object.assign({}, ...wordsObjectArray);
             let resultsObject = {};
             getFilesInSector.map((reportName, index) => {
-                resultsObject[index] = reportName;
-                // resultsObject[reportName] = {};
+                resultsObject[entry.sector] = entry.sector;
+                resultsObject[reportName] = {};
             });
-            Object.keys(flattenedWordsArray).forEach((word) => {
-                let j = 0;
+            Object.keys(flattenedWordsArray).forEach((word, wordIndex) => {
                 tfidfObject.tfidfs(word, function(i, measure) {
-                    console.log('this is getFilesInSector ', getFilesInSector);
-                    resultsObject[getFilesInSector] = {
-                        getFilesInSector,
-                        resultsObject: {
-                            word: word,
-                            measure: measure
-                        }
-                    };
-                    j++;
-                    // console.log(resultsObject);
+                    resultsObject[getFilesInSector[i]][word] = measure;
                 });
             });
-            console.log(resultsObject);
-            console.log('**********************************NEXT SECTOR****************************');
+
+            return resultsObject;
         };
-        const results = loadDocuments(getFilesInSector, tfidf).then((result) => runTfIdf(result));
+        const getDocuments = loadDocuments(getFilesInSector, tfidf);
+        const results = runTfIdf(getDocuments);
+
+        console.log(results);
+
+        return results;
     });
     return results;
 };
-console.log(tfidfScores(frequentWordsPerSector(sectorsArray)));
+const createListOfTopSectorWords = (jsonFile) => {
+    fs.writeFile(`./topSectorWords.json`, JSON.stringify(jsonFile), (err) => {
+        if (err) {
+            console.error(err);
+            return;
+        }
+    });
+};
+const json = tfidfScores(frequentWordsPerSector(sectorsArray));
+createListOfTopSectorWords(json);
