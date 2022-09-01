@@ -6,26 +6,22 @@ const tfidf = new TfIdf();
 
 const sectors = new Set(wordFrequencies.map((element) => element.sector));
 const sectorsArray = Array.from(sectors);
-// console.log(sectors);
+console.log(sectors);
 
 const frequentWordsPerSector = (sectors: Array<String>) => {
   const wordFrequenciesPerSector = sectors.map((sector) => {
     const reports = wordFrequencies.filter((record) => record.sector === sector);
+    console.log('reports', reports.length);
     const reportWords = reports.map((element) => JSON.parse(element.frequentWords));
-
     const wordArray: any = [];
     reportWords.map((object) => {
       object.map((element: any) => wordArray.push(element));
     });
-
     const totals = wordArray.reduce((a: any, obj: any) => {
       const [k, v] = Object.entries(obj)[0];
       a[k] = (a[k] || 0) + v;
       return a;
     }, {});
-
-    // console.log('totals', totals);
-
     const totalsSorted = Object.fromEntries(Object.entries(totals).sort(([, a]: any, [, b]: any) => b - a));
     const cutObject = (obj: any, max: number) =>
       Object.keys(obj)
@@ -33,7 +29,6 @@ const frequentWordsPerSector = (sectors: Array<String>) => {
         .map((key) => ({
           [key]: obj[key]
         }));
-
     const topSixWordsPerSector = {
       sector: sector,
       words: JSON.stringify(cutObject(totalsSorted, 6))
@@ -42,48 +37,54 @@ const frequentWordsPerSector = (sectors: Array<String>) => {
   });
   return wordFrequenciesPerSector;
 };
+const tfidfScores = (sectorData: any) => {
+  // console.log(sectorData);
+  const results = sectorData.map((entry: any) => {
+    const tfidf = new TfIdf();
 
-const tfidfForTopWordsWithinSectors = (sectors: Array<String>) => {
-  const tfidfScores = sectors.map((sector) => {
-    const reports = wordFrequencies.filter((record) => record.sector === sector);
     const getFilesInSector: any = [];
+    const reports = wordFrequencies.filter((record: any) => record.sector === entry.sector);
+    // console.log('entry', entry);
     reports.map((reportToGet) => getFilesInSector.push(reportToGet.fileName + '.txt'));
-    // console.log(getFilesInSector);
-
-    const loadDocuments = (listOfFilesToRead: [], tfidfObject: any) => {
-      console.log(tfidfObject.documents.length());
-      // console.log('===========================list of files to read', listOfFilesToRead);
-      // console.log({ listOfFilesToRead });
-      listOfFilesToRead.forEach((file: any) => {
-        // console.log({ file });
-        try {
-          const data = fs.readFileSync(`../../assets/files/fileOutputs/${file}`, { encoding: 'utf8', flag: 'r' });
-          tfidfObject.addDocument(data);
-          // console.log({ data });
-        } catch (err) {
-          console.error(err);
-        }
+    const loadDocuments = (listOfFilesToRead: any, tfidfObject: any) => {
+      return new Promise((resolve, reject) => {
+        listOfFilesToRead.forEach((file: any) => {
+          try {
+            const data = fs.readFileSync(`../../assets/files/fileOutputs/${file}`, { encoding: 'utf8', flag: 'r' });
+            tfidfObject.addDocument(data);
+          } catch (err) {
+            console.error(err);
+          }
+        });
+        return resolve(tfidfObject);
       });
     };
-
     const runTfIdf = (tfidfObject: any) => {
-      tfidfObject.tfidfs('climate', function (i: number, measure: number) {
-        // console.log('document #' + i + ' has ' + measure);
+      const wordsObjectArray = JSON.parse(entry.words);
+      const flattenedWordsArray = Object.assign({}, ...wordsObjectArray);
+      let resultsObject: any = {};
+      getFilesInSector.map((reportName: any, index: any) => {
+        resultsObject[index] = reportName;
+        // resultsObject[reportName] = {};
       });
+      Object.keys(flattenedWordsArray).forEach((word) => {
+        tfidfObject.tfidfs(word, function (i: any, measure: any) {
+          console.log('this is getFilesInSector ', getFilesInSector);
+          resultsObject[getFilesInSector] = {
+            getFilesInSector,
+            resultsObject: {
+              word: word,
+              measure: measure
+            }
+          };
+          // console.log(resultsObject);
+        });
+      });
+      console.log(resultsObject);
+      console.log('**********************************NEXT SECTOR****************************');
     };
-
-    const analyseDocumentScores = (documentsToAnalyse: [], tfidfObject: any) => {
-      console.log('before**************************************************************************************************************************', tfidfObject);
-      loadDocuments(documentsToAnalyse, tfidfObject);
-      console.log('after**************************************************************************************************************************', tfidfObject);
-
-      runTfIdf(tfidfObject);
-    };
-
-    analyseDocumentScores(getFilesInSector, tfidf);
+    const results = loadDocuments(getFilesInSector, tfidf).then((result) => runTfIdf(result));
   });
+  return results;
 };
-
-tfidfForTopWordsWithinSectors(sectorsArray);
-
-// console.log(frequentWordsPerSector(sectorsArray));
+console.log(tfidfScores(frequentWordsPerSector(sectorsArray)));
