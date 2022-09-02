@@ -1,0 +1,1173 @@
+[{
+    "ABANCACorporacinBancariaS.txt": {
+        "energy": 51,
+        "environmental": 32.5378277861242,
+        "management": 15.73553116878063,
+        "party": 35.37153650105044,
+        "buildings": 1.1823215567939547,
+        "sustainability": 29.487406431175053
+    },
+    "ABN_AMRO_2015_External_review_report.txt": {
+        "energy": 89,
+        "environmental": 34.57144202275696,
+        "management": 7.867765584390315,
+        "party": 7.737523609604784,
+        "buildings": 141.87858681527456,
+        "sustainability": 39.655477614338864
+    },
+    "ABN_AMRO_2016_External Review report.txt": {
+        "energy": 116,
+        "environmental": 39.655477614338864,
+        "management": 13.768589772683052,
+        "party": 8.84288412526261,
+        "buildings": 105.22661855466197,
+        "sustainability": 37.621863377706106
+    },
+    "AC-Energy_External-Review-Report3.txt": {
+        "2015": 3.6865247172865425,
+        "energy": 137.83132732485973,
+        "environmental": 21.482779882718678,
+        "renewable": 33,
+        "climate": 7.32564010944425,
+        "party": 24.013413909243027
+    },
+    "ACS-SCE_External Review Report.txt": {
+        "energy": 49.40415000324253,
+        "environmental": 29.113159823339345,
+        "finance": 7.057735714748932,
+        "management": 38.817546431119126,
+        "water": 25,
+        "climate": 12.351037500810632
+    },
+    "Activia Properties_External Review Report.txt": {
+        "energy": 59,
+        "environmental": 42,
+        "buildings": 39.1578636320867,
+        "finance": 19.40861789919831,
+        "building": 42.90326061928047,
+        "sustainability": 10
+    },
+    "AdaniGreenEnergy.txt": { "2015": 0, "energy": 6.842690009035589, "environmental": 11.252884700471688, "renewable": 2, "climate": 2.0930400312697857, "party": 7.2040241727729075 },
+    "ADIF-AltaVelocidad.txt": {
+        "energy": 32.64202768071381,
+        "environmental": 30.877593752026577,
+        "finance": 0.8822169643436165,
+        "management": 13.233254465154248,
+        "water": 1,
+        "climate": 44.11084821718082
+    },
+    "Advanced Soltech_External Review Report.txt": {
+        "2015": 1.2288415724288475,
+        "energy": 31.280868612734125,
+        "environmental": 23.528758919168073,
+        "renewable": 8,
+        "climate": 47.093400703570175,
+        "party": 1.2006706954621513
+    },
+    "AdvanceResidenceInvestmentCorporation.txt": {
+        "energy": 43,
+        "environmental": 51,
+        "buildings": 25.45261136085636,
+        "finance": 76.61296539157227,
+        "building": 20.43012410441927,
+        "sustainability": 20
+    },
+    "AEDASHomes.txt": { "energy": 10, "environmental": 12, "buildings": 16.64209204363685, "finance": 13.279580667872526, "building": 3.064518615662891, "sustainability": 8 },
+    "AeroportidiRomaS.txt": { "environmental": 15, "energy": 16.668384526653366, "business": 8.432537770162206, "party": 0, "management": 19.922840817861438, "central": 0 },
+
+    "AfricaFinanceCorporation.txt": {
+        "energy": 21,
+        "environmental": 19.319335248011242,
+        "management": 10.818177678536683,
+        "party": 7.737523609604784,
+        "buildings": 0,
+        "sustainability": 17.28572101137848
+    },
+    "AgderEnergi.txt": { "2015": 1.2288415724288475, "energy": 24.438178603698535, "environmental": 52.17246542945964, "renewable": 10, "climate": 40.81428060976082, "party": 0 },
+    "AgenceFranaisedeDveloppement(AFD)(2017).txt": {
+        "energy": 21.911726952248884,
+        "environmental": 45.64943115051851,
+        "climate": 124.16645272941035,
+        "investments": 6.390920361072592,
+        "management": 12.781840722145184,
+        "sustainable": 7.303908984082962
+    },
+    "AgriNurtureInc.txt": { "ani": 98, "production": 29.726744594591782, "energy": 26.159535243240768, "climate": 25.56500035134893, "organic": 40, "emissions": 23.18686078378159 },
+    "AkademiskaHus.txt": { "energy": 56, "environmental": 34, "buildings": 18.599985225241184, "finance": 1.0215062052209636, "building": 15.322593078314453, "sustainability": 12 },
+    "AkershusEnergi.txt": { "2015": 2.457683144857695, "energy": 75.2695900993915, "environmental": 28.64370651029157, "renewable": 39, "climate": 47.093400703570175, "party": 2.4013413909243027 },
+    "ALDAutomotive.txt": { "2016": 1.251314428280906, "environmental": 33.9963004050026, "energy": 1.7892789686843473, "visa": 0, "management": 23.260626592896514, "sustainability": 26 },
+    "AlimentationCouche-TardInc.txt": { "2016": 0, "environmental": 18.787429171185646, "energy": 33.9963004050026, "visa": 0, "management": 19.68206865552782, "sustainability": 43 },
+    "AnalogDevicesInc.txt": { "2016": 1.251314428280906, "environmental": 51.88909009184607, "energy": 70.67651926303172, "visa": 0, "management": 25.049905561580864, "sustainability": 47 },
+    "AppleInc.txt": {
+        "energy": 54.9802058112282,
+        "environmental": 29.604726206045957,
+        "paper": 1.6916986403454832,
+        "management": 17.762835723627575,
+        "climate": 5.920945241209191,
+        "party": 26.22132892535499
+    },
+    "Aquafin(2020).txt": {
+        "energy": 22.05542410859041,
+        "environmental": 29.113159823339345,
+        "finance": 52.05080089627337,
+        "management": 24.702075001621264,
+        "water": 45,
+        "climate": 6.175518750405316
+    },
+    "ArendalsFossekompaniASA.txt": { "2015": 0, "energy": 39.10108576591766, "environmental": 24.551748437392774, "renewable": 18, "climate": 41.86080062539571, "party": 0 },
+    "ARKEMA.txt": { "2016": 0, "environmental": 57.03735212424074, "waste": 4, "energy": 6.439701046285245, "business": 17, "management": 42.31803544701732 },
+    "ArthalandCorporation.txt": { "energy": 16, "environmental": 39, "buildings": 28.38945113326286, "finance": 14.30108687309349, "building": 29.623679951407944, "sustainability": 22 },
+    "ArwidsroFastighets.txt": { "energy": 72, "environmental": 29, "buildings": 28.38945113326286, "finance": 50.053804055827214, "building": 19.40861789919831, "sustainability": 5 },
+    "AsahiHoldingsInc.txt": { "2016": 0, "environmental": 163.7523980341105, "waste": 140, "energy": 9.199572923264636, "business": 203, "management": 24.838846892814516 },
+    "AssicurazioniGenerali.txt": {
+        "energy": 62,
+        "environmental": 46.77312744255353,
+        "management": 36.388415827805204,
+        "party": 28.739373407103486,
+        "buildings": 22.46410957908514,
+        "sustainability": 17.28572101137848
+    },
+    "Atlantica.txt": { "energy": 43.22863125283721, "environmental": 21.173207144246796, "finance": 52.93301786061699, "management": 12.351037500810632, "water": 12, "climate": 8.822169643436165 },
+    "AucklandCouncil.txt": { "environmental": 2.828524758480154, "climate": 8.485574275440461, "energy": 1.0606246218164348, "city": 0, "management": 8.485574275440461, "change": 1 },
+    "AudaxRenovables.txt": { "2015": 0, "energy": 47.89883006324913, "environmental": 45.01153880188675, "renewable": 31, "climate": 13.604760203253607, "party": 14.408048345545815 },
+    "AutoWallisNyrt.txt": {
+        "environmental": 16,
+        "energy": 14.445933256432916,
+        "business": 1.0540672212702757,
+        "party": 7.031101541559955,
+        "management": 5.6922402336746964,
+        "central": 3.2837077723447896
+    },
+    "AxpoHoldingAG.txt": { "2015": 1.2288415724288475, "energy": 27.370760036142357, "environmental": 15.344842773370482, "renewable": 7, "climate": 3.1395600469046787, "party": 3.6020120863864538 },
+
+    "BancoAtlntida.txt": {
+        "energy": 35,
+        "environmental": 30.504213549491435,
+        "management": 16.71900186682942,
+        "party": 21.0018497974987,
+        "buildings": 2.3646431135879094,
+        "sustainability": 11.184878301480193
+    },
+    "BancodeComercioExteriordeColombiaS.txt": {
+        "energy": 39.25851078944592,
+        "environmental": 44.73644252750814,
+        "climate": 6.390920361072592,
+        "investments": 5.477931738062221,
+        "management": 20.998738329238513,
+        "sustainable": 29.215635936331847
+    },
+    "Bancolombia(2018).txt": { "energy": 1, "environmental": 0, "management": 17.70247256487821, "party": 0, "buildings": 0, "sustainability": 1.0168071183163812 },
+    "BangkokMassTransitSystemPCL(BTS)(2019).txt": {
+        "environmental": 31,
+        "energy": 15.557158891543141,
+        "business": 6.3244033276216545,
+        "party": 28.12440616623982,
+        "management": 20.871547523473886,
+        "central": 0
+    },
+    "BangkokMassTransitSystemPCL(BTS)(2020).txt": {
+        "environmental": 30,
+        "energy": 14.445933256432916,
+        "business": 7.37847054889193,
+        "party": 42.18660924935973,
+        "management": 19.922840817861438,
+        "central": 0
+    },
+    "BangkokMassTransitSystemPCL(BTS)(2021).txt": {
+        "environmental": 33,
+        "energy": 16.668384526653366,
+        "business": 8.432537770162206,
+        "party": 42.18660924935973,
+        "management": 18.97413411224899,
+        "central": 0
+    },
+    "BankinterS.txt": {
+        "energy": 66,
+        "environmental": 33.554634904440576,
+        "management": 20.652884659024576,
+        "party": 36.47689701670827,
+        "buildings": 31.922682033436775,
+        "sustainability": 18.30252812969486
+    },
+    "BankofChina(2018).txt": { "energy": 3, "environmental": 4.067228473265525, "management": 7.867765584390315, "party": 0, "buildings": 1.1823215567939547, "sustainability": 4.067228473265525 },
+    "BankofthePhilippineIslands.txt": {
+        "energy": 58,
+        "environmental": 30.504213549491435,
+        "management": 31.47106233756126,
+        "party": 33.16081546973479,
+        "buildings": 22.46410957908514,
+        "sustainability": 17.28572101137848
+    },
+    "BarclaysPLC.txt": { "energy": 10, "environmental": 7.1176498282146685, "management": 10.818177678536683, "party": 6.632163093946958, "buildings": 10.640894011145592, "sustainability": 0 },
+    "Baromfi-CoopKft.txt": { "ani": 0, "production": 2.3781395675673425, "energy": 2.972674459459178, "climate": 2.3781395675673425, "organic": 0, "emissions": 0.5945348918918356 },
+    "BASF.txt": { "2016": 3.077993001465374, "environmental": 43.23799273934379, "waste": 6, "energy": 31.278547939099763, "business": 8, "management": 33.11846252375269 },
+    "BayWa.txt": { "2016": 0, "environmental": 12.87940209257049, "waste": 0, "energy": 1.8399145846529272, "business": 0, "management": 7.359658338611709 },
+    "BazalgetteFinanceplc(Tideway).txt": {
+        "energy": 5.293301786061699,
+        "environmental": 12.351037500810632,
+        "finance": 5.293301786061699,
+        "management": 2.6466508930308494,
+        "water": 32,
+        "climate": 0.8822169643436165
+    },
+    "BerlinHypAG(2019).txt": { "energy": 15, "environmental": 6, "buildings": 16.64209204363685, "finance": 3.064518615662891, "building": 4.086024820883854, "sustainability": 23 },
+    "BerlinHypAG(2020).txt": { "energy": 18, "environmental": 18, "buildings": 15.663145452834682, "finance": 7.150543436546745, "building": 7.150543436546745, "sustainability": 48 },
+    "BerlinHypAG(2021).txt": { "energy": 25, "environmental": 26, "buildings": 25.45261136085636, "finance": 14.30108687309349, "building": 8.172049641767709, "sustainability": 61 },
+    "BesqabAB.txt": { "energy": 18, "environmental": 11, "buildings": 4.894732954010838, "finance": 20.43012410441927, "building": 2.043012410441927, "sustainability": 6 },
+
+    "BKSBankAG(2021).txt": { "energy": 0, "environmental": 0, "management": 8.851236282439105, "party": 8.84288412526261, "buildings": 0, "sustainability": 2.0336142366327623 },
+    "BloomEnergyCorporation.txt": {
+        "2015": 1.2288415724288475,
+        "energy": 118.2807844419009,
+        "environmental": 39.896591210763255,
+        "renewable": 18,
+        "climate": 18.837360281428072,
+        "party": 43.224145036637445
+    },
+    "BNPParibas(2019).txt": {
+        "energy": 22,
+        "environmental": 25.42017795790953,
+        "management": 12.785119074634261,
+        "party": 4.421442062631305,
+        "buildings": 4.729286227175819,
+        "sustainability": 23.386563721276765
+    },
+    "Bpifrance.txt": {
+        "energy": 39,
+        "environmental": 33.554634904440576,
+        "management": 12.785119074634261,
+        "party": 2.2107210313156527,
+        "buildings": 2.3646431135879094,
+        "sustainability": 3.0504213549491435
+    },
+    "BrageFinansAS.txt": { "energy": 13, "environmental": 29.487406431175053, "management": 11.801648376585472, "party": 2.2107210313156527, "buildings": 0, "sustainability": 9.15126406484743 },
+    "BrookfieldRenewable(2019).txt": {
+        "2015": 1.2288415724288475,
+        "energy": 51.808938639840896,
+        "environmental": 33.75865410141506,
+        "renewable": 75,
+        "climate": 8.372160125079143,
+        "party": 28.81609669109163
+    },
+    "BrookfieldRenewable(2020).txt": {
+        "2015": 2.457683144857695,
+        "energy": 51.808938639840896,
+        "environmental": 31.712675064965666,
+        "renewable": 84,
+        "climate": 10.465200156348928,
+        "party": 28.81609669109163
+    },
+    "CaissededptetplacementduQubec.txt": {
+        "energy": 35.60655629740444,
+        "environmental": 24.650692821279996,
+        "climate": 20.998738329238513,
+        "investments": 28.302647313321476,
+        "management": 42.9104652814874,
+        "sustainable": 29.215635936331847
+    },
+    "CaliforniaCommunityChoiceFinancingAuthority(EastBayCommunityEnergyandSiliconValleyCleanEnergy).txt": {
+        "energy": 102.25472577716147,
+        "environmental": 3.651954492041481,
+        "climate": 6.390920361072592,
+        "investments": 1.8259772460207404,
+        "management": 4.564943115051851,
+        "sustainable": 8.216897607093332
+    },
+    "CaliforniaInfrastructureandEconomicDevelopmentBank(CalSTRS).txt": {
+        "environmental": 10.684768913223287,
+        "energy": 30.62967088457342,
+        "climate": 28.492717101928765,
+        "sustainable": 7.83549720303041,
+        "management": 5.698543420385753,
+        "party": 0.7123179275482191
+    },
+    "CAMPOCo.txt": { "environmental": 96.80181076093724, "energy": 20.807865864500528, "waste": 27.634012891445657, "management": 18.99848622410918, "business": 60.614217953110234, "verifiers": 0 },
+    "CanadaPensionPlanInvestmentBoard(2018).txt": {
+        "energy": 20.998738329238513,
+        "environmental": 29.215635936331847,
+        "climate": 52.95334013460147,
+        "investments": 30.128624559342217,
+        "management": 20.998738329238513,
+        "sustainable": 17.346783837197034
+    },
+    "CanadaPensionPlanInvestmentBoard(2021).txt": {
+        "energy": 28.302647313321476,
+        "environmental": 19.172761083217775,
+        "climate": 33.7805790513837,
+        "investments": 145.16519105864887,
+        "management": 17.346783837197034,
+        "sustainable": 23.737704198269626
+    },
+    "CanadianImperialBankofCommerce.txt": {
+        "energy": 59,
+        "environmental": 77.27734099204497,
+        "management": 50.15700560048826,
+        "party": 44.21442062631306,
+        "buildings": 26.011074249467004,
+        "sustainability": 12.201685419796574
+    },
+    "CanadianSolarProject.txt": { "2015": 0, "energy": 10.752798585627355, "environmental": 35.80463313786446, "renewable": 8, "climate": 5.232600078174464, "party": 4.802682781848605 },
+    "CanaryWharfGroupInvestmentHoldingPLC.txt": {
+        "energy": 19,
+        "environmental": 21,
+        "buildings": 26.431557951658526,
+        "finance": 4.086024820883854,
+        "building": 5.107531026104818,
+        "sustainability": 51
+    },
+    "Caruna.txt": { "2015": 0, "energy": 50.831411495692954, "environmental": 31.712675064965666, "renewable": 16, "climate": 48.13992071920507, "party": 1.2006706954621513 },
+    "CatenaAB.txt": { "environmental": 23, "energy": 77.7857944577157, "business": 5.270336106351379, "party": 0, "management": 9.487067056124495, "central": 3.2837077723447896 },
+    "Ceetrus.txt": { "energy": 22, "environmental": 32, "buildings": 19.57893181604335, "finance": 4.086024820883854, "building": 7.150543436546745, "sustainability": 11 },
+    "CentralAmericanBankforEconomicIntegration(CABEI).txt": {
+        "energy": 27.389658690311105,
+        "environmental": 59.344260495674064,
+        "climate": 14.607817968165923,
+        "investments": 4.564943115051851,
+        "management": 33.7805790513837,
+        "sustainable": 42.9104652814874
+    },
+    "CentralJapanRailwayCompany.txt": {
+        "environmental": 49,
+        "energy": 15.557158891543141,
+        "business": 23.189478867946065,
+        "party": 9.374802055413273,
+        "management": 19.922840817861438,
+        "central": 52.539324357516634
+    },
+    "CentralNipponExpresswayCompany(ClimateResilience).txt": {
+        "environmental": 27,
+        "energy": 0,
+        "business": 15.811008319054135,
+        "party": 3.5155507707799774,
+        "management": 53.12757551429716,
+        "central": 101.79494094268848
+    },
+    "CentralNipponExpresswayCompanyLimited(2020).txt": {
+        "environmental": 30,
+        "energy": 0,
+        "business": 17.91914276159469,
+        "party": 4.6874010277066365,
+        "management": 55.97369563113452,
+        "central": 113.28791814589525
+    },
+    "ChinaEverbrightBank.txt": {
+        "energy": 60,
+        "environmental": 37.621863377706106,
+        "management": 38.355357223902786,
+        "party": 30.950094438419136,
+        "buildings": 24.82875269267305,
+        "sustainability": 13.218492538112955
+    },
+    "CibusNordicRealEstateAB.txt": { "energy": 53, "environmental": 26, "buildings": 36.2210238596802, "finance": 6.129037231325782, "building": 19.40861789919831, "sustainability": 13 },
+    "Citycon.txt": { "energy": 82, "environmental": 26, "buildings": 42.09470340449321, "finance": 14.30108687309349, "building": 12.258074462651564, "sustainability": 37 },
+    "CityofBerkeleyCalifornia(seriesA).txt": {
+        "environmental": 7.5427326892804105,
+        "climate": 12.256940620080668,
+        "energy": 18.03061857087939,
+        "city": 63.80356190207987,
+        "management": 1.8856831723201026,
+        "change": 4
+    },
+    "CityofBoston.txt": { "environmental": 0.9428415861600513, "climate": 25.456722826321386, "energy": 21.212492436328695, "city": 53.98762930175989, "management": 3.7713663446402053, "change": 12 },
+    "CityofMinneapolis(2018).txt": {
+        "environmental": 11.314099033920616,
+        "climate": 7.5427326892804105,
+        "energy": 29.697489410860175,
+        "city": 31.083786567679937,
+        "management": 7.5427326892804105,
+        "change": 3
+    },
+    "CityofSeattle(MunicipalLightandPowerImprovementRevenueBonds2020).txt": {
+        "environmental": 11.314099033920616,
+        "climate": 12.256940620080668,
+        "energy": 42.42498487265739,
+        "city": 58.89559560191988,
+        "management": 5.657049516960308,
+        "change": 7
+    },
+    "CityofSeattle(WaterSystemImprovementandRefundingRevenueBonds2021).txt": {
+        "environmental": 4.7142079308002565,
+        "climate": 10.371257447760565,
+        "energy": 0,
+        "city": 29.44779780095994,
+        "management": 17.913990137040976,
+        "change": 5
+    },
+    "CityofTacomaWashington(ElectricSystemRevenueBondsSeries2021).txt": {
+        "environmental": 10.371257447760565,
+        "climate": 16.971148550880923,
+        "energy": 24.394366301778,
+        "city": 34.35576410111993,
+        "management": 12.256940620080668,
+        "change": 10
+    },
+    "CNPAssurance.txt": {
+        "energy": 39,
+        "environmental": 53.890777270768204,
+        "management": 39.33882792195158,
+        "party": 9.948244640920437,
+        "buildings": 33.10500359023073,
+        "sustainability": 12.201685419796574
+    },
+    "CODICInternational.txt": { "energy": 14, "environmental": 20, "buildings": 19.57893181604335, "finance": 48.01079164538529, "building": 11.2365682574306, "sustainability": 37 },
+    "ColumbusEnergyS.txt": {
+        "2015": 3.6865247172865425,
+        "energy": 124.14594730678856,
+        "environmental": 41.94257024721265,
+        "renewable": 23,
+        "climate": 28.256040422142107,
+        "party": 1.2006706954621513
+    },
+    "ConnecticutGreenBank(2020).txt": {
+        "energy": 59,
+        "environmental": 8.13445694653105,
+        "management": 2.950412094146368,
+        "party": 18.791128766183046,
+        "buildings": 14.187858681527455,
+        "sustainability": 0
+    },
+    "ConnecticutGreenBank(Series2019-1).txt": {
+        "energy": 9,
+        "environmental": 3.0504213549491435,
+        "management": 1.9669413960975788,
+        "party": 2.2107210313156527,
+        "buildings": 0,
+        "sustainability": 1.0168071183163812
+    },
+    "ContinuumGreenEnergy.txt": { "2015": 0, "energy": 39.10108576591766, "environmental": 29.666696028516267, "renewable": 24, "climate": 28.256040422142107, "party": 0 },
+    "CorporacinAndinadeFomento(CAF).txt": {
+        "environmental": 30.62967088457342,
+        "energy": 16.38331233360904,
+        "climate": 9.972450985675067,
+        "sustainable": 35.615896377410955,
+        "management": 33.478942594766295,
+        "party": 27.780399174380545
+    },
+    "Covivio.txt": { "energy": 25, "environmental": 49, "buildings": 31.326290905669364, "finance": 5.107531026104818, "building": 3.064518615662891, "sustainability": 16 },
+    "CrditAgricolenextbank(Suisse)SA.txt": {
+        "energy": 21,
+        "environmental": 35.58824914107334,
+        "management": 30.48759163951247,
+        "party": 11.053605156578264,
+        "buildings": 11.823215567939547,
+        "sustainability": 20.33614236632762
+    },
+    "CTP.txt": { "energy": 58, "environmental": 31, "buildings": 30.347344314867197, "finance": 5.107531026104818, "building": 21.451630309640237, "sustainability": 14 },
+    "DaioPaperCorporation(2018).txt": {
+        "energy": 11.841890482418382,
+        "environmental": 8.458493201727416,
+        "paper": 59.20945241209191,
+        "management": 9.304342521900157,
+        "climate": 5.07509592103645,
+        "party": 1.6916986403454832
+    },
+    "DaiwaHouseREIT(2021).txt": { "energy": 44, "environmental": 61, "buildings": 22.515771588449855, "finance": 25.53765513052409, "building": 28.60217374618698, "sustainability": 23 },
+    "DamuEntrepreneurshipDevelopmentFundJSC.txt": {
+        "energy": 26.476670067300734,
+        "environmental": 25.563681444290367,
+        "climate": 8.216897607093332,
+        "investments": 1.8259772460207404,
+        "management": 28.302647313321476,
+        "sustainable": 24.650692821279996
+    },
+    "DanaInc.txt": {
+        "environmental": 13.082855091296727,
+        "business": 2.453035329618136,
+        "investment": 2.453035329618136,
+        "activities": 4,
+        "benefits": 0.8176784432060454,
+        "including": 5.723749102442318
+    },
+    "Derichebourg.txt": { "2016": 0, "environmental": 19.319103138855738, "waste": 16, "energy": 7.359658338611709, "business": 10, "management": 15.639273969549881 },
+    "DeutscheBankAG.txt": {
+        "energy": 47,
+        "environmental": 32.5378277861242,
+        "management": 16.71900186682942,
+        "party": 6.632163093946958,
+        "buildings": 11.823215567939547,
+        "sustainability": 36.60505625938972
+    },
+    "DeutscheHypothekenbankAG(2020).txt": {
+        "energy": 25,
+        "environmental": 18.30252812969486,
+        "management": 10.818177678536683,
+        "party": 4.421442062631305,
+        "buildings": 72.12161496443123,
+        "sustainability": 56.94119862571735
+    },
+    "DeutscheKreditbank(DKB)(2020).txt": {
+        "energy": 17,
+        "environmental": 57.95800574403373,
+        "management": 8.851236282439105,
+        "party": 5.526802578289132,
+        "buildings": 0,
+        "sustainability": 49.823548797502674
+    },
+    "Dis.txt": { "energy": 68, "environmental": 24, "buildings": 37.19997045048237, "finance": 4.086024820883854, "building": 22.4731365148612, "sustainability": 11 },
+    "DublinUnifiedSchoolDistrict.txt": {
+        "environmental": 6.332828741369726,
+        "energy": 9.951588022152427,
+        "waste": 1.1053605156578263,
+        "management": 2.7140694605870253,
+        "business": 2.7140694605870253,
+        "verifiers": 18.12990748519189
+    },
+    "E.txt": { "2015": 7.373049434573085, "energy": 143.69649018974738, "environmental": 59.33339205703253, "renewable": 49, "climate": 47.093400703570175, "party": 76.84292450957768 },
+    "EastRenewableAB.txt": { "2015": 0, "energy": 12.707852873923239, "environmental": 39.896591210763255, "renewable": 65, "climate": 25.11648037523743, "party": 0 },
+    "ElectricitySupplyBoard(ESB).txt": {
+        "2015": 1.2288415724288475,
+        "energy": 90.91002440575855,
+        "environmental": 38.87360169253856,
+        "renewable": 37,
+        "climate": 21.97692032833275,
+        "party": 31.217438082015935
+    },
+    "EllaktorValuePLC.txt": {
+        "energy": 13.233254465154248,
+        "environmental": 7.057735714748932,
+        "finance": 2.6466508930308494,
+        "management": 6.175518750405316,
+        "water": 0,
+        "climate": 25.58429196596488
+    },
+    "EnergiasdePortugalGroup(EDP).txt": {
+        "2015": 2.457683144857695,
+        "energy": 38.12355862176972,
+        "environmental": 27.620716992066868,
+        "renewable": 18,
+        "climate": 6.279120093809357,
+        "party": 28.81609669109163
+    },
+    "EnergyDevelopmentCorporation(EDC).txt": {
+        "2015": 2.457683144857695,
+        "energy": 43.98872148665736,
+        "environmental": 27.620716992066868,
+        "renewable": 18,
+        "climate": 6.279120093809357,
+        "party": 37.22079155932669
+    },
+    "FederalGovernmentofNigeria.txt": {
+        "climate": 13.082855091296727,
+        "energy": 15.535890420914864,
+        "environmental": 16.35356886412091,
+        "government": 50.69606347877482,
+        "ministry": 33.52481617144786,
+        "expenditures": 0
+    },
+    "FederalStateofHessen.txt": { "environmental": 30.170930757121642, "climate": 37.71366344640205, "energy": 24.394366301778, "city": 0, "management": 17.913990137040976, "change": 9 },
+    "FerroviedelloStatoItalianeSpA.txt": {
+        "environmental": 26,
+        "energy": 32.22554341819651,
+        "business": 6.3244033276216545,
+        "party": 4.6874010277066365,
+        "management": 20.871547523473886,
+        "central": 0
+    },
+    "GreenLuccaS.txt": { "2015": 1.2288415724288475, "energy": 35.19097718932589, "environmental": 19.43680084626928, "renewable": 22, "climate": 45.00036067230039, "party": 6.003353477310757 },
+    "GroupamaGroup.txt": {
+        "energy": 42,
+        "environmental": 37.621863377706106,
+        "management": 41.30576931804915,
+        "party": 38.68761804802392,
+        "buildings": 33.10500359023073,
+        "sustainability": 15.252106774745718
+    },
+    "Growthpoint.txt": { "energy": 0, "environmental": 0, "buildings": 0.9789465908021676, "finance": 0, "building": 0, "sustainability": 0 },
+    "GrupoAeroportuariodelCentroNorte(OMA).txt": {
+        "environmental": 38,
+        "energy": 55.56128175551122,
+        "business": 8.432537770162206,
+        "party": 37.49920822165309,
+        "management": 15.17930728979919,
+        "central": 1.6418538861723948
+    },
+    "GrupoPestanaSGPS.txt": {
+        "11": 3.375381013840602,
+        "reviewed": 4.602792291600821,
+        "energy": 4.602792291600821,
+        "eligibility": 3.6822338332806566,
+        "environmental": 3.6822338332806566,
+        "findings": 3.6822338332806566
+    },
+    "HanjinSupra-nationalCorp.txt": { "energy": 19, "environmental": 21, "buildings": 13.705252271230346, "finance": 3.064518615662891, "building": 24.516148925303128, "sustainability": 12 },
+    "HanwhaSolutions.txt": { "2015": 1.2288415724288475, "energy": 59.629155793024424, "environmental": 23.528758919168073, "renewable": 40, "climate": 5.232600078174464, "party": 38.42146225478884 },
+    "HERA.txt": { "2015": 1.2288415724288475, "energy": 49.85388435154501, "environmental": 32.73566458319036, "renewable": 2, "climate": 17.79084026579318, "party": 3.6020120863864538 },
+    "HitachiZosenCorporation.txt": { "2016": 1.538996500732687, "environmental": 16.559231261876345, "waste": 28, "energy": 30.3585906467733, "business": 9, "management": 7.359658338611709 },
+    "HKSARGovernment.txt": { "environmental": 35.82798027408195, "climate": 22.628198067841232, "energy": 48.788732603556, "city": 0, "management": 48.084920894162615, "change": 10 },
+    "HomeInvestBelgium.txt": { "energy": 5, "environmental": 9, "buildings": 2.9368397724065027, "finance": 7.150543436546745, "building": 0, "sustainability": 3 },
+    "HongKongandChinaGasCompanyLimited(TowngasGroup).txt": {
+        "2015": 4.91536628971539,
+        "energy": 66.47184580206002,
+        "environmental": 25.574737955617472,
+        "renewable": 11,
+        "climate": 0,
+        "party": 3.6020120863864538
+    },
+    "HudsonYardsInfrastructureCorporation.txt": {
+        "environmental": 2.7140694605870253,
+        "energy": 0.9046898201956751,
+        "waste": 2.2107210313156527,
+        "management": 5.4281389211740505,
+        "business": 1.8093796403913502,
+        "verifiers": 27.194861227787833
+    },
+    "hummgrouplimited(exFlexigroup).txt": { "energy": 5, "environmental": 1.0168071183163812, "management": 6.884294886341526, "party": 0, "buildings": 0, "sustainability": 2.0336142366327623 },
+    "IndianaFinanceAuthority.txt": { "environmental": 10.371257447760565, "climate": 17.913990137040976, "energy": 8.484996974531478, "city": 0, "management": 16.028306964720873, "change": 8 },
+    "IndustrialandCommercialBankofChina.txt": {
+        "energy": 26,
+        "environmental": 49.823548797502674,
+        "management": 16.71900186682942,
+        "party": 4.421442062631305,
+        "buildings": 0,
+        "sustainability": 2.0336142366327623
+    },
+    "InnogySE.txt": { "2015": 8.601891007001932, "energy": 88.95497011746266, "environmental": 33.75865410141506, "renewable": 28, "climate": 23.023440343967643, "party": 2.4013413909243027 },
+    "IntesaSanpaolo.txt": {
+        "energy": 49,
+        "environmental": 31.521020667807814,
+        "management": 34.42147443170763,
+        "party": 7.737523609604784,
+        "buildings": 5.911607783969774,
+        "sustainability": 15.252106774745718
+    },
+    "IRENS.txt": { "environmental": 18.99848622410918, "energy": 42.52042154919673, "waste": 37.58225753236609, "management": 34.37821316743565, "business": 7.237518561565401, "verifiers": 0 },
+    "ITOCHU.txt": {
+        "sustainability": 24.37593056756526,
+        "finance": 43.995581999995835,
+        "management": 43.401047108104,
+        "energy": 21.40325610810608,
+        "investment": 36.86116329729381,
+        "renewable": 1.1890697837836712
+    },
+    "JohnsonControlsSupra-nationalplc.txt": { "energy": 86, "environmental": 30, "buildings": 30.347344314867197, "finance": 49.032297850606255, "building": 15.322593078314453, "sustainability": 38 },
+    "KanagawaPrefecture.txt": {
+        "environmental": 32.056613929441745,
+        "climate": 49.97060406648272,
+        "energy": 3.1818738654493046,
+        "city": 3.271977533439993,
+        "management": 9.428415861600513,
+        "change": 45
+    },
+    "KenedixOfficeInvestmentCorporation(2019).txt": {
+        "energy": 40,
+        "environmental": 67.10926980888115,
+        "management": 61.95865397707373,
+        "party": 5.526802578289132,
+        "buildings": 28.37571736305491,
+        "sustainability": 17.28572101137848
+    },
+    "KingdomofSweden.txt": {
+        "climate": 58.05516946762923,
+        "energy": 15.535890420914864,
+        "environmental": 68.68498922930782,
+        "government": 33.52481617144786,
+        "ministry": 0.8176784432060454,
+        "expenditures": 30
+    },
+    "KingdomoftheNetherlands.txt": {
+        "climate": 53.966777251599,
+        "energy": 105.48051917357986,
+        "environmental": 23.71267485297532,
+        "government": 28.61874551221159,
+        "ministry": 9.812141318472545,
+        "expenditures": 49
+    },
+    "Klvern(Publ.txt": { "energy": 36, "environmental": 26, "buildings": 21.536824997647688, "finance": 5.107531026104818, "building": 14.30108687309349, "sustainability": 14 },
+    "KoreaMidlandPower.txt": {
+        "2015": 6.1442078621442375,
+        "energy": 50.831411495692954,
+        "environmental": 39.896591210763255,
+        "renewable": 30,
+        "climate": 12.558240187618715,
+        "party": 30.016767386553784
+    },
+    "KraftwerkeOberhasliAG.txt": { "environmental": 9.04689820195675, "energy": 1.8093796403913502, "waste": 0, "management": 9.951588022152427, "business": 9.951588022152427, "verifiers": 0 },
+    "KWGGroupHoldingsLimited.txt": { "energy": 56, "environmental": 46, "buildings": 27.410504542460693, "finance": 51.07531026104818, "building": 27.580667540966015, "sustainability": 15 },
+    "LandshypotekBankAB.txt": {
+        "energy": 17,
+        "environmental": 27.45379219454229,
+        "management": 23.603296753170945,
+        "party": 2.2107210313156527,
+        "buildings": 8.276250897557683,
+        "sustainability": 25.42017795790953
+    },
+    "LeasePlan.txt": {
+        "energy": 8,
+        "environmental": 27.45379219454229,
+        "management": 10.818177678536683,
+        "party": 24.31793134447218,
+        "buildings": 1.1823215567939547,
+        "sustainability": 22.369756602960386
+    },
+    "LietuvosEnergija.txt": { "2015": 2.457683144857695, "energy": 36.168504333473834, "environmental": 34.78164361963976, "renewable": 7, "climate": 53.372520797379536, "party": 0 },
+    "LooopInc.txt": { "2015": 1.2288415724288475, "energy": 20.528070027106768, "environmental": 131.96564785098616, "renewable": 14, "climate": 3.1395600469046787, "party": 8.40469486823506 },
+    "Manulife.txt": {
+        "energy": 57,
+        "environmental": 30.504213549491435,
+        "management": 37.371886525853995,
+        "party": 7.737523609604784,
+        "buildings": 15.37018023832141,
+        "sustainability": 21.352949484644004
+    },
+    "MaruiGroup.txt": {
+        "sustainability": 25.56500035134893,
+        "finance": 7.134418702702027,
+        "management": 16.052442081079562,
+        "energy": 42.80651221621216,
+        "investment": 2.972674459459178,
+        "renewable": 36.266628405401974
+    },
+    "MiePrefecture.txt": { "environmental": 48.084920894162615, "climate": 56.57049516960308, "energy": 11.666870839980783, "city": 6.543955066879986, "management": 21.68535648168118, "change": 49 },
+    "MitsubishiElectricCreditCorporation.txt": {
+        "environmental": 16.35356886412091,
+        "business": 2.453035329618136,
+        "investment": 1.6353568864120909,
+        "activities": 2,
+        "benefits": 0.8176784432060454,
+        "including": 0.8176784432060454
+    },
+    "MitsubishiHeavyIndustries(2020).txt": { "2016": 0, "environmental": 52.43756566260843, "waste": 3, "energy": 75.43649797077002, "business": 33, "management": 24.838846892814516 },
+
+    "MitsubishiUFJLeaseandFinance.txt": {
+        "energy": 65,
+        "environmental": 48.806741679186295,
+        "management": 30.48759163951247,
+        "party": 21.0018497974987,
+        "buildings": 1.1823215567939547,
+        "sustainability": 9.15126406484743
+    },
+    "MitsubishiUFJTrustandBankingCorporation.txt": {
+        "energy": 35,
+        "environmental": 71.17649828214668,
+        "management": 29.504120941463682,
+        "party": 5.526802578289132,
+        "buildings": 16.552501795115365,
+        "sustainability": 4.067228473265525
+    },
+    "MitsuiFudosanCo.txt": { "energy": 68, "environmental": 86, "buildings": 54.821009084921386, "finance": 24.516148925303128, "building": 60.26886610803685, "sustainability": 14 },
+    "MizuhoFinancialGroupInc.txt": {
+        "energy": 82,
+        "environmental": 76.26053387372859,
+        "management": 26.553708847317314,
+        "party": 55.268025782891314,
+        "buildings": 49.6575053853461,
+        "sustainability": 16.2689138930621
+    },
+    "NewEnergyInvestments.txt": { "2015": 1.2288415724288475, "energy": 48.87635720739707, "environmental": 32.73566458319036, "renewable": 16, "climate": 34.53516051595146, "party": 0 },
+    "NewWorldDevelopment.txt": { "energy": 29, "environmental": 38, "buildings": 15.663145452834682, "finance": 5.107531026104818, "building": 51.07531026104818, "sustainability": 12 },
+    "NewYorkMTA.txt": { "environmental": 0, "energy": 0, "business": 0, "party": 0, "management": 2.8461201168373482, "central": 0 },
+    "NobinaAB.txt": { "environmental": 25, "energy": 7.7785794457715705, "business": 2.1081344425405515, "party": 0, "management": 7.589653644899595, "central": 0 },
+    "NomuraResearchInstitute(NRI).txt": { "2016": 28.78023185046084, "environmental": 32.20702143631825, "energy": 16.9981502025013, "visa": 0, "management": 33.9963004050026, "sustainability": 8 },
+    "NordicInvestmentBank(NIB).txt": {
+        "environmental": 68.38252104462903,
+        "energy": 40.60212187024849,
+        "climate": 33.478942594766295,
+        "sustainable": 7.83549720303041,
+        "management": 15.67099440606082,
+        "party": 2.136953782644657
+    },
+    "NORDLBLuxembourgS.txt": {
+        "energy": 63,
+        "environmental": 34.57144202275696,
+        "management": 15.73553116878063,
+        "party": 28.739373407103486,
+        "buildings": 1.1823215567939547,
+        "sustainability": 30.504213549491435
+    },
+    "NorthlandPower.txt": { "2015": 1.2288415724288475, "energy": 42.03366719836148, "environmental": 40.91958072898795, "renewable": 28, "climate": 28.256040422142107, "party": 48.026827818486055 },
+    "NorthTexasMunicipalWaterDistrict.txt": { "environmental": 7.5427326892804105, "climate": 1.8856831723201026, "energy": 0, "city": 0, "management": 14.14262379240077, "change": 0 },
+    "NovelisInc.txt": { "2016": 0, "environmental": 32.198505231426225, "waste": 4, "energy": 22.078975015835127, "business": 8, "management": 16.559231261876345 },
+    "NP3Fastigheter.txt": { "energy": 84, "environmental": 32, "buildings": 38.178917041284535, "finance": 11.2365682574306, "building": 20.43012410441927, "sustainability": 7 },
+    "NRW.txt": { "energy": 44, "environmental": 83.37818370194326, "management": 15.73553116878063, "party": 7.737523609604784, "buildings": 20.09946646549723, "sustainability": 35.58824914107334 },
+    "OntarioTeachersPensionPlanBoard.txt": {
+        "energy": 51,
+        "environmental": 27.45379219454229,
+        "management": 19.66941396097579,
+        "party": 2.2107210313156527,
+        "buildings": 11.823215567939547,
+        "sustainability": 5.084035591581905
+    },
+    "OPFinancialGroup.txt": {
+        "energy": 51,
+        "environmental": 22.369756602960386,
+        "management": 32.45453303561005,
+        "party": 30.950094438419136,
+        "buildings": 31.922682033436775,
+        "sustainability": 14.235299656429337
+    },
+    "ORIXCorporation.txt": {
+        "energy": 83,
+        "environmental": 57.95800574403373,
+        "management": 30.48759163951247,
+        "party": 38.68761804802392,
+        "buildings": 50.83982694214005,
+        "sustainability": 45.75632032423715
+    },
+    "OrixJREITInc.txt": {
+        "energy": 26,
+        "environmental": 34.57144202275696,
+        "management": 44.256181412195524,
+        "party": 5.526802578289132,
+        "buildings": 23.646431135879094,
+        "sustainability": 12.201685419796574
+    },
+    "Orkla.txt": {
+        "energy": 35.52567144725515,
+        "environmental": 30.4505755262187,
+        "paper": 0.8458493201727416,
+        "management": 9.304342521900157,
+        "climate": 39.75491804811885,
+        "party": 0.8458493201727416
+    },
+    "PakistanWaterPowerDevelopmentAuthority.txt": {
+        "environmental": 35.28290298763133,
+        "energy": 28.04538442606593,
+        "waste": 0,
+        "management": 15.379726943326476,
+        "business": 3.6187592807827005,
+        "verifiers": 0
+    },
+    "Prologis(2018).txt": { "energy": 65, "environmental": 40, "buildings": 34.26313067807587, "finance": 10.215062052209635, "building": 51.07531026104818, "sustainability": 27 },
+    "ProvinceofQubec.txt": { "environmental": 37.71366344640205, "climate": 44.313554549522415, "energy": 15.909369327246521, "city": 0, "management": 9.428415861600513, "change": 20 },
+    "RaiffeisenBankCzechRepublic.txt": {
+        "energy": 52,
+        "environmental": 28.470599312858674,
+        "management": 21.636355357073366,
+        "party": 9.948244640920437,
+        "buildings": 33.10500359023073,
+        "sustainability": 53.890777270768204
+    },
+    "RaiffeisenBankRomania.txt": {
+        "energy": 95,
+        "environmental": 49.823548797502674,
+        "management": 32.45453303561005,
+        "party": 47.530502173286536,
+        "buildings": 29.558038919848865,
+        "sustainability": 29.487406431175053
+    },
+    "RaiffeisenBankSupra-national.txt": {
+        "energy": 73,
+        "environmental": 36.60505625938972,
+        "management": 30.48759163951247,
+        "party": 29.84473392276131,
+        "buildings": 31.922682033436775,
+        "sustainability": 22.369756602960386
+    },
+    "RegionalTransportationDistrict(Colorado).txt": {
+        "environmental": 6.332828741369726,
+        "energy": 0.9046898201956751,
+        "waste": 1.1053605156578263,
+        "management": 5.4281389211740505,
+        "business": 1.8093796403913502,
+        "verifiers": 34.74898934661778
+    },
+    "RenewableEnergyGroupInc.txt": {
+        "2015": 1.2288415724288475,
+        "energy": 21.50559717125471,
+        "environmental": 26.59772747384217,
+        "renewable": 41,
+        "climate": 5.232600078174464,
+        "party": 36.02012086386454
+    },
+    "RenewableJapanCo.txt": { "2015": 0, "energy": 59.629155793024424, "environmental": 73.65524531217832, "renewable": 64, "climate": 2.0930400312697857, "party": 9.60536556369721 },
+    "Renewiplc.txt": { "2016": 12.311972005861495, "environmental": 20.2390604311822, "waste": 130, "energy": 41.398078154690864, "business": 6, "management": 33.11846252375269 },
+    "RepublicandCantonofGeneva.txt": { "environmental": 30.170930757121642, "climate": 12.256940620080668, "energy": 20.15186781451226, "city": 0, "management": 22.628198067841232, "change": 8 },
+    "RepublicofFrance(2021).txt": {
+        "climate": 4.088392216030227,
+        "energy": 5.723749102442318,
+        "environmental": 10.62981976167859,
+        "government": 2.453035329618136,
+        "ministry": 4.906070659236272,
+        "expenditures": 15
+    },
+    "RepublicofIndonesia.txt": {
+        "climate": 51.51374192198086,
+        "energy": 25.34803173938741,
+        "environmental": 32.70713772824182,
+        "government": 1.6353568864120909,
+        "ministry": 39.24856527389018,
+        "expenditures": 1
+    },
+    "ReykjavikEnergy.txt": { "2015": 2.457683144857695, "energy": 27.370760036142357, "environmental": 42.965559765437355, "renewable": 8, "climate": 27.209520406507213, "party": 0 },
+    "RicohLeasingCompany(2018).txt": { "2016": 2.502628856561812, "environmental": 18.787429171185646, "energy": 11.630313296448257, "visa": 0, "management": 17.89278968684347, "sustainability": 0 },
+    "RoyalSchipholGroup.txt": {
+        "energy": 30.877593752026577,
+        "environmental": 29.99537678768296,
+        "finance": 10.586603572123398,
+        "management": 28.23094285899573,
+        "water": 3,
+        "climate": 20.29099017990318
+    },
+    "RumoS.txt": { "environmental": 32, "energy": 6.667353810661346, "business": 7.37847054889193, "party": 9.374802055413273, "management": 12.333187172961843, "central": 1.6418538861723948 },
+    "RWE.txt": { "2015": 4.91536628971539, "energy": 50.831411495692954, "environmental": 23.528758919168073, "renewable": 31, "climate": 4.186080062539571, "party": 34.81945016840239 },
+    "SanDiegoUnifiedSchoolDistrict(SanDiegoCountyCalifornia).txt": {
+        "environmental": 8.142208381761076,
+        "energy": 36.187592807827,
+        "waste": 7.737523609604784,
+        "management": 11.760967662543777,
+        "business": 1.8093796403913502,
+        "verifiers": 34.74898934661778
+    },
+    "SATO.txt": { "energy": 57, "environmental": 23, "buildings": 34.26313067807587, "finance": 42.90326061928047, "building": 8.172049641767709, "sustainability": 4 },
+    "ScatecASA.txt": { "energy": 15.879905358185097, "environmental": 10.586603572123398, "finance": 17.64433928687233, "management": 4.411084821718083, "water": 2, "climate": 5.293301786061699 },
+    "SchaefflerGroup.txt": { "2016": 10.772975505128809, "environmental": 21.15901772350866, "waste": 3, "energy": 68.99679692448477, "business": 4, "management": 28.51867606212037 },
+    "Scotiabank.txt": {
+        "energy": 58,
+        "environmental": 65.0756555722484,
+        "management": 35.40494512975642,
+        "party": 43.10906011065523,
+        "buildings": 26.011074249467004,
+        "sustainability": 19.319335248011242
+    },
+    "SeibuHoldingsInc.txt": { "2016": 0, "environmental": 30.417742467633904, "energy": 14.314231749474779, "visa": 0, "management": 30.417742467633904, "sustainability": 11 },
+    "SeikoEpsonCorporation(2019).txt": {
+        "environmental": 48.24302814915668,
+        "business": 16.35356886412091,
+        "investment": 4.906070659236272,
+        "activities": 19,
+        "benefits": 7.359105988854409,
+        "including": 1.6353568864120909
+    },
+    "SeikoEpsonCorporation(2020).txt": {
+        "environmental": 113.65730360564032,
+        "business": 123.46944492411286,
+        "investment": 78.49713054778036,
+        "activities": 81,
+        "benefits": 65.41427545648364,
+        "including": 46.60767126274459
+    },
+    "SekisuiHouseReit.txt": { "energy": 21, "environmental": 35, "buildings": 34.26313067807587, "finance": 8.172049641767709, "building": 24.516148925303128, "sustainability": 38 },
+    "SenkoGroupHoldingsCo.txt": { "2016": 1.251314428280906, "environmental": 72.46579823171606, "energy": 29.523102983291732, "visa": 0, "management": 19.68206865552782, "sustainability": 3 },
+    "SindicatumRenewableEnergyCompanyPte.txt": {
+        "2015": 3.6865247172865425,
+        "energy": 29.32581432443824,
+        "environmental": 24.551748437392774,
+        "renewable": 17,
+        "climate": 6.279120093809357,
+        "party": 1.2006706954621513
+    },
+    "SociedadeBioeltricadoMondego.txt": {
+        "2015": 2.457683144857695,
+        "energy": 51.808938639840896,
+        "environmental": 33.75865410141506,
+        "renewable": 30,
+        "climate": 7.32564010944425,
+        "party": 32.41810877747809
+    },
+    "SognFjordaneEnergi(SFE).txt": { "2015": 4.91536628971539, "energy": 26.39323289199442, "environmental": 36.82762265608916, "renewable": 14, "climate": 28.256040422142107, "party": 0 },
+    "SouthBaysideWasteManagementAuthority.txt": {
+        "energy": 24.650692821279996,
+        "environmental": 35.60655629740444,
+        "climate": 7.303908984082962,
+        "investments": 2.7389658690311105,
+        "management": 36.51954492041481,
+        "sustainable": 14.607817968165923
+    },
+    "SouthernPower.txt": { "2015": 9.83073257943078, "energy": 5.865162864887648, "environmental": 0, "renewable": 5, "climate": 0, "party": 0 },
+    "SparbankenSkne.txt": { "energy": 67, "environmental": 23.386563721276765, "management": 11.801648376585472, "party": 0, "buildings": 27.19339580626096, "sustainability": 38.638670496022485 },
+    "SparbankenVstraMlardalen.txt": {
+        "energy": 19,
+        "environmental": 12.201685419796574,
+        "management": 4.917353490243947,
+        "party": 6.632163093946958,
+        "buildings": 7.093929340763728,
+        "sustainability": 7.1176498282146685
+    },
+    "SparebankenSognogFjordane.txt": {
+        "energy": 9,
+        "environmental": 30.504213549491435,
+        "management": 11.801648376585472,
+        "party": 0,
+        "buildings": 1.1823215567939547,
+        "sustainability": 4.067228473265525
+    },
+    "StavmatKft.txt": { "energy": 11, "environmental": 16, "buildings": 0.9789465908021676, "finance": 1.0215062052209636, "building": 3.064518615662891, "sustainability": 4 },
+    "StenaMetallAB.txt": { "2016": 10.772975505128809, "environmental": 22.078975015835127, "waste": 12, "energy": 6.439701046285245, "business": 11, "management": 6.439701046285245 },
+    "SumitomoMitsuiFinancialGroupInc(2018).txt": {
+        "energy": 87,
+        "environmental": 78.29414811036135,
+        "management": 24.586767451219735,
+        "party": 30.950094438419136,
+        "buildings": 26.011074249467004,
+        "sustainability": 11.184878301480193
+    },
+    "SumitomoMitsuiTrustBank(2018).txt": {
+        "energy": 16,
+        "environmental": 39.655477614338864,
+        "management": 37.371886525853995,
+        "party": 5.526802578289132,
+        "buildings": 1.1823215567939547,
+        "sustainability": 8.13445694653105
+    },
+    "SumitomoMitsuiTrustBank(2021).txt": {
+        "energy": 100,
+        "environmental": 55.92439150740096,
+        "management": 35.40494512975642,
+        "party": 53.057304751575664,
+        "buildings": 40.19893293099446,
+        "sustainability": 29.487406431175053
+    },
+    "SummitIndustrialIncomeREIT.txt": { "energy": 22, "environmental": 16, "buildings": 9.789465908021675, "finance": 9.193555846988673, "building": 7.150543436546745, "sustainability": 4 },
+    "SunndalSparebanken.txt": { "energy": 18, "environmental": 39.655477614338864, "management": 8.851236282439105, "party": 1.1053605156578263, "buildings": 0, "sustainability": 2.0336142366327623 },
+    "SunrunInc.txt": { "2015": 1.2288415724288475, "energy": 32.25839575688207, "environmental": 24.551748437392774, "renewable": 8, "climate": 9.418680140714036, "party": 6.003353477310757 },
+    "SuzanoPapeleCeluloseS.txt": { "2016": 27.701937013188363, "environmental": 35.87833440073208, "waste": 6, "energy": 15.639273969549881, "business": 6, "management": 27.59871876979391 },
+    "SvenskaCellulosaAktiebolagetSCA.txt": {
+        "energy": 35.52567144725515,
+        "environmental": 22.837931644664025,
+        "paper": 10.1501918420729,
+        "management": 21.99208232449128,
+        "climate": 29.604726206045957,
+        "party": 0.8458493201727416
+    },
+    "Swedavia.txt": { "environmental": 41, "energy": 45.560251039519194, "business": 2.1081344425405515, "party": 1.1718502569266591, "management": 11.384480467349393, "central": 0 },
+    "SwedbankAB.txt": { "energy": 26, "environmental": 13.218492538112955, "management": 23.603296753170945, "party": 0, "buildings": 7.093929340763728, "sustainability": 7.1176498282146685 },
+    "Swisscom.txt": {
+        "energy": 23.934519916324266,
+        "efficiency": 11.967259958162133,
+        "data": 10.739848680401915,
+        "environmental": 10.126143041521805,
+        "network": 8.898731763761587,
+        "report": 8.591878944321532
+    },
+    "SwissLife.txt": {
+        "energy": 35,
+        "environmental": 32.5378277861242,
+        "management": 25.570238149268523,
+        "party": 23.212570828814354,
+        "buildings": 35.46964670381864,
+        "sustainability": 11.184878301480193
+    },
+    "SwissPrimeSite.txt": { "energy": 10, "environmental": 14, "buildings": 8.810519317219509, "finance": 5.107531026104818, "building": 5.107531026104818, "sustainability": 32 },
+    "SYCTOM.txt": { "environmental": 37.99697244821836, "energy": 37.99697244821836, "waste": 68.53235197078523, "management": 37.09228262802268, "business": 5.4281389211740505, "verifiers": 0 },
+    "SynthesisAnalytics.txt": {
+        "2015": 2.457683144857695,
+        "energy": 71.35948152279973,
+        "environmental": 30.689685546740964,
+        "renewable": 13,
+        "climate": 5.232600078174464,
+        "party": 40.822803645713144
+    },
+    "TatraBanka.txt": {
+        "energy": 90,
+        "environmental": 47.789934560869916,
+        "management": 39.33882792195158,
+        "party": 47.530502173286536,
+        "buildings": 40.19893293099446,
+        "sustainability": 19.319335248011242
+    },
+    "TennesseeValleyAuthority.txt": {
+        "energy": 44.73644252750814,
+        "environmental": 43.82345390449777,
+        "climate": 41.084488035466656,
+        "investments": 9.129886230103702,
+        "management": 23.737704198269626,
+        "sustainable": 39.25851078944592
+    },
+    "TianjinRailTransitGroup.txt": { "environmental": 19, "energy": 30.003092147976055, "business": 0, "party": 19.921454367753206, "management": 21.820254229086338, "central": 3.2837077723447896 },
+    "TokyoMetropolitanGovernment.txt": { "environmental": 45.256396135682465, "climate": 14.14262379240077, "energy": 29.697489410860175, "city": 0, "management": 14.14262379240077, "change": 8 },
+    "TokyuFudosanHoldings.txt": { "energy": 94, "environmental": 83, "buildings": 46.01048976770188, "finance": 19.40861789919831, "building": 64.35489092892071, "sustainability": 18 },
+    "TokyuLandCapitalManagementInc.txt": { "energy": 26, "environmental": 143, "buildings": 0.9789465908021676, "finance": 8.172049641767709, "building": 2.043012410441927, "sustainability": 14 },
+    "TownofWareham.txt": { "environmental": 6.599891103120359, "climate": 6.599891103120359, "energy": 13.788120083613652, "city": 0, "management": 2.828524758480154, "change": 2 },
+    "ToyotaFinanceCorporation(2020).txt": {
+        "energy": 13,
+        "environmental": 209.46226637317451,
+        "management": 31.47106233756126,
+        "party": 6.632163093946958,
+        "buildings": 1.1823215567939547,
+        "sustainability": 9.15126406484743
+    },
+    "ToyotaMotorCreditCorporation(2017).txt": {
+        "environmental": 198,
+        "energy": 14.445933256432916,
+        "business": 222.40818368802817,
+        "party": 9.374802055413273,
+        "management": 22.768960934698786,
+        "central": 0
+    },
+    "ToyotaMotorCreditCorporation(2021).txt": {
+        "environmental": 43,
+        "energy": 17.77961016176359,
+        "business": 6.3244033276216545,
+        "party": 42.18660924935973,
+        "management": 12.333187172961843,
+        "central": 1.6418538861723948
+    },
+    "TritaxEuroBoxplc.txt": { "energy": 64, "environmental": 34, "buildings": 34.26313067807587, "finance": 57.20434749237396, "building": 27.580667540966015, "sustainability": 23 },
+
+    "UBIBanca.txt": { "energy": 8, "environmental": 50.84035591581906, "management": 7.867765584390315, "party": 6.632163093946958, "buildings": 0, "sustainability": 23.386563721276765 },
+    "UBS.txt": { "energy": 21, "environmental": 35.58824914107334, "management": 15.73553116878063, "party": 36.47689701670827, "buildings": 23.646431135879094, "sustainability": 18.30252812969486 },
+    "VaClereSL.txt": { "energy": 39, "environmental": 36, "buildings": 27.410504542460693, "finance": 9.193555846988673, "building": 8.172049641767709, "sustainability": 16 },
+    "VajdaPaprKft.txt": {
+        "energy": 22.837931644664025,
+        "environmental": 32.14227416656418,
+        "paper": 33.833972806909664,
+        "management": 38.063219407773374,
+        "climate": 3.3833972806909665,
+        "party": 4.229246600863708
+    },
+    "VarbergsSparbank.txt": {
+        "energy": 53,
+        "environmental": 30.504213549491435,
+        "management": 8.851236282439105,
+        "party": 1.1053605156578263,
+        "buildings": 41.38125448778841,
+        "sustainability": 17.28572101137848
+    },
+    "VenaEnergy(2019).txt": { "2015": 0, "energy": 59.629155793024424, "environmental": 37.85061217431386, "renewable": 15, "climate": 11.511720171983821, "party": 7.2040241727729075 },
+    "VenaEnergy(2020).txt": { "2015": 0, "energy": 35.19097718932589, "environmental": 0, "renewable": 1, "climate": 1.0465200156348928, "party": 4.802682781848605 },
+    "VestasWindSystemsAS.txt": { "2015": 1.2288415724288475, "energy": 0.9775271441479414, "environmental": 8.18391614579759, "renewable": 0, "climate": 0, "party": 1.2006706954621513 },
+    "Vesteda.txt": { "energy": 51, "environmental": 19, "buildings": 23.494718179252022, "finance": 50.053804055827214, "building": 16.344099283535417, "sustainability": 14 },
+    "Vestel.txt": {
+        "environmental": 13.900533534502772,
+        "business": 0.8176784432060454,
+        "investment": 1.6353568864120909,
+        "activities": 0,
+        "benefits": 3.2707137728241817,
+        "including": 0.8176784432060454
+    },
+    "VGPNV.txt": { "energy": 69, "environmental": 35, "buildings": 43.073649995295376, "finance": 52.09681646626914, "building": 22.4731365148612, "sustainability": 2 },
+    "VIAOutlets.txt": { "energy": 26, "environmental": 26, "buildings": 18.599985225241184, "finance": 57.20434749237396, "building": 11.2365682574306, "sustainability": 46 },
+    "VisaInc.txt": { "2016": 1.251314428280906, "environmental": 33.10166092066043, "energy": 44.731974217108686, "visa": 360.5871451357835, "management": 14.314231749474779, "sustainability": 24 },
+    "VivintSolarInc.txt": { "2015": 2.457683144857695, "energy": 19.55054288295883, "environmental": 23.528758919168073, "renewable": 4, "climate": 4.186080062539571, "party": 6.003353477310757 },
+    "Volkswagen.txt": { "environmental": 20, "energy": 15.557158891543141, "business": 9.486604991432483, "party": 28.12440616623982, "management": 17.07672070102409, "central": 0 },
+    "VolvofinansBankAB(2019).txt": { "energy": 3, "environmental": 24.403370839593148, "management": 7.867765584390315, "party": 0, "buildings": 0, "sustainability": 8.13445694653105 },
+    "Vonovia.txt": { "energy": 80, "environmental": 36, "buildings": 22.515771588449855, "finance": 16.344099283535417, "building": 41.88175441405951, "sustainability": 19 },
+    "Wallenstam.txt": { "energy": 40, "environmental": 19, "buildings": 24.47366477005419, "finance": 0, "building": 20.43012410441927, "sustainability": 9 },
+    "WashingtonMetropolitanAreaTransitAuthority(WMATA).txt": {
+        "environmental": 9.04689820195675,
+        "energy": 14.475037123130802,
+        "waste": 2.2107210313156527,
+        "management": 9.951588022152427,
+        "business": 8.142208381761076,
+        "verifiers": 34.74898934661778
+    },
+    "WelltowerInc.txt": {
+        "energy": 21.47969736080383,
+        "environmental": 10.739848680401915,
+        "water": 9.205584583201642,
+        "certification": 9.205584583201642,
+        "party": 7.978173305441422,
+        "efficiency": 7.671320486001368
+    },
+    "WestCountyFacilitiesFinancingAuthority.txt": {
+        "energy": 31.041613182352588,
+        "environmental": 8.216897607093332,
+        "climate": 4.564943115051851,
+        "investments": 4.564943115051851,
+        "management": 12.781840722145184,
+        "sustainable": 11.868852099134813
+    },
+    "WhitePeak.txt": { "energy": 45, "environmental": 39, "buildings": 19.57893181604335, "finance": 44.9462730297224, "building": 43.92476682450143, "sustainability": 4 },
+    "WorkspaceGroupPLC.txt": { "energy": 27, "environmental": 21, "buildings": 9.789465908021675, "finance": 27.580667540966015, "building": 10.215062052209635, "sustainability": 24 },
+    "XiaomiCorporation.txt": {
+        "energy": 64.28454833312836,
+        "environmental": 38.063219407773374,
+        "paper": 4.229246600863708,
+        "management": 38.063219407773374,
+        "climate": 6.766794561381933,
+        "party": 34.6798221270824
+    },
+    "XiorStudentHousingN.txt": { "energy": 63, "environmental": 28, "buildings": 18.599985225241184, "finance": 55.16133508193203, "building": 4.086024820883854, "sustainability": 15 },
+    "ZhenroPropertiesGroupLtd.txt": { "energy": 20, "environmental": 14, "buildings": 9.789465908021675, "finance": 13.279580667872526, "building": 6.129037231325782, "sustainability": 5 },
+    "ZHoldingsCorporation.txt": { "2016": 0, "environmental": 43.83733473276651, "energy": 67.9926008100052, "visa": 0, "management": 27.733824014607382, "sustainability": 19 }
+}]

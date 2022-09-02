@@ -13,7 +13,7 @@ const getSentimentScore = (filesToRead) => {
         const elementContents = fs_1.default.readFileSync(`../../assets/files/fileOutputs/${element}`, 'utf-8');
         const result = sentiment.analyze(elementContents);
         const resultObject = {
-            companyName: element,
+            companyName: element.split('.txt')[0],
             sentimentScore: result.comparative
         };
         return resultObject;

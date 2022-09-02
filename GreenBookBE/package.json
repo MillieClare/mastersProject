@@ -4,8 +4,7 @@
     "description": "",
     "main": "src/server.ts",
     "scripts": {
-        "build-dev": "rmdir /s /q build && tsc && xcopy src\\assets build\\assets\\ /E/H ",
-        "build": "rm -rf build && tsc &&  cp -R src/assets build/assets/",
+        "build": "rmdir /s /q build && tsc && xcopy src\\assets build\\assets\\ /E/H ",
         "test": "jest --config ./jest.config.js",
         "start": "node build/server.js",
         "himillie": "echo Hi Millie!"
@@ -34,6 +33,7 @@
         "pdfjs-dist": "^2.7.570",
         "prettier": "^2.7.1",
         "remove-stopwords": "^1.0.3",
+        "sentiment": "^5.0.2",
         "stopwords-en": "^0.3.0",
         "stopwords-iso": "^1.1.0",
         "ts-node": "^10.9.1",

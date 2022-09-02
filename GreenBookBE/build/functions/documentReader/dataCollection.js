@@ -3,10 +3,13 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
     return (mod && mod.__esModule) ? mod : { "default": mod };
 };
 Object.defineProperty(exports, "__esModule", { value: true });
-exports.getDataForScoresAndGraphs = exports.gatherDataBaseData = void 0;
+exports.gatherDataBaseData = void 0;
 const fs_1 = __importDefault(require("fs"));
 const path_1 = __importDefault(require("path"));
 const ICMA_Sustainable_Bonds_Database_030822_json_1 = __importDefault(require("../../assets/files/json/ICMA-Sustainable-Bonds-Database-030822.json"));
+const topSectorWordsAlphabetic_json_1 = __importDefault(require("./topSectorWordsAlphabetic.json"));
+const sentimentAnalysisResults_json_1 = __importDefault(require("./sentimentAnalysisResults.json"));
+const JSON_for_mongo_json_1 = __importDefault(require("./JSON_for_mongo.json"));
 const filesToRead = fs_1.default.readdirSync(path_1.default.resolve(__dirname, '../../assets/files/fileOutputs'));
 const gatherDataBaseData = (companies) => {
     const dataForMongo = companies.map((element) => {
@@ -33,20 +36,27 @@ const createJsonForMongo = () => {
     });
 };
 createJsonForMongo();
-const getDataForScoresAndGraphs = (companies) => {
-    const dataCollection = companies.map((element) => {
-        return {
-            companyName: element.Green_Bond_Issuer,
-            score: 0,
-            normalisedWordTfIdfScores: {
-                1: 1,
-                2: 2,
-                3: 3,
-                4: 4,
-                5: 5,
-                6: 6
-            }
+const getDataForScoresAndGraphs = (topSectorWordsAlphabetical, sentimentAnalysis, jsonMongoCompanyData) => {
+    let counter = 0;
+    const getResults = sentimentAnalysis.map((entry) => {
+        const score = Object.values(sentimentAnalysis[counter])[1];
+        const companyData = {
+            companyName: Object.values(jsonMongoCompanyData[counter])[0],
+            sentimentScore: score > 0 ? 1 : 0,
+            topCompanyWords: Object.values(topSectorWordsAlphabetical[0])[counter]
         };
+        counter++;
+        return companyData;
+    });
+    return getResults;
+};
+const createJsonForGraphData = () => {
+    const Json = getDataForScoresAndGraphs(topSectorWordsAlphabetic_json_1.default, sentimentAnalysisResults_json_1.default, JSON_for_mongo_json_1.default);
+    fs_1.default.writeFile(`./JSON_for_graph_data.json`, JSON.stringify(Json), (err) => {
+        if (err) {
+            console.error(err);
+            return;
+        }
     });
 };
-exports.getDataForScoresAndGraphs = getDataForScoresAndGraphs;
+createJsonForGraphData();

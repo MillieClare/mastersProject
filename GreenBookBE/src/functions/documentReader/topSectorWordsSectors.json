@@ -1,4 +1,5 @@
 [{
+        "Financial Institution": "Financial Institution",
         "ABANCACorporacinBancariaS.txt": {
             "energy": 51,
             "environmental": 32.5378277861242,
@@ -390,6 +391,7 @@
         "VolvofinansBankAB(2019).txt": { "energy": 3, "environmental": 24.403370839593148, "management": 7.867765584390315, "party": 0, "buildings": 0, "sustainability": 8.13445694653105 }
     },
     {
+        "Corporate-Energy": "Corporate-Energy",
         "AC-Energy_External-Review-Report3.txt": {
             "2015": 3.6865247172865425,
             "energy": 137.83132732485973,
@@ -541,6 +543,7 @@
         "VivintSolarInc.txt": { "2015": 2.457683144857695, "energy": 19.55054288295883, "environmental": 23.528758919168073, "renewable": 4, "climate": 4.186080062539571, "party": 6.003353477310757 }
     },
     {
+        "Corporate-Infrastructure": "Corporate-Infrastructure",
         "ACS-SCE_External Review Report.txt": {
             "energy": 49.40415000324253,
             "environmental": 29.113159823339345,
@@ -593,6 +596,7 @@
         "ScatecASA.txt": { "energy": 15.879905358185097, "environmental": 10.586603572123398, "finance": 17.64433928687233, "management": 4.411084821718083, "water": 2, "climate": 5.293301786061699 }
     },
     {
+        "Corporate-Real Estate": "Corporate-Real Estate",
         "Activia Properties_External Review Report.txt": {
             "energy": 59,
             "environmental": 42,
@@ -663,6 +667,7 @@
         "ZhenroPropertiesGroupLtd.txt": { "energy": 20, "environmental": 14, "buildings": 9.789465908021675, "finance": 13.279580667872526, "building": 6.129037231325782, "sustainability": 5 }
     },
     {
+        "Corporate-Transportation": "Corporate-Transportation",
         "AeroportidiRomaS.txt": { "environmental": 15, "energy": 16.668384526653366, "business": 8.432537770162206, "party": 0, "management": 19.922840817861438, "central": 0 },
         "AutoWallisNyrt.txt": {
             "environmental": 16,
@@ -761,6 +766,7 @@
         "Volkswagen.txt": { "environmental": 20, "energy": 15.557158891543141, "business": 9.486604991432483, "party": 28.12440616623982, "management": 17.07672070102409, "central": 0 }
     },
     {
+        "Agency": "Agency",
         "AgenceFranaisedeDveloppement(AFD)(2017).txt": {
             "energy": 21.911726952248884,
             "environmental": 45.64943115051851,
@@ -851,6 +857,7 @@
         }
     },
     {
+        "Corporate-agri food": "Corporate-agri food",
         "AgriNurtureInc.txt": { "ani": 98, "production": 29.726744594591782, "energy": 26.159535243240768, "climate": 25.56500035134893, "organic": 40, "emissions": 23.18686078378159 },
         "Baromfi-CoopKft.txt": { "ani": 0, "production": 2.3781395675673425, "energy": 2.972674459459178, "climate": 2.3781395675673425, "organic": 0, "emissions": 0.5945348918918356 }
     },
@@ -867,6 +874,7 @@
         "ZHoldingsCorporation.txt": { "2016": 0, "environmental": 43.83733473276651, "energy": 67.9926008100052, "visa": 0, "management": 27.733824014607382, "sustainability": 19 }
     },
     {
+        "Corporate-Consumer goods": "Corporate-Consumer goods",
         "AppleInc.txt": {
             "energy": 54.9802058112282,
             "environmental": 29.604726206045957,
@@ -917,6 +925,7 @@
         }
     },
     {
+        "Corporate-Industry": "Corporate-Industry",
         "ARKEMA.txt": { "2016": 0, "environmental": 57.03735212424074, "waste": 4, "energy": 6.439701046285245, "business": 17, "management": 42.31803544701732 },
         "AsahiHoldingsInc.txt": { "2016": 0, "environmental": 163.7523980341105, "waste": 140, "energy": 9.199572923264636, "business": 203, "management": 24.838846892814516 },
         "BASF.txt": { "2016": 3.077993001465374, "environmental": 43.23799273934379, "waste": 6, "energy": 31.278547939099763, "business": 8, "management": 33.11846252375269 },
@@ -931,6 +940,7 @@
         "SuzanoPapeleCeluloseS.txt": { "2016": 27.701937013188363, "environmental": 35.87833440073208, "waste": 6, "energy": 15.639273969549881, "business": 6, "management": 27.59871876979391 }
     },
     {
+        "Municipal": "Municipal",
         "AucklandCouncil.txt": { "environmental": 2.828524758480154, "climate": 8.485574275440461, "energy": 1.0606246218164348, "city": 0, "management": 8.485574275440461, "change": 1 },
         "CityofBerkeleyCalifornia(seriesA).txt": {
             "environmental": 7.5427326892804105,
@@ -992,6 +1002,7 @@
         "TownofWareham.txt": { "environmental": 6.599891103120359, "climate": 6.599891103120359, "energy": 13.788120083613652, "city": 0, "management": 2.828524758480154, "change": 2 }
     },
     {
+        "MDB": "MDB",
         "CaliforniaInfrastructureandEconomicDevelopmentBank(CalSTRS).txt": {
             "environmental": 10.684768913223287,
             "energy": 30.62967088457342,
@@ -1018,6 +1029,7 @@
         }
     },
     {
+        "Utility": "Utility",
         "CAMPOCo.txt": { "environmental": 96.80181076093724, "energy": 20.807865864500528, "waste": 27.634012891445657, "management": 18.99848622410918, "business": 60.614217953110234, "verifiers": 0 },
         "DublinUnifiedSchoolDistrict.txt": {
             "environmental": 6.332828741369726,
@@ -1072,6 +1084,7 @@
         }
     },
     {
+        "Corporate-Technology": "Corporate-Technology",
         "DanaInc.txt": {
             "environmental": 13.082855091296727,
             "business": 2.453035329618136,
@@ -1114,6 +1127,7 @@
         }
     },
     {
+        "Sovereign": "Sovereign",
         "FederalGovernmentofNigeria.txt": {
             "climate": 13.082855091296727,
             "energy": 15.535890420914864,
@@ -1156,6 +1170,7 @@
         }
     },
     {
+        "Corporate-Tourism": "Corporate-Tourism",
         "GrupoPestanaSGPS.txt": {
             "11": 3.375381013840602,
             "reviewed": 4.602792291600821,
@@ -1166,6 +1181,7 @@
         }
     },
     {
+        "Corporate-consumer services": "Corporate-consumer services",
         "ITOCHU.txt": {
             "sustainability": 24.37593056756526,
             "finance": 43.995581999995835,
@@ -1184,6 +1200,7 @@
         }
     },
     {
+        "Corporate-Telecom": "Corporate-Telecom",
         "Swisscom.txt": {
             "energy": 23.934519916324266,
             "efficiency": 11.967259958162133,
@@ -1194,6 +1211,7 @@
         }
     },
     {
+        "Corporate-Healthcare": "Corporate-Healthcare",
         "WelltowerInc.txt": {
             "energy": 21.47969736080383,
             "environmental": 10.739848680401915,
