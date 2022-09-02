@@ -9,6 +9,7 @@ const mongoose_1 = __importDefault(require("mongoose"));
 const config_1 = require("./config/config");
 const Logging_1 = __importDefault(require("./library/Logging"));
 const Company_1 = __importDefault(require("./routes/Company"));
+const GraphData_1 = __importDefault(require("./routes/GraphData"));
 const router = (0, express_1.default)();
 //** CONNECT TO MONGOOSE */
 mongoose_1.default
@@ -47,6 +48,7 @@ const StartServer = () => {
     });
     /** Routes */
     router.use('/companies', Company_1.default);
+    router.use('/graphData', GraphData_1.default);
     /** Healthcheck */
     router.get('/ping', (req, res, next) => res.status(200).json({ message: 'pong' }));
     /** Error handling */

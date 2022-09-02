@@ -3,6 +3,7 @@ import { NextFunction, Response, Request } from 'express';
 import Logging from '../library/Logging';
 import { ICompany } from '../models/Company';
 import { CountQueuingStrategy } from 'stream/web';
+import { IGraphData } from '../models/GraphData';
 
 export const ValidateSchema = (schema: ObjectSchema) => {
   return async (req: Request, res: Response, next: NextFunction) => {
