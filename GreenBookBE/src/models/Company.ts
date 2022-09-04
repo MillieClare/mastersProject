@@ -1,5 +1,4 @@
 import mongoose, { Document, Schema } from 'mongoose';
-import { StringLiteral } from 'typescript';
 
 export interface ICompany {
   companyName: string;
