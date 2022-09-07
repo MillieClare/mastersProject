@@ -2,8 +2,6 @@ import Joi, { ObjectSchema } from 'joi';
 import { NextFunction, Response, Request } from 'express';
 import Logging from '../library/Logging';
 import { ICompany } from '../models/Company';
-import { CountQueuingStrategy } from 'stream/web';
-import { IGraphData } from '../models/GraphData';
 
 export const ValidateSchema = (schema: ObjectSchema) => {
   return async (req: Request, res: Response, next: NextFunction) => {
@@ -24,6 +22,7 @@ export const Schemas = {
       companyName: Joi.string().required(),
       country: Joi.string().required(),
       sector: Joi.string().required(),
+      sentimentScore: Joi.number().required(),
       reviewer: Joi.string().required(),
       reviewLink: Joi.string(),
       marketInformationDate: Joi.string(),
@@ -33,6 +32,7 @@ export const Schemas = {
       companyName: Joi.string().required(),
       country: Joi.string().required(),
       sector: Joi.string().required(),
+      sentimentScore: Joi.number().required(),
       reviewer: Joi.string().required(),
       reviewLink: Joi.string(),
       marketInformationDate: Joi.string(),

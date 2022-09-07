@@ -1,9 +1,11 @@
 import mongoose, { Document, Schema } from 'mongoose';
+import { StringLiteral } from 'typescript';
 
 export interface ICompany {
   companyName: string;
   country: string;
   sector: string;
+  sentimentScore: number;
   reviewer: string;
   reviewLink: string;
   marketInformationDate: string;
@@ -17,6 +19,7 @@ const CompanySchema: Schema = new Schema(
     companyName: { type: String, required: true },
     country: { type: String, required: true },
     sector: { type: String, required: true },
+    sentimentScore: { type: Number, required: true },
     reviewer: { type: String, required: true },
     reviewLink: { type: String, required: false },
     marketInformationDate: { type: String, required: false },

@@ -3,13 +3,14 @@ import mongoose from 'mongoose';
 import Company from '../models/Company';
 
 const createCompany = (req: Request, res: Response, next: NextFunction) => {
-  const { companyName, country, sector, reviewer, reviewLink, marketInformationDate, marketInformationLink } = req.body;
+  const { companyName, country, sector, sentimentScore, reviewer, reviewLink, marketInformationDate, marketInformationLink } = req.body;
 
   const company = new Company({
     _id: new mongoose.Types.ObjectId(),
     companyName,
     country,
     sector,
+    sentimentScore,
     reviewer,
     reviewLink,
     marketInformationDate,

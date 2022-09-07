@@ -28,6 +28,7 @@ const CompanySchema = new mongoose_1.Schema({
     companyName: { type: String, required: true },
     country: { type: String, required: true },
     sector: { type: String, required: true },
+    sentimentScore: { type: Number, required: true },
     reviewer: { type: String, required: true },
     reviewLink: { type: String, required: false },
     marketInformationDate: { type: String, required: false },

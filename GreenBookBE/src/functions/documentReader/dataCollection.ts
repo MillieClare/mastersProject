@@ -6,6 +6,7 @@ import topSectorWords from './topSectorWords.json';
 import topSectorAlphabetical from './topSectorWordsAlphabetic.json';
 import sentimentAnalysis from './sentimentAnalysisResults.json';
 import jsonMongo from './JSON_for_mongo.json';
+import jsonGraphMongo from './JSON_for_graph_data.json';
 const filesToRead = fs.readdirSync(path.resolve(__dirname, '../../assets/files/fileOutputs'));
 
 export const gatherDataBaseData = (companies: Record<string, any>) => {
@@ -18,6 +19,7 @@ export const gatherDataBaseData = (companies: Record<string, any>) => {
       reviewLink: element['External_Review_Report_Hyperlink_1'] || element['External_Review_Report_Hyperlink_1'],
       marketInformationDate: element['Market Information Template'],
       marketInformationLink: element['Market Information Template Hyperlink']
+      // sentimentAnalysis: jsonGraphMongo[counter].sentimentScore
     };
   });
   return dataForMongo;
@@ -41,7 +43,8 @@ const getDataForScoresAndGraphs = (topSectorWordsAlphabetical: any, sentimentAna
     const score: any = Object.values(sentimentAnalysis[counter])[1];
     const companyData = {
       companyName: Object.values(jsonMongoCompanyData[counter])[0],
-      sentimentScore: score > 0 ? 1 : 0,
+      sentimentScore: score > 0 ? (score > 0.04 ? 1 : 0.5) : 0,
+      sector: Object.values(jsonMongoCompanyData[counter])[2],
       topCompanyWords: Object.values(topSectorWordsAlphabetical[0])[counter]
     };
     counter++;

@@ -24,9 +24,12 @@ var __importStar = (this && this.__importStar) || function (mod) {
 };
 Object.defineProperty(exports, "__esModule", { value: true });
 const mongoose_1 = __importStar(require("mongoose"));
-const GraphSchema = new mongoose_1.Schema({
-    companyName: { type: String, required: true, ref: 'companyName' },
+const GraphDataSchema = new mongoose_1.Schema({
+    companyName: { type: String, required: true },
     sentimentScore: { type: Number, required: true },
+    sector: { type: String, required: true },
     topCompanyWords: { type: mongoose_1.Schema.Types.Mixed, required: true }
+}, {
+    versionKey: false // don't need to return the version key variable provided by mongo
 });
-exports.default = mongoose_1.default.model('GraphData', GraphSchema);
+exports.default = mongoose_1.default.model('GraphData', GraphDataSchema);

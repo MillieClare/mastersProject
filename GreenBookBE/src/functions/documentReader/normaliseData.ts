@@ -1,11 +1,7 @@
-import wordFrequencies from './word_frequencies.json';
+import jsonGraphData from './JSON_for_graph_data.json';
 
-const sectors = new Set(wordFrequencies.map((element) => element.sector));
+const sectors = new Set(jsonGraphData.map((element) => element.sector));
 const sectorsArray = Array.from(sectors);
-
-const dataObj = {
-  // data from sectors
-};
 
 const range = [0, 1];
 
@@ -33,6 +29,26 @@ const normaliseObject = (data: any, range: any) => {
   });
 };
 
-normaliseObject(dataObj, range);
+const createDataObject = (sectors: Array<String>) => {
+  const sectorWords = sectors.map((sector) => {
+    const currentSectorRecords = jsonGraphData.filter((element: any) => element.sector === sector);
+    // console.log('sector------------------', sector);
+    const mapReportsForTopWords = currentSectorRecords.map((report) => {
+      // console.log('report -----------------------', report);
+      const sectorWords = report.topCompanyWords;
+      const companyName = report.companyName;
+      const dataObj = {
+        companyName: sectorWords
+      };
+      normaliseObject(dataObj, range);
+      return normaliseObject;
+    });
+    return mapReportsForTopWords;
+  });
+  return sectorWords;
+};
+console.log(createDataObject(sectorsArray));
 
-console.log(dataObj);
+// normaliseObject(dataObj, range);
+
+// console.log(dataObj);
