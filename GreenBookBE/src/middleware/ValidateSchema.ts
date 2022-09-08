@@ -24,7 +24,7 @@ export const Schemas = {
       sector: Joi.string().required(),
       sentimentScore: Joi.number().required(),
       reviewer: Joi.string().required(),
-      reviewLink: Joi.string(),
+      reviewLink: Joi.string().required(),
       marketInformationDate: Joi.string(),
       marketInformationLink: Joi.string()
     }),
@@ -34,7 +34,7 @@ export const Schemas = {
       sector: Joi.string().required(),
       sentimentScore: Joi.number().required(),
       reviewer: Joi.string().required(),
-      reviewLink: Joi.string(),
+      reviewLink: Joi.string().required(),
       marketInformationDate: Joi.string(),
       marketInformationLink: Joi.string()
     })

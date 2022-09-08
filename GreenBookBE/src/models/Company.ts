@@ -21,7 +21,7 @@ const CompanySchema: Schema = new Schema(
     sector: { type: String, required: true },
     sentimentScore: { type: Number, required: true },
     reviewer: { type: String, required: true },
-    reviewLink: { type: String, required: false },
+    reviewLink: { type: String, required: true },
     marketInformationDate: { type: String, required: false },
     marketInformationLink: { type: String, required: false }
   },
