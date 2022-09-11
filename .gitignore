@@ -1,3 +1,5 @@
 node_modules
 src/assets/fileOutputs
 src/assets/corpus
+build/assets/fileOutputs
+build/assets/corpus
