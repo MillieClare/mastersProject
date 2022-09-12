@@ -3,3 +3,4 @@ src/assets/fileOutputs
 build/assets/corpus
 build/assets/fileOutputs
 tmp
+.node_modules/
