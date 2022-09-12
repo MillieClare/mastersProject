@@ -6,10 +6,11 @@ Object.defineProperty(exports, "__esModule", { value: true });
 const express_1 = __importDefault(require("express"));
 const http_1 = __importDefault(require("http"));
 const mongoose_1 = __importDefault(require("mongoose"));
-const config_1 = require("./config/config");
-const Logging_1 = __importDefault(require("./library/Logging"));
-const Company_1 = __importDefault(require("./routes/Company"));
-const GraphData_1 = __importDefault(require("./routes/GraphData"));
+const config_1 = require("./src/config/config");
+const Logging_1 = __importDefault(require("./src/library/Logging"));
+const Company_1 = __importDefault(require("./src/routes/Company"));
+const GraphData_1 = __importDefault(require("./src/routes/GraphData"));
+const SectorWords_1 = __importDefault(require("./src/routes/SectorWords"));
 const router = (0, express_1.default)();
 //** CONNECT TO MONGOOSE */
 mongoose_1.default
@@ -49,6 +50,7 @@ const StartServer = () => {
     /** Routes */
     router.use('/companies', Company_1.default);
     router.use('/graphData', GraphData_1.default);
+    router.use('/sectorWord', SectorWords_1.default);
     /** Healthcheck */
     router.get('/ping', (req, res, next) => res.status(200).json({ message: 'pong' }));
     /** Error handling */
