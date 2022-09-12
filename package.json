@@ -1,47 +1,47 @@
 {
-    "name": "typescript",
-    "version": "1.0.0",
-    "description": "",
-    "main": "src/server.ts",
-    "scripts": {
-        "build": "rm -rf build && tsc &&  cp -R src/assets build/assets/",
-        "test": "jest --config ./jest.config.js",
-        "start": "node build/server.js",
-        "himillie": "echo Hi Millie!"
-    },
-    "keywords": [],
-    "author": "",
-    "license": "ISC",
-    "devDependencies": {
-        "@babel/preset-typescript": "^7.18.6",
-        "@types/express": "^4.17.13",
-        "@types/jest": "^28.1.6",
-        "@types/node": "^18.7.1",
-        "@types/stopword": "^2.0.0",
-        "jest": "^28.1.3",
-        "ts-jest": "^28.0.7",
-        "typescript": "^4.7.4"
-    },
-    "engines": {
-        "node": "8.4.0"
-    },
-    "dependencies": {
-        "chalk": "^4.1.2",
-        "dotenv": "^16.0.1",
-        "express": "^4.18.1",
-        "joi": "^17.6.0",
-        "mongoose": "^6.5.2",
-        "natural": "^5.2.3",
-        "nodemon": "^2.0.19",
-        "pdfjs-dist": "^2.7.570",
-        "prettier": "^2.7.1",
-        "remove-stopwords": "^1.0.3",
-        "sentiment": "^5.0.2",
-        "stopwords-en": "^0.3.0",
-        "stopwords-iso": "^1.1.0",
-        "ts-node": "^10.9.1",
-        "word-frequency-basic": "^1.0.0",
-        "xlsx": "^0.18.5",
-        "xmlhttprequest": "^1.8.0"
-    }
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/server.ts",
+  "scripts": {
+    "build": "rm -rf build && tsc",
+    "test": "jest --config ./jest.config.js",
+    "start": "node build/server.js",
+    "himillie": "echo Hi Millie!"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/preset-typescript": "^7.18.6",
+    "@types/express": "^4.17.13",
+    "@types/jest": "^28.1.6",
+    "@types/node": "^18.7.1",
+    "@types/stopword": "^2.0.0",
+    "jest": "^28.1.3",
+    "ts-jest": "^28.0.7",
+    "typescript": "^4.7.4"
+  },
+  "engines": {
+    "node": "8.4.0"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "joi": "^17.6.0",
+    "mongoose": "^6.5.2",
+    "natural": "^5.2.3",
+    "nodemon": "^2.0.19",
+    "pdfjs-dist": "^2.7.570",
+    "prettier": "^2.7.1",
+    "remove-stopwords": "^1.0.3",
+    "sentiment": "^5.0.2",
+    "stopwords-en": "^0.3.0",
+    "stopwords-iso": "^1.1.0",
+    "ts-node": "^10.9.1",
+    "word-frequency-basic": "^1.0.0",
+    "xlsx": "^0.18.5",
+    "xmlhttprequest": "^1.8.0"
+  }
 }
