@@ -6,7 +6,7 @@ const MONGO_USERNAME = process.env.MONGO_USERNAME || '';
 const MONDO_PASSWORD = process.env.MONGO_PASSWORD || '';
 const MONGO_URL = `mongodb+srv://${MONGO_USERNAME}:${MONDO_PASSWORD}@cluster0.jkgagxq.mongodb.net/`;
 
-const SERVER_PORT = process.env.SERVER_PORT ? Number(process.env.SERVER_PORT) : 2107;
+const SERVER_PORT = process.env.PORT || 2107;
 
 export const config = {
   mongo: {
