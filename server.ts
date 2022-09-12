@@ -1,10 +1,10 @@
 import express from 'express';
 import http from 'http';
 import mongoose from 'mongoose';
-import { config } from './config/config';
-import Logging from './library/Logging';
-import companyRoutes from './routes/Company';
-import graphDataRoutes from './routes/GraphData';
+import { config } from './src/config/config';
+import Logging from './src/library/Logging';
+import companyRoutes from './src/routes/Company';
+import graphDataRoutes from './src/routes/GraphData';
 
 const router = express();
 
