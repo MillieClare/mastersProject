@@ -3,7 +3,7 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
     return (mod && mod.__esModule) ? mod : { "default": mod };
 };
 Object.defineProperty(exports, "__esModule", { value: true });
-exports.gatherDataBaseData = void 0;
+exports.getDataForScoresAndGraphs = exports.gatherDataBaseData = void 0;
 const fs_1 = __importDefault(require("fs"));
 const path_1 = __importDefault(require("path"));
 const ICMA_Sustainable_Bonds_Database_030822_json_1 = __importDefault(require("../../assets/files/json/ICMA-Sustainable-Bonds-Database-030822.json"));
@@ -43,18 +43,18 @@ const getDataForScoresAndGraphs = (topSectorWordsAlphabetical, sentimentAnalysis
         const score = Object.values(sentimentAnalysis[counter])[1];
         const companyData = {
             companyName: Object.values(jsonMongoCompanyData[counter])[0],
-            sentimentScore: score > 0 ? (score > 0.04 ? 1 : 0.5) : 0,
+            sentimentScore: score > 0 ? (score > 0.04 ? 'Positive' : 'Neutral') : 'Negative',
             sector: Object.values(jsonMongoCompanyData[counter])[2],
             topCompanyWords: Object.values(topSectorWordsAlphabetical[0])[counter]
         };
-        console.log(companyData.companyName, '-------------------------', Object.keys(topSectorWordsAlphabetical[0])[counter]);
         counter++;
         return companyData;
     });
     return getResults;
 };
+exports.getDataForScoresAndGraphs = getDataForScoresAndGraphs;
 const createJsonForGraphData = () => {
-    const Json = getDataForScoresAndGraphs(topSectorWordsAlphabetic_json_1.default, sentimentAnalysisResults_json_1.default, JSON_for_mongo_json_1.default);
+    const Json = (0, exports.getDataForScoresAndGraphs)(topSectorWordsAlphabetic_json_1.default, sentimentAnalysisResults_json_1.default, JSON_for_mongo_json_1.default);
     fs_1.default.writeFile(`./JSON_for_graph_data.json`, JSON.stringify(Json), (err) => {
         if (err) {
             console.error(err);

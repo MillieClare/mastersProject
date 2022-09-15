@@ -3,6 +3,7 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
     return (mod && mod.__esModule) ? mod : { "default": mod };
 };
 Object.defineProperty(exports, "__esModule", { value: true });
+exports.countWordFrequency = void 0;
 const fs_1 = __importDefault(require("fs"));
 const path_1 = __importDefault(require("path"));
 const stopWords_1 = __importDefault(require("./stopWords"));
@@ -39,6 +40,7 @@ const countWordFrequency = (filesToRead) => {
     console.log(wordFrequenciesPerDocument);
     return wordFrequenciesPerDocument;
 };
+exports.countWordFrequency = countWordFrequency;
 function maxValues(o, n) {
     // Get object values and sort descending
     const values = Object.values(o).sort((a, b) => b - a);
@@ -65,5 +67,5 @@ const createListOfFrequentWords = (jsonFile) => {
         }
     });
 };
-const Json = countWordFrequency(filesToRead);
+const Json = (0, exports.countWordFrequency)(filesToRead);
 createListOfFrequentWords(Json);

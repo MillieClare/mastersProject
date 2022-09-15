@@ -3,6 +3,7 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
     return (mod && mod.__esModule) ? mod : { "default": mod };
 };
 Object.defineProperty(exports, "__esModule", { value: true });
+exports.frequentWordsPerSector = void 0;
 const word_frequencies_json_1 = __importDefault(require("./word_frequencies.json"));
 const natural = require('natural');
 const fs = require('fs');
@@ -36,6 +37,7 @@ const frequentWordsPerSector = (sectors) => {
     });
     return wordFrequenciesPerSector;
 };
+exports.frequentWordsPerSector = frequentWordsPerSector;
 const tfidfScores = (sectorData) => {
     const results = sectorData.map((entry) => {
         const tfidf = new TfIdf();
@@ -86,5 +88,5 @@ const createListOfTopSectorWords = (jsonFile) => {
         }
     });
 };
-const json = tfidfScores(frequentWordsPerSector(sectorsArray));
+const json = tfidfScores((0, exports.frequentWordsPerSector)(sectorsArray));
 createListOfTopSectorWords(json);
