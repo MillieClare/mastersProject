@@ -5,7 +5,7 @@ import stopWords from './stopWords';
 const filesToRead = fs.readdirSync(path.resolve(__dirname, '../../assets/files/fileOutputs'));
 import jsonFiles from './JSON_for_mongo.json';
 
-const countWordFrequency = (filesToRead: any) => {
+export const countWordFrequency = (filesToRead: any) => {
   let counter: number = 0;
   const wordFrequenciesPerDocument = filesToRead.map((element: any) => {
     const elementContents = fs.readFileSync(`../../assets/files/fileOutputs/${element}`, 'utf-8');

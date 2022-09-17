@@ -3,12 +3,13 @@ import mongoose from 'mongoose';
 import GraphData from '../models/GraphData';
 
 const createGraphData = (req: Request, res: Response, next: NextFunction) => {
-  const { companyName, sentimentScore, topCompanyWords } = req.body;
+  const { companyName, sentimentScore, sector, topCompanyWords } = req.body;
 
   const graphData = new GraphData({
     _id: new mongoose.Types.ObjectId(),
     companyName,
     sentimentScore,
+    sector,
     topCompanyWords
   });
 

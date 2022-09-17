@@ -27,7 +27,7 @@ const mockJsonMongo = [
         companyName: 'ABANCA Corporación Bancaria, S. A.',
         country: 'Spain',
         sector: 'Financial Institution',
-        sentimentScore: 0.5,
+        sentimentScore: 'Neutral',
         reviewer: 'SUSTAINALYTICS',
         reviewLink: 'https://www.icmagroup.org/Emails/icma-vcards/Abanca_External%20Review%20Report.pdf',
         marketInformationDate: 'September 2021',
@@ -82,11 +82,11 @@ test('return the correct data for gatherDataBaseData', () => {
 });
 test('return the correct data for getDataForScoresAndGraphs', () => {
     const results = (0, dataCollection_1.getDataForScoresAndGraphs)(mockTopSectorWords, mockSentimentAnalysis, mockJsonMongo);
-    expect(results).toStrictEqual([
+    expect(results).toEqual([
         {
             companyName: 'ABANCA Corporación Bancaria, S. A.',
-            sentimentScore: 0.5,
             sector: 'Financial Institution',
+            sentimentScore: 'Neutral',
             topCompanyWords: {
                 energy: 51,
                 environmental: 32.5378277861242,
@@ -107,11 +107,11 @@ test('return the correct data for getDataForScoresAndGraphs', () => {
 // sentiment analysis
 test('negative sentence recieves negative score', () => {
     const results = sentiment.analyze(mockNegativeSentence).comparative;
-    expect(results).toStrictEqual(-0.75);
+    expect(results).toStrictEqual(-1);
 });
 test('positive sentence recieves positive score', () => {
     const results = sentiment.analyze(mockPositiveSentence).comparative;
-    expect(results).toStrictEqual(0.75);
+    expect(results).toStrictEqual(1.2222222222222223);
 });
 // text analysis
 // test('return word frequencies for the text', () => {

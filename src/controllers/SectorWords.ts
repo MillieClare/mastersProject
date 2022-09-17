@@ -3,13 +3,15 @@ import mongoose from 'mongoose';
 import SectorWord from '../models/SectorWords';
 
 const createSectorWord = (req: Request, res: Response, next: NextFunction) => {
-  const { sectorName, word, averageValue } = req.body;
+  const { sectorName, word, normalisedScore, minValue, max90Value } = req.body;
 
   const sectorWord = new SectorWord({
     _id: new mongoose.Types.ObjectId(),
     sectorName,
     word,
-    averageValue
+    normalisedScore,
+    minValue,
+    max90Value
   });
 
   return sectorWord

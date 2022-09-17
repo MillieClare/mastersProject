@@ -6,7 +6,7 @@ const TfIdf = natural.TfIdf;
 const sectors = new Set(wordFrequencies.map((element) => element.sector));
 const sectorsArray = Array.from(sectors);
 
-const frequentWordsPerSector = (sectors: Array<String>) => {
+export const frequentWordsPerSector = (sectors: Array<String>) => {
   const wordFrequenciesPerSector = sectors.map((sector) => {
     const reports = wordFrequencies.filter((record) => record.sector === sector);
     const reportWords = reports.map((element) => JSON.parse(element.frequentWords));

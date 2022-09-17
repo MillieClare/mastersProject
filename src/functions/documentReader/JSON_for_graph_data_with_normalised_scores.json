@@ -1,0 +1,2580 @@
+[{
+        "companyName": "ABANCA Corporación Bancaria, S. A.",
+        "sentimentScore": "Neutral",
+        "sector": "Financial Institution",
+        "topCompanyWords": {
+            "energy": 0.6115107913669064,
+            "environmental": 0.48192771084342856,
+            "management": 0.3773584905660757,
+            "party": 0.9039548022595879,
+            "buildings": 0.02932551319646192,
+            "sustainability": 0.7816711590304316
+        }
+    },
+    {
+        "companyName": "ABN AMRO (2015)",
+        "sentimentScore": "Neutral",
+        "sector": "Financial Institution",
+        "topCompanyWords": { "energy": 1, "environmental": 0.5120481927711429, "management": 0.16172506738542308, "party": 0.19774011299428484, "buildings": 1, "sustainability": 1 }
+    },
+    {
+        "companyName": "ABN AMRO (2016)",
+        "sentimentScore": "Neutral",
+        "sector": "Financial Institution",
+        "topCompanyWords": { "energy": 1, "environmental": 0.5873493975904285, "management": 0.32345013477091256, "party": 0.22598870056489698, "buildings": 1, "sustainability": 0.9973045822112404 }
+    },
+    {
+        "companyName": "AC Energy Finance Supra-national",
+        "sentimentScore": "Negative",
+        "sector": "Corporate-Energy",
+        "topCompanyWords": { "2015": 0.7500000000023483, "energy": 1, "environmental": 0.48387096774141164, "renewable": 0.7081545064377682, "climate": 0.15765765765762116, "party": 0.6309148264975971 }
+    },
+    {
+        "companyName": "ACS SCE",
+        "sentimentScore": "Neutral",
+        "sector": "Corporate-Infrastructure",
+        "topCompanyWords": { "energy": 1, "environmental": 0.9505703422048558, "finance": 0.1200686106353396, "management": 1, "water": 0.6963788300835655, "climate": 0.3790087463569518 }
+    },
+    {
+        "companyName": "Activia Properties Inc.",
+        "sentimentScore": "Neutral",
+        "sector": "Corporate-Real Estate",
+        "topCompanyWords": {
+            "energy": 0.7845744680851063,
+            "environmental": 0.8433734939759037,
+            "buildings": 1,
+            "finance": 0.3769841269843947,
+            "building": 0.9905660377351369,
+            "sustainability": 0.2631578947368421
+        }
+    },
+    {
+        "companyName": "Adani Green Energy",
+        "sentimentScore": "Neutral",
+        "sector": "Corporate-Energy",
+        "topCompanyWords": { "2015": 0, "energy": 0.0656455142236739, "environmental": 0.2534562211978823, "renewable": 0.04291845493562232, "climate": 0.04504504504503462, "party": 0.18927444794927914 }
+    },
+    {
+        "companyName": "ADIF - Alta Velocidad",
+        "sentimentScore": "Positive",
+        "sector": "Corporate-Infrastructure",
+        "topCompanyWords": { "energy": 0.6873614190677235, "environmental": 1, "finance": 8.480225465489922e-13, "management": 0.3680981595102994, "water": 0.02785515320334262, "climate": 1 }
+    },
+    {
+        "companyName": "Advanced SolTech Sweden AB",
+        "sentimentScore": "Positive",
+        "sector": "Corporate-Energy",
+        "topCompanyWords": { "2015": 0.25000000000078276, "energy": 0.3391684901534127, "environmental": 0.5299539170501175, "renewable": 0.17167381974248927, "climate": 1, "party": 0.031545741324879854 }
+    },
+    {
+        "companyName": "Advance Residence Investment Corporation",
+        "sentimentScore": "Neutral",
+        "sector": "Corporate-Real Estate",
+        "topCompanyWords": { "energy": 0.5718085106382979, "environmental": 1, "buildings": 0.6510416666667804, "finance": 1, "building": 0.47169811320720795, "sustainability": 0.5263157894736842 }
+    },
+    {
+        "companyName": "AEDAS Homes",
+        "sentimentScore": "Neutral",
+        "sector": "Corporate-Real Estate",
+        "topCompanyWords": {
+            "energy": 0.13297872340425532,
+            "environmental": 0.24096385542168677,
+            "buildings": 0.4166666666667602,
+            "finance": 0.25793650793669115,
+            "building": 0.0707547169810812,
+            "sustainability": 0.21052631578947367
+        }
+    },
+    {
+        "companyName": "Aeroporti di Roma S.p.A.",
+        "sentimentScore": "Neutral",
+        "sector": "Corporate-Transportation",
+        "topCompanyWords": { "environmental": 0.33936651583710403, "energy": 0.3504672897197559, "business": 0.44444444444362374, "party": 0, "management": 0.6569343065703026, "central": 0 }
+    },
+    {
+        "companyName": "Africa Finance Corporation",
+        "sentimentScore": "Positive",
+        "sector": "Financial Institution",
+        "topCompanyWords": {
+            "energy": 0.2517985611510791,
+            "environmental": 0.2861445783132857,
+            "management": 0.24258760107816782,
+            "party": 0.19774011299428484,
+            "buildings": 0,
+            "sustainability": 0.45822102425921857
+        }
+    },
+    {
+        "companyName": "Agder Energi ",
+        "sentimentScore": "Neutral",
+        "sector": "Corporate-Energy",
+        "topCompanyWords": { "2015": 0.25000000000078276, "energy": 0.26258205689308584, "environmental": 1, "renewable": 0.2145922746781116, "climate": 0.8783783783781751, "party": 0 }
+    },
+    {
+        "companyName": "Agence Française de Développement (AFD) (2017)",
+        "sentimentScore": "Neutral",
+        "sector": "Agency",
+        "topCompanyWords": { "energy": 0.03846153846311178, "environmental": 1, "climate": 1, "investments": 0.1612903225815004, "management": 0.257142857141857, "sustainable": -5.331916425972045e-13 }
+    },
+    {
+        "companyName": "AgriNurture Inc.",
+        "sentimentScore": "Positive",
+        "sector": "Corporate-agri food",
+        "topCompanyWords": { "ani": 1, "production": 1, "energy": 1, "climate": 1, "organic": 1, "emissions": 1 }
+    },
+    {
+        "companyName": "Akademiska Hus",
+        "sentimentScore": "Positive",
+        "sector": "Corporate-Real Estate",
+        "topCompanyWords": {
+            "energy": 0.7446808510638298,
+            "environmental": 0.6827309236947792,
+            "buildings": 0.46875000000009803,
+            "finance": 0.019841269841283933,
+            "building": 0.35377358490540595,
+            "sustainability": 0.3157894736842105
+        }
+    },
+    {
+        "companyName": "Akershus Energi",
+        "sentimentScore": "Neutral",
+        "sector": "Corporate-Energy",
+        "topCompanyWords": { "2015": 0.5000000000015655, "energy": 0.8315098468269427, "environmental": 0.6451612903218822, "renewable": 0.8369098712446351, "climate": 1, "party": 0.06309148264975971 }
+    },
+    {
+        "companyName": "ALD Automotive",
+        "sentimentScore": "Positive",
+        "sector": "Corporate-Consumer services",
+        "topCompanyWords": {
+            "2016": 0.16129032258151038,
+            "environmental": 0.40865384615383843,
+            "energy": -2.3453050021772455e-13,
+            "visa": 0,
+            "management": 0.5319148936165611,
+            "sustainability": 0.5936073059360731
+        }
+    },
+    {
+        "companyName": "Alimentation Couche-Tard Inc.",
+        "sentimentScore": "Neutral",
+        "sector": "Corporate-Consumer services",
+        "topCompanyWords": { "2016": 0, "environmental": -3.856560786595088e-13, "energy": 0.48257372654150954, "visa": 0, "management": 0.3191489361693369, "sustainability": 0.9817351598173517 }
+    },
+    {
+        "companyName": "Analog Devices, Inc.",
+        "sentimentScore": "Neutral",
+        "sector": "Corporate-Consumer services",
+        "topCompanyWords": { "2016": 0.16129032258151038, "environmental": 0.8894230769235136, "energy": 1, "visa": 0, "management": 0.6382978723401733, "sustainability": 1 }
+    },
+    {
+        "companyName": "Apple Inc. (2019)",
+        "sentimentScore": "Negative",
+        "sector": "Corporate-Consumer goods",
+        "topCompanyWords": {
+            "energy": 0.9026548672562644,
+            "environmental": 0.7936507936500762,
+            "paper": 0.01851851851793311,
+            "management": 0.2941176470585551,
+            "climate": 0.08108108108077024,
+            "party": 0.8571428571432669
+        }
+    },
+    {
+        "companyName": "Aquafin (2020)",
+        "sentimentScore": "Neutral",
+        "sector": "Corporate-Infrastructure",
+        "topCompanyWords": { "energy": 0.4212860310411353, "environmental": 0.9505703422048558, "finance": 0.9948542024009213, "management": 0.766871165645295, "water": 1, "climate": 0.17492711370398464 }
+    },
+    {
+        "companyName": "Arendals Fossekompani ASA",
+        "sentimentScore": "Neutral",
+        "sector": "Corporate-Energy",
+        "topCompanyWords": { "2015": 0, "energy": 0.4266958424509292, "environmental": 0.5529953917044704, "renewable": 0.38626609442060084, "climate": 0.9009009009006923, "party": 0 }
+    },
+    {
+        "companyName": "ARKEMA",
+        "sentimentScore": "Neutral",
+        "sector": "Corporate-Industry",
+        "topCompanyWords": { "2016": 0, "environmental": 1, "waste": 0.0333889816360601, "energy": 0.07142857142789864, "business": 0.5414012738853503, "management": 1 }
+    },
+    {
+        "companyName": "Arthaland Corporation",
+        "sentimentScore": "Neutral",
+        "sector": "Corporate-Real Estate",
+        "topCompanyWords": {
+            "energy": 0.2127659574468085,
+            "environmental": 0.783132530120482,
+            "buildings": 0.7291666666667871,
+            "finance": 0.2777777777779751,
+            "building": 0.6839622641504516,
+            "sustainability": 0.5789473684210527
+        }
+    },
+    {
+        "companyName": "Arwidsro Fastighets",
+        "sentimentScore": "Neutral",
+        "sector": "Corporate-Real Estate",
+        "topCompanyWords": {
+            "energy": 0.9574468085106382,
+            "environmental": 0.5823293172690763,
+            "buildings": 0.7291666666667871,
+            "finance": 0.9722222222229127,
+            "building": 0.4481132075468476,
+            "sustainability": 0.13157894736842105
+        }
+    },
+    {
+        "companyName": "Asahi Holdings, Inc.",
+        "sentimentScore": "Neutral",
+        "sector": "Corporate-Industry",
+        "topCompanyWords": { "2016": 0, "environmental": 1, "waste": 1, "energy": 0.1142857142850764, "business": 1, "management": 0.6896551724123985 }
+    },
+    {
+        "companyName": "Assicurazioni Generali ",
+        "sentimentScore": "Neutral",
+        "sector": "Financial Institution",
+        "topCompanyWords": {
+            "energy": 0.7434052757793764,
+            "environmental": 0.6927710843374285,
+            "management": 0.9433962264152888,
+            "party": 0.7344632768359153,
+            "buildings": 0.5571847507327765,
+            "sustainability": 0.45822102425921857
+        }
+    },
+    {
+        "companyName": "Atlantica",
+        "sentimentScore": "Neutral",
+        "sector": "Corporate-Infrastructure",
+        "topCompanyWords": { "energy": 0.9534368070943117, "environmental": 0.6083650190118669, "finance": 1, "management": 0.3374233128845305, "water": 0.3342618384401114, "climate": 0.2623906705552563 }
+    },
+    {
+        "companyName": "Auckland Council",
+        "sentimentScore": "Neutral",
+        "sector": "Municipal",
+        "topCompanyWords": {
+            "environmental": 0.04739336492797042,
+            "climate": 0.14767932489491972,
+            "energy": 0.030487804878030426,
+            "city": 0,
+            "management": 0.3271028037397209,
+            "change": 0.03333333333333333
+        }
+    },
+    {
+        "companyName": "Audax Renovables",
+        "sentimentScore": "Neutral",
+        "sector": "Corporate-Energy",
+        "topCompanyWords": { "2015": 0, "energy": 0.5251641137856351, "environmental": 1, "renewable": 0.6652360515021459, "climate": 0.292792792792725, "party": 0.3785488958985583 }
+    },
+    {
+        "companyName": "AutoWallis Nyrt",
+        "sentimentScore": "Negative",
+        "sector": "Corporate-Transportation",
+        "topCompanyWords": {
+            "environmental": 0.36199095022624433,
+            "energy": 0.30373831775712173,
+            "business": 0.05555555555545297,
+            "party": 0.16666666666650756,
+            "management": 0.10948905109624774,
+            "central": 0.05263157894732709
+        }
+    },
+    {
+        "companyName": "Axpo Holding AG",
+        "sentimentScore": "Neutral",
+        "sector": "Corporate-Energy",
+        "topCompanyWords": {
+            "2015": 0.25000000000078276,
+            "energy": 0.29540481400465446,
+            "environmental": 0.345622119815294,
+            "renewable": 0.1502145922746781,
+            "climate": 0.06756756756755193,
+            "party": 0.09463722397463957
+        }
+    },
+    {
+        "companyName": "Banco Atlántida",
+        "sentimentScore": "Negative",
+        "sector": "Financial Institution",
+        "topCompanyWords": {
+            "energy": 0.41966426858513184,
+            "environmental": 0.4518072289157143,
+            "management": 0.40431266846365727,
+            "party": 0.5367231638416303,
+            "buildings": 0.05865102639292384,
+            "sustainability": 0.29649595687361197
+        }
+    },
+    {
+        "companyName": "Banco de Comercio Exterior de Colombia S.A.",
+        "sentimentScore": "Neutral",
+        "sector": "Agency",
+        "topCompanyWords": {
+            "energy": 0.7692307692314074,
+            "environmental": 0.97826086956567,
+            "climate": 0.037735849055647426,
+            "investments": 0.12903225806534685,
+            "management": 0.5142857142852206,
+            "sustainable": 0.6857142857151034
+        }
+    },
+    {
+        "companyName": "Bancolombia (2018)",
+        "sentimentScore": "Neutral",
+        "sector": "Financial Institution",
+        "topCompanyWords": { "energy": 0.011990407673860911, "environmental": 0, "management": 0.43126684636123885, "party": 0, "buildings": 0, "sustainability": 0.02695417789760109 }
+    },
+    {
+        "companyName": "Bangkok Mass Transit System PCL (BTS) (2019)",
+        "sentimentScore": "Negative",
+        "sector": "Corporate-Transportation",
+        "topCompanyWords": {
+            "environmental": 0.7013574660633484,
+            "energy": 0.3271028037384388,
+            "business": 0.3333333333327178,
+            "party": 0.6666666666660302,
+            "management": 0.6934306569352394,
+            "central": 0
+        }
+    },
+    {
+        "companyName": "Bangkok Mass Transit System PCL (BTS) (2020)",
+        "sentimentScore": "Negative",
+        "sector": "Corporate-Transportation",
+        "topCompanyWords": {
+            "environmental": 0.6787330316742081,
+            "energy": 0.30373831775712173,
+            "business": 0.3888888888881708,
+            "party": 0.9999999999990453,
+            "management": 0.6569343065703026,
+            "central": 0
+        }
+    },
+    {
+        "companyName": "Bangkok Mass Transit System PCL (BTS) (2021)",
+        "sentimentScore": "Negative",
+        "sector": "Corporate-Transportation",
+        "topCompanyWords": {
+            "environmental": 0.7466063348416289,
+            "energy": 0.3504672897197559,
+            "business": 0.44444444444362374,
+            "party": 0.9999999999990453,
+            "management": 0.6204379562053656,
+            "central": 0
+        }
+    },
+    {
+        "companyName": "Bankinter, S.A. (2019)",
+        "sentimentScore": "Negative",
+        "sector": "Financial Institution",
+        "topCompanyWords": {
+            "energy": 0.7913669064748201,
+            "environmental": 0.49698795180728567,
+            "management": 0.5121293800539835,
+            "party": 0.9322033898302001,
+            "buildings": 0.7917888563044718,
+            "sustainability": 0.4851752021568196
+        }
+    },
+    {
+        "companyName": "Bank of China (2018)",
+        "sentimentScore": "Negative",
+        "sector": "Financial Institution",
+        "topCompanyWords": {
+            "energy": 0.03597122302158273,
+            "environmental": 0.06024096385542857,
+            "management": 0.16172506738542308,
+            "party": 0,
+            "buildings": 0.02932551319646192,
+            "sustainability": 0.10781671159040436
+        }
+    },
+    {
+        "companyName": "Bank of the Philippine Islands",
+        "sentimentScore": "Neutral",
+        "sector": "Financial Institution",
+        "topCompanyWords": {
+            "energy": 0.6954436450839329,
+            "environmental": 0.4518072289157143,
+            "management": 0.8086253369273808,
+            "party": 0.8474576271183638,
+            "buildings": 0.5571847507327765,
+            "sustainability": 0.45822102425921857
+        }
+    },
+    {
+        "companyName": "Barclays PLC",
+        "sentimentScore": "Neutral",
+        "sector": "Financial Institution",
+        "topCompanyWords": {
+            "energy": 0.1199040767386091,
+            "environmental": 0.105421686747,
+            "management": 0.24258760107816782,
+            "party": 0.16949152542367274,
+            "buildings": 0.2639296187681573,
+            "sustainability": 0
+        }
+    },
+    {
+        "companyName": "Baromfi-Coop Kft",
+        "sentimentScore": "Negative",
+        "sector": "Corporate-agri food",
+        "topCompanyWords": { "ani": 0, "production": -1.3267965904867804e-12, "energy": -1.956185100677919e-12, "climate": -1.564939568265318e-12, "organic": 0, "emissions": -4.0153054712065595e-13 }
+    },
+    {
+        "companyName": "BASF",
+        "sentimentScore": "Positive",
+        "sector": "Corporate-Industry",
+        "topCompanyWords": {
+            "2016": 0.25316455696178014,
+            "environmental": 0.6947368421046995,
+            "waste": 0.05008347245409015,
+            "energy": 0.4571428571424985,
+            "business": 0.25477707006369427,
+            "management": 0.9999999999982268
+        }
+    },
+    {
+        "companyName": "BayWa",
+        "sentimentScore": "Neutral",
+        "sector": "Corporate-Industry",
+        "topCompanyWords": { "2016": 0, "environmental": -6.752908402953616e-13, "waste": 0, "energy": -7.309778788175927e-13, "business": 0, "management": 0.03448275862009454 }
+    },
+    {
+        "companyName": "Bazalgette Finance plc (Tideway)",
+        "sentimentScore": "Neutral",
+        "sector": "Corporate-Infrastructure",
+        "topCompanyWords": {
+            "energy": -9.626252222690656e-13,
+            "environmental": 0.22813688213076824,
+            "finance": 0.08576329331119917,
+            "management": 1.0726443765093213e-12,
+            "water": 0.8913649025069639,
+            "climate": 1.4413910922404667e-12
+        }
+    },
+    {
+        "companyName": "Berlin Hyp AG (2019)",
+        "sentimentScore": "Neutral",
+        "sector": "Corporate-Real Estate",
+        "topCompanyWords": {
+            "energy": 0.19946808510638298,
+            "environmental": 0.12048192771084339,
+            "buildings": 0.4166666666667602,
+            "finance": 0.059523809523851806,
+            "building": 0.09433962264144159,
+            "sustainability": 0.6052631578947368
+        }
+    },
+    {
+        "companyName": "Berlin Hyp AG (2020)",
+        "sentimentScore": "Positive",
+        "sector": "Corporate-Real Estate",
+        "topCompanyWords": {
+            "energy": 0.23936170212765956,
+            "environmental": 0.3614457831325301,
+            "buildings": 0.3906250000000913,
+            "finance": 0.13888888888898754,
+            "building": 0.1650943396225228,
+            "sustainability": 1
+        }
+    },
+    {
+        "companyName": "Berlin Hyp AG (2021)",
+        "sentimentScore": "Neutral",
+        "sector": "Corporate-Real Estate",
+        "topCompanyWords": {
+            "energy": 0.3324468085106383,
+            "environmental": 0.5220883534136547,
+            "buildings": 0.6510416666667804,
+            "finance": 0.2777777777779751,
+            "building": 0.18867924528288318,
+            "sustainability": 1
+        }
+    },
+    {
+        "companyName": "Besqab AB",
+        "sentimentScore": "Negative",
+        "sector": "Corporate-Real Estate",
+        "topCompanyWords": {
+            "energy": 0.23936170212765956,
+            "environmental": 0.22088353413654618,
+            "buildings": 0.10416666666673328,
+            "finance": 0.39682539682567863,
+            "building": 0.047169811320720796,
+            "sustainability": 0.15789473684210525
+        }
+    },
+    {
+        "companyName": "BKS Bank AG (2021)",
+        "sentimentScore": "Negative",
+        "sector": "Financial Institution",
+        "topCompanyWords": { "energy": 0, "environmental": 0, "management": 0.18867924528300467, "party": 0.22598870056489698, "buildings": 0, "sustainability": 0.05390835579520218 }
+    },
+    {
+        "companyName": "Bloom Energy Corporation",
+        "sentimentScore": "Neutral",
+        "sector": "Corporate-Energy",
+        "topCompanyWords": { "2015": 0.25000000000078276, "energy": 1, "environmental": 0.8986175115197644, "renewable": 0.38626609442060084, "climate": 0.4054054054053116, "party": 1 }
+    },
+    {
+        "companyName": "BNP Paribas (2019)",
+        "sentimentScore": "Positive",
+        "sector": "Financial Institution",
+        "topCompanyWords": {
+            "energy": 0.26378896882494,
+            "environmental": 0.3765060240964286,
+            "management": 0.29649595687333097,
+            "party": 0.11299435028244849,
+            "buildings": 0.11730205278584768,
+            "sustainability": 0.6199460916448251
+        }
+    },
+    {
+        "companyName": "Bpifrance",
+        "sentimentScore": "Neutral",
+        "sector": "Financial Institution",
+        "topCompanyWords": {
+            "energy": 0.4676258992805755,
+            "environmental": 0.49698795180728567,
+            "management": 0.29649595687333097,
+            "party": 0.056497175141224244,
+            "buildings": 0.05865102639292384,
+            "sustainability": 0.08086253369280326
+        }
+    },
+    {
+        "companyName": "Brage Finans AS",
+        "sentimentScore": "Neutral",
+        "sector": "Financial Institution",
+        "topCompanyWords": {
+            "energy": 0.15587529976019185,
+            "environmental": 0.4367469879518571,
+            "management": 0.2695417789757494,
+            "party": 0.056497175141224244,
+            "buildings": 0,
+            "sustainability": 0.2425876010784098
+        }
+    },
+    {
+        "companyName": "Brookfield Renewable (2019)",
+        "sentimentScore": "Negative",
+        "sector": "Corporate-Energy",
+        "topCompanyWords": { "2015": 0.25000000000078276, "energy": 0.5689277899343933, "environmental": 0.7603686635936469, "renewable": 1, "climate": 0.18018018018013848, "party": 0.7570977917971166 }
+    },
+    {
+        "companyName": "Brookfield Renewable (2020)",
+        "sentimentScore": "Neutral",
+        "sector": "Corporate-Energy",
+        "topCompanyWords": { "2015": 0.5000000000015655, "energy": 0.5689277899343933, "environmental": 0.714285714284941, "renewable": 1, "climate": 0.22522522522517308, "party": 0.7570977917971166 }
+    },
+    {
+        "companyName": "Caisse de dépôt et placement du Québec",
+        "sentimentScore": "Neutral",
+        "sector": "Agency",
+        "topCompanyWords": {
+            "energy": 0.6153846153854504,
+            "environmental": 0.5000000000007142,
+            "climate": 0.3396226415087872,
+            "investments": 0.9354838709691846,
+            "management": 1,
+            "sustainable": 0.6857142857151034
+        }
+    },
+    {
+        "companyName": "California Community Choice Financing Authority (East Bay Community Energy and Silicon Valley Clean Energy)",
+        "sentimentScore": "Positive",
+        "sector": "Agency",
+        "topCompanyWords": {
+            "energy": 1,
+            "environmental": 9.876925957374051e-13,
+            "climate": 0.037735849055647426,
+            "investments": 7.328041839351607e-13,
+            "management": -1.5067951903684017e-12,
+            "sustainable": 0.02857142857095166
+        }
+    },
+    {
+        "companyName": "California Infrastructure and Economic Development Bank (CalSTRS)",
+        "sentimentScore": "Positive",
+        "sector": "MDB",
+        "topCompanyWords": {
+            "environmental": 4.643937543365157e-13,
+            "energy": 0.6410256410261757,
+            "climate": 0.8227848101263419,
+            "sustainable": 1.3683362107771422e-12,
+            "management": -5.882729293064104e-13,
+            "party": 2.1978318730474693e-12
+        }
+    },
+    {
+        "companyName": "CAMPO Co., Ltd. ",
+        "sentimentScore": "Neutral",
+        "sector": "Utility",
+        "topCompanyWords": { "environmental": 1, "energy": 0.5301204819278853, "waste": 0.6793478260870902, "management": 0.5099150141640167, "business": 1, "verifiers": 0 }
+    },
+    {
+        "companyName": "Canada Pension Plan Investment Board (2018)",
+        "sentimentScore": "Neutral",
+        "sector": "Agency",
+        "topCompanyWords": { "energy": 1.6225229141845365e-12, "environmental": 0.6086956521745678, "climate": 1, "investments": 1, "management": 0.5142857142852206, "sustainable": 0.31428571428580027 }
+    },
+    {
+        "companyName": "Canada Pension Plan Investment Board (2021)",
+        "sentimentScore": "Neutral",
+        "sector": "Agency",
+        "topCompanyWords": {
+            "energy": 0.30769230769353645,
+            "environmental": 0.36956521739209,
+            "climate": 0.6037735849052844,
+            "investments": 1,
+            "management": 0.39999999999928126,
+            "sustainable": 0.5142857142861944
+        }
+    },
+    {
+        "companyName": "Canadian Imperial Bank of Commerce",
+        "sentimentScore": "Neutral",
+        "sector": "Financial Institution",
+        "topCompanyWords": { "energy": 0.7074340527577937, "environmental": 1, "management": 1, "party": 1, "buildings": 0.6451612903221623, "sustainability": 0.32345013477121304 }
+    },
+    {
+        "companyName": "Canadian Solar Project",
+        "sentimentScore": "Neutral",
+        "sector": "Corporate-Energy",
+        "topCompanyWords": { "2015": 0, "energy": 0.10940919037243212, "environmental": 0.8064516129023527, "renewable": 0.17167381974248927, "climate": 0.11261261261258654, "party": 0.12618296529951942 }
+    },
+    {
+        "companyName": "Canary Wharf Group Investment Holding PLC",
+        "sentimentScore": "Positive",
+        "sector": "Corporate-Real Estate",
+        "topCompanyWords": {
+            "energy": 0.2526595744680851,
+            "environmental": 0.42168674698795183,
+            "buildings": 0.6770833333334493,
+            "finance": 0.07936507936513573,
+            "building": 0.11792452830180199,
+            "sustainability": 1
+        }
+    },
+    {
+        "companyName": "Caruna",
+        "sentimentScore": "Neutral",
+        "sector": "Corporate-Energy",
+        "topCompanyWords": { "2015": 0, "energy": 0.5579868708972038, "environmental": 0.714285714284941, "renewable": 0.34334763948497854, "climate": 1, "party": 0.031545741324879854 }
+    },
+    {
+        "companyName": "Catena AB",
+        "sentimentScore": "Neutral",
+        "sector": "Corporate-Transportation",
+        "topCompanyWords": { "environmental": 0.5203619909502262, "energy": 1, "business": 0.27777777777726487, "party": 0, "management": 0.2554744525559957, "central": 0.05263157894732709 }
+    },
+    {
+        "companyName": "Ceetrus",
+        "sentimentScore": "Positive",
+        "sector": "Corporate-Real Estate",
+        "topCompanyWords": {
+            "energy": 0.2925531914893617,
+            "environmental": 0.642570281124498,
+            "buildings": 0.4947916666667669,
+            "finance": 0.07936507936513573,
+            "building": 0.1650943396225228,
+            "sustainability": 0.2894736842105263
+        }
+    },
+    {
+        "companyName": "Central American Bank for Economic Integration (CABEI)",
+        "sentimentScore": "Neutral",
+        "sector": "Agency",
+        "topCompanyWords": { "energy": 0.2692307692320472, "environmental": 1, "climate": 0.20754716981053856, "investments": 0.09677419354919335, "management": 0.9142857142860088, "sustainable": 1 }
+    },
+    {
+        "companyName": "Central Japan Railway Company",
+        "sentimentScore": "Negative",
+        "sector": "Corporate-Transportation",
+        "topCompanyWords": { "environmental": 1, "energy": 0.3271028037384388, "business": 1, "party": 0.22222222222201007, "management": 0.6569343065703026, "central": 0.8421052631572334 }
+    },
+    {
+        "companyName": "Central Nippon Expressway Company (Climate Resilience)",
+        "sentimentScore": "Neutral",
+        "sector": "Corporate-Transportation",
+        "topCompanyWords": { "environmental": 0.6108597285067873, "energy": 0, "business": 0.8333333333317945, "party": 0.08333333333325378, "management": 1, "central": 1 }
+    },
+    {
+        "companyName": "Central Nippon Expressway Company Limited (2020)",
+        "sentimentScore": "Neutral",
+        "sector": "Corporate-Transportation",
+        "topCompanyWords": { "environmental": 0.6787330316742081, "energy": 0, "business": 0.9444444444427005, "party": 0.11111111111100504, "management": 1, "central": 1 }
+    },
+    {
+        "companyName": "China Everbright Bank",
+        "sentimentScore": "Neutral",
+        "sector": "Financial Institution",
+        "topCompanyWords": {
+            "energy": 0.7194244604316546,
+            "environmental": 0.5572289156627143,
+            "management": 0.9973045822104519,
+            "party": 0.7909604519771394,
+            "buildings": 0.6158357771257004,
+            "sustainability": 0.35040431266881417
+        }
+    },
+    {
+        "companyName": "Cibus Nordic Real Estate AB",
+        "sentimentScore": "Neutral",
+        "sector": "Corporate-Real Estate",
+        "topCompanyWords": {
+            "energy": 0.7047872340425532,
+            "environmental": 0.5220883534136547,
+            "buildings": 0.9375000000001383,
+            "finance": 0.11904761904770361,
+            "building": 0.4481132075468476,
+            "sustainability": 0.34210526315789475
+        }
+    },
+    {
+        "companyName": "Citycon",
+        "sentimentScore": "Positive",
+        "sector": "Corporate-Real Estate",
+        "topCompanyWords": { "energy": 1, "environmental": 0.5220883534136547, "buildings": 1, "finance": 0.2777777777779751, "building": 0.2830188679243248, "sustainability": 0.9736842105263158 }
+    },
+    {
+        "companyName": "City of Berkeley, California (series A)",
+        "sentimentScore": "Positive",
+        "sector": "Municipal",
+        "topCompanyWords": {
+            "environmental": 0.1658767772504066,
+            "climate": 0.23206751054890257,
+            "energy": 0.5182926829265172,
+            "city": 1,
+            "management": 9.96321337132879e-13,
+            "change": 0.13333333333333333
+        }
+    },
+    {
+        "companyName": "City of Boston",
+        "sentimentScore": "Positive",
+        "sector": "Municipal",
+        "topCompanyWords": {
+            "environmental": -1.0040413293894943e-12,
+            "climate": 0.5274261603378424,
+            "energy": 0.6097560975606086,
+            "city": 0.9649122807021663,
+            "management": 0.09345794392634621,
+            "change": 0.4
+        }
+    },
+    {
+        "companyName": "City of Minneapolis (2018)",
+        "sentimentScore": "Negative",
+        "sector": "Municipal",
+        "topCompanyWords": { "environmental": 0.2606635071083555, "climate": 0.12658227848142403, "energy": 0.853658536584852, "city": 0.5555555555557927, "management": 0.280373831777046, "change": 0.1 }
+    },
+    {
+        "companyName": "City of Seattle (Municipal Light and Power Improvement Revenue Bonds, 2020)",
+        "sentimentScore": "Positive",
+        "sector": "Municipal",
+        "topCompanyWords": { "environmental": 0.2606635071083555, "climate": 0.23206751054890257, "energy": 1, "city": 1, "management": 0.1869158878516961, "change": 0.23333333333333334 }
+    },
+    {
+        "companyName": "City of Seattle (Water System Improvement and Refunding Revenue Bonds, 2021)",
+        "sentimentScore": "Positive",
+        "sector": "Municipal",
+        "topCompanyWords": {
+            "environmental": 0.09478672985694489,
+            "climate": 0.18987341772191116,
+            "energy": 0,
+            "city": 0.5263157894739089,
+            "management": 0.7943925233664705,
+            "change": 0.16666666666666666
+        }
+    },
+    {
+        "companyName": "City of Tacoma, Washington (Electric System Revenue Bonds, Series 2021)",
+        "sentimentScore": "Positive",
+        "sector": "Municipal",
+        "topCompanyWords": {
+            "environmental": 0.23696682464386828,
+            "climate": 0.3375527426163811,
+            "energy": 0.7012195121946998,
+            "city": 0.6140350877195604,
+            "management": 0.5140186915904207,
+            "change": 0.3333333333333333
+        }
+    },
+    {
+        "companyName": "CNP Assurance",
+        "sentimentScore": "Positive",
+        "sector": "Financial Institution",
+        "topCompanyWords": {
+            "energy": 0.4676258992805755,
+            "environmental": 0.7981927710844285,
+            "management": 1,
+            "party": 0.2542372881355091,
+            "buildings": 0.8211143695009337,
+            "sustainability": 0.32345013477121304
+        }
+    },
+    {
+        "companyName": "CODIC International",
+        "sentimentScore": "Positive",
+        "sector": "Corporate-Real Estate",
+        "topCompanyWords": {
+            "energy": 0.18617021276595744,
+            "environmental": 0.40160642570281124,
+            "buildings": 0.4947916666667669,
+            "finance": 0.9325396825403449,
+            "building": 0.2594339622639644,
+            "sustainability": 0.9736842105263158
+        }
+    },
+    {
+        "companyName": "Columbus Energy S.A.",
+        "sentimentScore": "Neutral",
+        "sector": "Corporate-Energy",
+        "topCompanyWords": { "2015": 0.7500000000023483, "energy": 1, "environmental": 0.9447004608284703, "renewable": 0.49356223175965663, "climate": 0.6081081081079673, "party": 0.031545741324879854 }
+    },
+    {
+        "companyName": "Connecticut Green Bank (2020)",
+        "sentimentScore": "Positive",
+        "sector": "Financial Institution",
+        "topCompanyWords": {
+            "energy": 0.7074340527577937,
+            "environmental": 0.12048192771085714,
+            "management": 0.026954177897515214,
+            "party": 0.48022598870040606,
+            "buildings": 0.351906158357543,
+            "sustainability": 0
+        }
+    },
+    {
+        "companyName": "Connecticut Green Bank (Series 2019-1)",
+        "sentimentScore": "Neutral",
+        "sector": "Financial Institution",
+        "topCompanyWords": {
+            "energy": 0.1079136690647482,
+            "environmental": 0.04518072289157143,
+            "management": -6.635760971444796e-14,
+            "party": 0.056497175141224244,
+            "buildings": 0,
+            "sustainability": 0.02695417789760109
+        }
+    },
+    {
+        "companyName": "Continuum Green Energy",
+        "sentimentScore": "Neutral",
+        "sector": "Corporate-Energy",
+        "topCompanyWords": { "2015": 0, "energy": 0.4266958424509292, "environmental": 0.6682027649762351, "renewable": 0.5150214592274678, "climate": 0.6081081081079673, "party": 0 }
+    },
+    {
+        "companyName": "Corporación Andina de Fomento (CAF)",
+        "sentimentScore": "Neutral",
+        "sector": "MDB",
+        "topCompanyWords": { "environmental": 0.3977272727276945, "energy": 4.068361408251206e-13, "climate": -1.1076756650290947e-12, "sustainable": 1, "management": 1, "party": 1 }
+    },
+    {
+        "companyName": "Covivio",
+        "sentimentScore": "Neutral",
+        "sector": "Corporate-Real Estate",
+        "topCompanyWords": {
+            "energy": 0.3324468085106383,
+            "environmental": 0.9839357429718876,
+            "buildings": 0.8072916666667939,
+            "finance": 0.09920634920641966,
+            "building": 0.0707547169810812,
+            "sustainability": 0.42105263157894735
+        }
+    },
+    {
+        "companyName": "Crédit Agricole next bank (Suisse) SA",
+        "sentimentScore": "Neutral",
+        "sector": "Financial Institution",
+        "topCompanyWords": {
+            "energy": 0.2517985611510791,
+            "environmental": 0.5271084337349999,
+            "management": 0.7816711590297992,
+            "party": 0.28248587570612127,
+            "buildings": 0.2932551319646192,
+            "sustainability": 0.5390835579520217
+        }
+    },
+    {
+        "companyName": "CTP",
+        "sentimentScore": "Negative",
+        "sector": "Corporate-Real Estate",
+        "topCompanyWords": {
+            "energy": 0.7712765957446808,
+            "environmental": 0.6224899598393575,
+            "buildings": 0.7812500000001249,
+            "finance": 0.09920634920641966,
+            "building": 0.4952830188675684,
+            "sustainability": 0.3684210526315789
+        }
+    },
+    {
+        "companyName": "Daio Paper Corporation (2018)",
+        "sentimentScore": "Neutral",
+        "sector": "Corporate-Consumer goods",
+        "topCompanyWords": {
+            "energy": 3.84631793601303e-13,
+            "environmental": 1.0289757741317858e-12,
+            "paper": 1,
+            "management": 5.435518309265507e-15,
+            "climate": 0.05405405405375062,
+            "party": 0.028571428570552178
+        }
+    },
+    {
+        "companyName": "Daiwa House REIT (2021)",
+        "sentimentScore": "Neutral",
+        "sector": "Corporate-Real Estate",
+        "topCompanyWords": {
+            "energy": 0.5851063829787234,
+            "environmental": 1,
+            "buildings": 0.5729166666667737,
+            "finance": 0.4960317460320983,
+            "building": 0.6603773584900912,
+            "sustainability": 0.6052631578947368
+        }
+    },
+    {
+        "companyName": "Damu Entrepreneurship Development Fund JSC",
+        "sentimentScore": "Positive",
+        "sector": "Agency",
+        "topCompanyWords": {
+            "energy": 0.23076923077055794,
+            "environmental": 0.5217391304354849,
+            "climate": 0.07547169811228988,
+            "investments": 7.328041839351607e-13,
+            "management": 0.7428571428570996,
+            "sustainable": 0.5428571428576793
+        }
+    },
+    {
+        "companyName": "Dana Inc.",
+        "sentimentScore": "Neutral",
+        "sector": "Corporate-Technology",
+        "topCompanyWords": {
+            "environmental": -4.399786541764181e-14,
+            "business": 0.02049180327876685,
+            "investment": 0.01724137931058182,
+            "activities": 0.07117437722419928,
+            "benefits": 1.4611372085076736e-13,
+            "including": 0.16666666666697189
+        }
+    },
+    {
+        "companyName": "Derichebourg",
+        "sentimentScore": "Neutral",
+        "sector": "Corporate-Industry",
+        "topCompanyWords": { "2016": 0, "environmental": 0.14736842105198003, "waste": 0.1335559265442404, "energy": 0.08571428571362456, "business": 0.3184713375796179, "management": 0.3448275862059228 }
+    },
+    {
+        "companyName": "Deutsche Bank AG",
+        "sentimentScore": "Positive",
+        "sector": "Financial Institution",
+        "topCompanyWords": {
+            "energy": 0.5635491606714628,
+            "environmental": 0.48192771084342856,
+            "management": 0.40431266846365727,
+            "party": 0.16949152542367274,
+            "buildings": 0.2932551319646192,
+            "sustainability": 0.9703504043136392
+        }
+    },
+    {
+        "companyName": "Deutsche Hypothekenbank AG (2020)",
+        "sentimentScore": "Positive",
+        "sector": "Financial Institution",
+        "topCompanyWords": { "energy": 0.29976019184652275, "environmental": 0.27108433734942855, "management": 0.24258760107816782, "party": 0.11299435028244849, "buildings": 1, "sustainability": 1 }
+    },
+    {
+        "companyName": "Deutsche Kreditbank (DKB) (2020)",
+        "sentimentScore": "Neutral",
+        "sector": "Financial Institution",
+        "topCompanyWords": { "energy": 0.20383693045563547, "environmental": 0.8584337349398571, "management": 0.18867924528300467, "party": 0.14124293785306063, "buildings": 0, "sustainability": 1 }
+    },
+    {
+        "companyName": "Diös",
+        "sentimentScore": "Positive",
+        "sector": "Corporate-Real Estate",
+        "topCompanyWords": {
+            "energy": 0.9042553191489361,
+            "environmental": 0.48192771084337355,
+            "buildings": 0.9635416666668073,
+            "finance": 0.07936507936513573,
+            "building": 0.5188679245279288,
+            "sustainability": 0.2894736842105263
+        }
+    },
+    {
+        "companyName": "Dublin Unified School District",
+        "sentimentScore": "Positive",
+        "sector": "Utility",
+        "topCompanyWords": {
+            "environmental": 0.08791208791177958,
+            "energy": 0.24096385542170323,
+            "waste": 0.02717391304348361,
+            "management": -4.0628560268808305e-13,
+            "business": 0.06849315068457147,
+            "verifiers": 0.5217391304350497
+        }
+    },
+    {
+        "companyName": "E.ON (2021)",
+        "sentimentScore": "Neutral",
+        "sector": "Corporate-Energy",
+        "topCompanyWords": { "2015": 1, "energy": 1, "environmental": 1, "renewable": 1, "climate": 1, "party": 1 }
+    },
+    {
+        "companyName": "East Renewable AB",
+        "sentimentScore": "Neutral",
+        "sector": "Corporate-Energy",
+        "topCompanyWords": { "2015": 0, "energy": 0.13129102844681123, "environmental": 0.8986175115197644, "renewable": 1, "climate": 0.5405405405404154, "party": 0 }
+    },
+    {
+        "companyName": "Electricity Supply Board (ESB)",
+        "sentimentScore": "Neutral",
+        "sector": "Corporate-Energy",
+        "topCompanyWords": { "2015": 0.25000000000078276, "energy": 1, "environmental": 0.8755760368654115, "renewable": 0.7939914163090128, "climate": 0.4729729729728635, "party": 0.8201892744468763 }
+    },
+    {
+        "companyName": "Ellaktor Value PLC",
+        "sentimentScore": "Positive",
+        "sector": "Corporate-Infrastructure",
+        "topCompanyWords": {
+            "energy": 0.19955654101897854,
+            "environmental": 2.1089461251936358e-12,
+            "finance": 0.034305317324988475,
+            "management": 0.12269938650414824,
+            "water": 0,
+            "climate": 0.81632653061331
+        }
+    },
+    {
+        "companyName": "Energias de Portugal Group (EDP)",
+        "sentimentScore": "Neutral",
+        "sector": "Corporate-Energy",
+        "topCompanyWords": {
+            "2015": 0.5000000000015655,
+            "energy": 0.4157549234137396,
+            "environmental": 0.6221198156675292,
+            "renewable": 0.38626609442060084,
+            "climate": 0.13513513513510386,
+            "party": 0.7570977917971166
+        }
+    },
+    {
+        "companyName": "Energy Development Corporation (EDC)",
+        "sentimentScore": "Negative",
+        "sector": "Corporate-Energy",
+        "topCompanyWords": {
+            "2015": 0.5000000000015655,
+            "energy": 0.4814004376368769,
+            "environmental": 0.6221198156675292,
+            "renewable": 0.38626609442060084,
+            "climate": 0.13513513513510386,
+            "party": 0.9779179810712756
+        }
+    },
+    {
+        "companyName": "Federal Government of Nigeria",
+        "sentimentScore": "Neutral",
+        "sector": "Sovereign",
+        "topCompanyWords": { "climate": 0.1718750000005346, "energy": 0.14492753623242471, "environmental": 0.13108614232161553, "government": 1, "ministry": 0.9049773755659586, "expenditures": 0 }
+    },
+    {
+        "companyName": "Federal State of Hessen",
+        "sentimentScore": "Neutral",
+        "sector": "Municipal",
+        "topCompanyWords": { "environmental": 0.7345971563981002, "climate": 0.8016877637132865, "energy": 0.7012195121946998, "city": 0, "management": 0.7943925233664705, "change": 0.3 }
+    },
+    {
+        "companyName": "Ferrovie dello Stato Italiane SpA",
+        "sentimentScore": "Neutral",
+        "sector": "Corporate-Transportation",
+        "topCompanyWords": {
+            "environmental": 0.588235294117647,
+            "energy": 0.6775700934581947,
+            "business": 0.3333333333327178,
+            "party": 0.11111111111100504,
+            "management": 0.6934306569352394,
+            "central": 0
+        }
+    },
+    {
+        "companyName": "Green Lucca S.p.A.",
+        "sentimentScore": "Neutral",
+        "sector": "Corporate-Energy",
+        "topCompanyWords": {
+            "2015": 0.25000000000078276,
+            "energy": 0.382932166302171,
+            "environmental": 0.43778801843270576,
+            "renewable": 0.4721030042918455,
+            "climate": 0.9684684684682442,
+            "party": 0.15772870662439928
+        }
+    },
+    {
+        "companyName": "Groupama Group",
+        "sentimentScore": "Neutral",
+        "sector": "Financial Institution",
+        "topCompanyWords": {
+            "energy": 0.5035971223021583,
+            "environmental": 0.5572289156627143,
+            "management": 1,
+            "party": 0.9887005649714243,
+            "buildings": 0.8211143695009337,
+            "sustainability": 0.40431266846401637
+        }
+    },
+    {
+        "companyName": "Growthpoint",
+        "sentimentScore": "Neutral",
+        "sector": "Corporate-Real Estate",
+        "topCompanyWords": { "energy": 0, "environmental": 0, "buildings": 5.766188108590854e-14, "finance": 0, "building": 0, "sustainability": 0 }
+    },
+    {
+        "companyName": "Grupo Aeroportuario del Centro Norte (OMA)",
+        "sentimentScore": "Negative",
+        "sector": "Corporate-Transportation",
+        "topCompanyWords": {
+            "environmental": 0.8597285067873303,
+            "energy": 1,
+            "business": 0.44444444444362374,
+            "party": 0.8888888888880403,
+            "management": 0.4744525547456176,
+            "central": 0.026315789473663545
+        }
+    },
+    {
+        "companyName": "Grupo Pestana SGPS",
+        "sentimentScore": "Neutral",
+        "sector": "Corporate-Tourism",
+        "topCompanyWords": { "11": 1, "reviewed": 1, "energy": 1, "eligibility": null, "environmental": null, "findings": null }
+    },
+    {
+        "companyName": "Hanjin Supra-national Corp.",
+        "sentimentScore": "Neutral",
+        "sector": "Corporate-Real Estate",
+        "topCompanyWords": {
+            "energy": 0.2526595744680851,
+            "environmental": 0.42168674698795183,
+            "buildings": 0.33854166666675345,
+            "finance": 0.059523809523851806,
+            "building": 0.5660377358486496,
+            "sustainability": 0.3157894736842105
+        }
+    },
+    {
+        "companyName": "Hanwha Solutions",
+        "sentimentScore": "Neutral",
+        "sector": "Corporate-Energy",
+        "topCompanyWords": { "2015": 0.25000000000078276, "energy": 0.6564551422319097, "environmental": 0.5299539170501175, "renewable": 0.8583690987124464, "climate": 0.11261261261258654, "party": 1 }
+    },
+    {
+        "companyName": "HERA",
+        "sentimentScore": "Neutral",
+        "sector": "Corporate-Energy",
+        "topCompanyWords": {
+            "2015": 0.25000000000078276,
+            "energy": 0.5470459518600143,
+            "environmental": 0.7373271889392939,
+            "renewable": 0.04291845493562232,
+            "climate": 0.38288288288279426,
+            "party": 0.09463722397463957
+        }
+    },
+    {
+        "companyName": "Hitachi Zosen Corporation",
+        "sentimentScore": "Neutral",
+        "sector": "Corporate-Industry",
+        "topCompanyWords": {
+            "2016": 0.12658227848089007,
+            "environmental": 0.08421052631512772,
+            "waste": 0.2337228714524207,
+            "energy": 0.44285714285677263,
+            "business": 0.28662420382165604,
+            "management": 0.03448275862009454
+        }
+    },
+    {
+        "companyName": "HKSAR Government",
+        "sentimentScore": "Positive",
+        "sector": "Municipal",
+        "topCompanyWords": { "environmental": 0.8767772511850237, "climate": 0.4641350210973554, "energy": 1, "city": 0, "management": 1, "change": 0.3333333333333333 }
+    },
+    {
+        "companyName": "Home Invest Belgium ",
+        "sentimentScore": "Negative",
+        "sector": "Corporate-Real Estate",
+        "topCompanyWords": {
+            "energy": 0.06648936170212766,
+            "environmental": 0.18072289156626506,
+            "buildings": 0.05208333333339547,
+            "finance": 0.13888888888898754,
+            "building": 0,
+            "sustainability": 0.07894736842105263
+        }
+    },
+    {
+        "companyName": "Hong Kong and China Gas Company Limited (Towngas Group)",
+        "sentimentScore": "Neutral",
+        "sector": "Corporate-Energy",
+        "topCompanyWords": { "2015": 1, "energy": 0.7330415754922367, "environmental": 0.5760368663588233, "renewable": 0.23605150214592274, "climate": 0, "party": 0.09463722397463957 }
+    },
+    {
+        "companyName": "Hudson Yards Infrastructure Corporation",
+        "sentimentScore": "Positive",
+        "sector": "Utility",
+        "topCompanyWords": {
+            "environmental": -3.152061928546628e-13,
+            "energy": -1.1519288047373617e-13,
+            "waste": 0.05434782608696722,
+            "management": 0.08498583569366422,
+            "business": -6.548636355723311e-13,
+            "verifiers": 0.7826086956525745
+        }
+    },
+    {
+        "companyName": "humm group limited (ex Flexigroup)",
+        "sentimentScore": "Positive",
+        "sector": "Financial Institution",
+        "topCompanyWords": { "energy": 0.05995203836930455, "environmental": 0.015060240963857142, "management": 0.13477088948784152, "party": 0, "buildings": 0, "sustainability": 0.05390835579520218 }
+    },
+    {
+        "companyName": "Indiana Finance Authority ",
+        "sentimentScore": "Positive",
+        "sector": "Municipal",
+        "topCompanyWords": { "environmental": 0.23696682464386828, "climate": 0.3586497890298768, "energy": 0.2439024390242434, "city": 0, "management": 0.7009345794411205, "change": 0.26666666666666666 }
+    },
+    {
+        "companyName": "Industrial and Commercial Bank of China",
+        "sentimentScore": "Positive",
+        "sector": "Financial Institution",
+        "topCompanyWords": {
+            "energy": 0.3117505995203837,
+            "environmental": 0.7379518072289999,
+            "management": 0.40431266846365727,
+            "party": 0.11299435028244849,
+            "buildings": 0,
+            "sustainability": 0.05390835579520218
+        }
+    },
+    {
+        "companyName": "Innogy SE",
+        "sentimentScore": "Neutral",
+        "sector": "Corporate-Energy",
+        "topCompanyWords": { "2015": 1, "energy": 0.9846827133475964, "environmental": 0.7603686635936469, "renewable": 0.6008583690987124, "climate": 0.4954954954953808, "party": 0.06309148264975971 }
+    },
+    {
+        "companyName": "Intesa Sanpaolo",
+        "sentimentScore": "Neutral",
+        "sector": "Financial Institution",
+        "topCompanyWords": {
+            "energy": 0.5875299760191847,
+            "environmental": 0.4668674698795714,
+            "management": 0.8894878706201257,
+            "party": 0.19774011299428484,
+            "buildings": 0.1466275659823096,
+            "sustainability": 0.40431266846401637
+        }
+    },
+    {
+        "companyName": "IREN S.p.A. (2021)",
+        "sentimentScore": "Neutral",
+        "sector": "Utility",
+        "topCompanyWords": { "environmental": 0.3956043956041113, "energy": 1, "waste": 0.9239130434784427, "management": 0.9915014164304162, "business": 0.4109589041107031, "verifiers": 0 }
+    },
+    {
+        "companyName": "ITOCHU",
+        "sentimentScore": "Positive",
+        "sector": "Corporate-consumer services",
+        "topCompanyWords": { "sustainability": -3.246420721191525e-11, "finance": 1, "management": 1, "energy": 3.1574872883225004e-13, "investment": 1, "renewable": -5.172257895122588e-13 }
+    },
+    {
+        "companyName": "Johnson Controls Supra-national plc",
+        "sentimentScore": "Neutral",
+        "sector": "Corporate-Real Estate",
+        "topCompanyWords": { "energy": 1, "environmental": 0.6024096385542169, "buildings": 0.7812500000001249, "finance": 0.9523809523816289, "building": 0.35377358490540595, "sustainability": 1 }
+    },
+    {
+        "companyName": "Kanagawa Prefecture",
+        "sentimentScore": "Negative",
+        "sector": "Municipal",
+        "topCompanyWords": { "environmental": 0.7819905213270747, "climate": 1, "energy": 0.09146341463409129, "city": 0.05847953216376765, "management": 0.37383177570239584, "change": 1 }
+    },
+    {
+        "companyName": "Kenedix Office Investment Corporation (2019)",
+        "sentimentScore": "Positive",
+        "sector": "Financial Institution",
+        "topCompanyWords": {
+            "energy": 0.4796163069544364,
+            "environmental": 0.9939759036145713,
+            "management": 1,
+            "party": 0.14124293785306063,
+            "buildings": 0.703812316715086,
+            "sustainability": 0.45822102425921857
+        }
+    },
+    {
+        "companyName": "Kingdom of Sweden",
+        "sentimentScore": "Positive",
+        "sector": "Sovereign",
+        "topCompanyWords": { "climate": 1, "energy": 0.14492753623242471, "environmental": 1, "government": 0.7558139534892307, "ministry": 1.6727045871144062e-13, "expenditures": 0.7246376811594203 }
+    },
+    {
+        "companyName": "Kingdom of the Netherlands",
+        "sentimentScore": "Neutral",
+        "sector": "Sovereign",
+        "topCompanyWords": { "climate": 0.9531250000003392, "energy": 1, "environmental": 0.29962546816432306, "government": 0.6395348837217009, "ministry": 0.2488687782807599, "expenditures": 1 }
+    },
+    {
+        "companyName": "Klövern (Publ.) (2018)",
+        "sentimentScore": "Positive",
+        "sector": "Corporate-Real Estate",
+        "topCompanyWords": {
+            "energy": 0.4787234042553191,
+            "environmental": 0.5220883534136547,
+            "buildings": 0.5468750000001048,
+            "finance": 0.09920634920641966,
+            "building": 0.3301886792450456,
+            "sustainability": 0.3684210526315789
+        }
+    },
+    {
+        "companyName": "Korea Midland Power",
+        "sentimentScore": "Neutral",
+        "sector": "Corporate-Energy",
+        "topCompanyWords": { "2015": 1, "energy": 0.5579868708972038, "environmental": 0.8986175115197644, "renewable": 0.6437768240343348, "climate": 0.2702702702702077, "party": 0.7886435331219964 }
+    },
+    {
+        "companyName": "Kraftwerke Oberhasli AG",
+        "sentimentScore": "Negative",
+        "sector": "Utility",
+        "topCompanyWords": { "environmental": 0.15384615384585065, "energy": 0.02409638554206665, "waste": 0, "management": 0.22662889518378174, "business": 0.6164383561663822, "verifiers": 0 }
+    },
+    {
+        "companyName": "KWG Group Holdings Limited",
+        "sentimentScore": "Neutral",
+        "sector": "Corporate-Real Estate",
+        "topCompanyWords": {
+            "energy": 0.7446808510638298,
+            "environmental": 0.9236947791164659,
+            "buildings": 0.7031250000001181,
+            "finance": 0.9920634920641966,
+            "building": 0.6367924528297307,
+            "sustainability": 0.39473684210526316
+        }
+    },
+    {
+        "companyName": "Landshypotek Bank AB",
+        "sentimentScore": "Neutral",
+        "sector": "Financial Institution",
+        "topCompanyWords": {
+            "energy": 0.20383693045563547,
+            "environmental": 0.40662650602414285,
+            "management": 0.5929919137467282,
+            "party": 0.056497175141224244,
+            "buildings": 0.20527859237523344,
+            "sustainability": 0.6738544474400272
+        }
+    },
+    {
+        "companyName": "LeasePlan",
+        "sentimentScore": "Negative",
+        "sector": "Financial Institution",
+        "topCompanyWords": {
+            "energy": 0.09592326139088729,
+            "environmental": 0.40662650602414285,
+            "management": 0.24258760107816782,
+            "party": 0.6214689265534667,
+            "buildings": 0.02932551319646192,
+            "sustainability": 0.5929919137472239
+        }
+    },
+    {
+        "companyName": "Lietuvos Energija",
+        "sentimentScore": "Neutral",
+        "sector": "Corporate-Energy",
+        "topCompanyWords": { "2015": 0.5000000000015655, "energy": 0.3938730853393605, "environmental": 0.7834101382479998, "renewable": 0.1502145922746781, "climate": 1, "party": 0 }
+    },
+    {
+        "companyName": "Looop Inc.",
+        "sentimentScore": "Neutral",
+        "sector": "Corporate-Energy",
+        "topCompanyWords": { "2015": 0.25000000000078276, "energy": 0.2188183807443276, "environmental": 1, "renewable": 0.3004291845493562, "climate": 0.06756756756755193, "party": 0.220820189274159 }
+    },
+    {
+        "companyName": "Manulife",
+        "sentimentScore": "Neutral",
+        "sector": "Financial Institution",
+        "topCompanyWords": {
+            "energy": 0.6834532374100719,
+            "environmental": 0.4518072289157143,
+            "management": 0.9703504043128703,
+            "party": 0.19774011299428484,
+            "buildings": 0.38123167155400495,
+            "sustainability": 0.5660377358496228
+        }
+    },
+    {
+        "companyName": "Marui Group",
+        "sentimentScore": "Negative",
+        "sector": "Corporate-consumer services",
+        "topCompanyWords": { "sustainability": 1, "finance": 6.112158135467677e-14, "management": -8.303800250287415e-13, "energy": 1, "investment": -1.33844243730797e-12, "renewable": 1 }
+    },
+    {
+        "companyName": "Mie Prefecture",
+        "sentimentScore": "Neutral",
+        "sector": "Municipal",
+        "topCompanyWords": { "environmental": 1, "climate": 1, "energy": 0.3353658536583347, "city": 0.1169590643275353, "management": 0.9813084112171702, "change": 1 }
+    },
+    {
+        "companyName": "Mitsubishi Electric Credit Corporation ",
+        "sentimentScore": "Neutral",
+        "sector": "Corporate-Technology",
+        "topCompanyWords": {
+            "environmental": 0.04395604395602958,
+            "business": 0.02049180327876685,
+            "investment": 2.5494325086332774e-13,
+            "activities": 0.03558718861209964,
+            "benefits": 1.4611372085076736e-13,
+            "including": 2.0537095208468415e-13
+        }
+    },
+    {
+        "companyName": "Mitsubishi Heavy Industries (2020)",
+        "sentimentScore": "Neutral",
+        "sector": "Corporate-Industry",
+        "topCompanyWords": { "2016": 0, "environmental": 0.9052631578942072, "waste": 0.025041736227045076, "energy": 1, "business": 1, "management": 0.6896551724123985 }
+    },
+    {
+        "companyName": "Mitsubishi UFJ Lease and Finance",
+        "sentimentScore": "Negative",
+        "sector": "Financial Institution",
+        "topCompanyWords": {
+            "energy": 0.7793764988009592,
+            "environmental": 0.7228915662651428,
+            "management": 0.7816711590297992,
+            "party": 0.5367231638416303,
+            "buildings": 0.02932551319646192,
+            "sustainability": 0.2425876010784098
+        }
+    },
+    {
+        "companyName": "Mitsubishi UFJ Trust and Banking Corporation",
+        "sentimentScore": "Positive",
+        "sector": "Financial Institution",
+        "topCompanyWords": {
+            "energy": 0.41966426858513184,
+            "environmental": 1,
+            "management": 0.7547169811322177,
+            "party": 0.14124293785306063,
+            "buildings": 0.4105571847504669,
+            "sustainability": 0.10781671159040436
+        }
+    },
+    {
+        "companyName": "Mitsui Fudosan Co., Ltd. (2020)",
+        "sentimentScore": "Neutral",
+        "sector": "Corporate-Real Estate",
+        "topCompanyWords": { "energy": 0.9042553191489361, "environmental": 1, "buildings": 1, "finance": 0.47619047619081445, "building": 1, "sustainability": 0.3684210526315789 }
+    },
+    {
+        "companyName": "Mizuho Financial Group, Inc. (2020)",
+        "sentimentScore": "Neutral",
+        "sector": "Financial Institution",
+        "topCompanyWords": { "energy": 0.9832134292565946, "environmental": 1, "management": 0.673854447439473, "party": 1, "buildings": 1, "sustainability": 0.43126684636161744 }
+    },
+    {
+        "companyName": "New Energy Investments",
+        "sentimentScore": "Neutral",
+        "sector": "Corporate-Energy",
+        "topCompanyWords": { "2015": 0.25000000000078276, "energy": 0.5361050328228247, "environmental": 0.7373271889392939, "renewable": 0.34334763948497854, "climate": 0.7432432432430711, "party": 0 }
+    },
+    {
+        "companyName": "New World Development",
+        "sentimentScore": "Positive",
+        "sector": "Corporate-Real Estate",
+        "topCompanyWords": {
+            "energy": 0.3856382978723404,
+            "environmental": 0.7630522088353414,
+            "buildings": 0.3906250000000913,
+            "finance": 0.09920634920641966,
+            "building": 1,
+            "sustainability": 0.3157894736842105
+        }
+    },
+    {
+        "companyName": "New York MTA",
+        "sentimentScore": "Negative",
+        "sector": "Corporate-Transportation",
+        "topCompanyWords": { "environmental": 0, "energy": 0, "business": 0, "party": 0, "management": 1.4367752819423976e-12, "central": 0 }
+    },
+    {
+        "companyName": "Nobina AB",
+        "sentimentScore": "Positive",
+        "sector": "Corporate-Transportation",
+        "topCompanyWords": { "environmental": 0.5656108597285068, "energy": 0.1635514018692194, "business": 0.11111111111090594, "party": 0, "management": 0.18248175182612172, "central": 0 }
+    },
+    {
+        "companyName": "Nomura Research Institute (NRI)",
+        "sentimentScore": "Neutral",
+        "sector": "Corporate-Consumer services",
+        "topCompanyWords": { "2016": 1, "environmental": 0.36057692307687084, "energy": 0.22788203753336686, "visa": 0, "management": 1, "sustainability": 0.18264840182648404 }
+    },
+    {
+        "companyName": "Nordic Investment Bank (NIB)",
+        "sentimentScore": "Positive",
+        "sector": "MDB",
+        "topCompanyWords": { "environmental": 1, "energy": 1, "climate": 1, "sustainable": 1.3683362107771422e-12, "management": 0.4117647058824354, "party": 0.0649350649372188 }
+    },
+    {
+        "companyName": "NORD/LB Luxembourg S.A.",
+        "sentimentScore": "Neutral",
+        "sector": "Financial Institution",
+        "topCompanyWords": {
+            "energy": 0.7553956834532374,
+            "environmental": 0.5120481927711429,
+            "management": 0.3773584905660757,
+            "party": 0.7344632768359153,
+            "buildings": 0.02932551319646192,
+            "sustainability": 0.8086253369280327
+        }
+    },
+    {
+        "companyName": "Northland Power",
+        "sentimentScore": "Neutral",
+        "sector": "Corporate-Energy",
+        "topCompanyWords": { "2015": 0.25000000000078276, "energy": 0.4595185995624978, "environmental": 0.9216589861741173, "renewable": 0.6008583690987124, "climate": 0.6081081081079673, "party": 1 }
+    },
+    {
+        "companyName": "North Texas Municipal Water District",
+        "sentimentScore": "Positive",
+        "sector": "Municipal",
+        "topCompanyWords": { "environmental": 0.1658767772504066, "climate": 4.4981596233355725e-13, "energy": 0, "city": 0, "management": 0.6074766355157706, "change": 0 }
+    },
+    {
+        "companyName": "Novelis Inc",
+        "sentimentScore": "Negative",
+        "sector": "Corporate-Industry",
+        "topCompanyWords": { "2016": 0, "environmental": 0.4421052631572905, "waste": 0.0333889816360601, "energy": 0.3142857142852393, "business": 0.25477707006369427, "management": 0.37931034482657033 }
+    },
+    {
+        "companyName": "NP3 Fastigheter",
+        "sentimentScore": "Neutral",
+        "sector": "Corporate-Real Estate",
+        "topCompanyWords": {
+            "energy": 1,
+            "environmental": 0.642570281124498,
+            "buildings": 0.9895833333334761,
+            "finance": 0.21825396825412327,
+            "building": 0.47169811320720795,
+            "sustainability": 0.18421052631578946
+        }
+    },
+    {
+        "companyName": "NRW.BANK (2018)",
+        "sentimentScore": "Neutral",
+        "sector": "Financial Institution",
+        "topCompanyWords": {
+            "energy": 0.52757793764988,
+            "environmental": 1,
+            "management": 0.3773584905660757,
+            "party": 0.19774011299428484,
+            "buildings": 0.49853372433985266,
+            "sustainability": 0.9433962264160382
+        }
+    },
+    {
+        "companyName": "Ontario Teachers’ Pension Plan Board",
+        "sentimentScore": "Positive",
+        "sector": "Financial Institution",
+        "topCompanyWords": {
+            "energy": 0.6115107913669064,
+            "environmental": 0.40662650602414285,
+            "management": 0.485175202156402,
+            "party": 0.056497175141224244,
+            "buildings": 0.2932551319646192,
+            "sustainability": 0.13477088948800542
+        }
+    },
+    {
+        "companyName": "OP Financial Group ",
+        "sentimentScore": "Neutral",
+        "sector": "Financial Institution",
+        "topCompanyWords": {
+            "energy": 0.6115107913669064,
+            "environmental": 0.33132530120485715,
+            "management": 0.8355795148249623,
+            "party": 0.7909604519771394,
+            "buildings": 0.7917888563044718,
+            "sustainability": 0.37735849056641524
+        }
+    },
+    {
+        "companyName": "ORIX Corporation",
+        "sentimentScore": "Neutral",
+        "sector": "Financial Institution",
+        "topCompanyWords": { "energy": 0.9952038369304556, "environmental": 0.8584337349398571, "management": 0.7816711590297992, "party": 0.9887005649714243, "buildings": 1, "sustainability": 1 }
+    },
+    {
+        "companyName": "Orix JREIT Inc.",
+        "sentimentScore": "Neutral",
+        "sector": "Financial Institution",
+        "topCompanyWords": {
+            "energy": 0.3117505995203837,
+            "environmental": 0.5120481927711429,
+            "management": 1,
+            "party": 0.14124293785306063,
+            "buildings": 0.5865102639292384,
+            "sustainability": 0.32345013477121304
+        }
+    },
+    {
+        "companyName": "Orkla",
+        "sentimentScore": "Neutral",
+        "sector": "Corporate-Consumer goods",
+        "topCompanyWords": {
+            "energy": 0.49557522123890696,
+            "environmental": 0.825396825396038,
+            "paper": -5.967794756839837e-13,
+            "management": 5.435518309265507e-15,
+            "climate": 1,
+            "party": -9.207454767704386e-13
+        }
+    },
+    {
+        "companyName": "Pakistan Water & Power Development Authority ",
+        "sentimentScore": "Negative",
+        "sector": "Utility",
+        "topCompanyWords": { "environmental": 0.7912087912085378, "energy": 0.72289156626534, "waste": 0, "management": 0.3966005665719228, "business": 0.1369863013697978, "verifiers": 0 }
+    },
+    {
+        "companyName": "Prologis (2020)",
+        "sentimentScore": "Neutral",
+        "sector": "Corporate-Real Estate",
+        "topCompanyWords": {
+            "energy": 0.8643617021276595,
+            "environmental": 0.8032128514056225,
+            "buildings": 0.8854166666668006,
+            "finance": 0.19841269841283932,
+            "building": 1,
+            "sustainability": 0.7105263157894737
+        }
+    },
+    {
+        "companyName": "Province of Québec",
+        "sentimentScore": "Positive",
+        "sector": "Municipal",
+        "topCompanyWords": { "environmental": 0.9241706161139981, "climate": 0.9493670886077566, "energy": 0.4573170731704564, "city": 0, "management": 0.37383177570239584, "change": 0.6666666666666666 }
+    },
+    {
+        "companyName": "Raiffeisen Bank Czech Republic",
+        "sentimentScore": "Neutral",
+        "sector": "Financial Institution",
+        "topCompanyWords": {
+            "energy": 0.6235011990407674,
+            "environmental": 0.421686746988,
+            "management": 0.539083557951565,
+            "party": 0.2542372881355091,
+            "buildings": 0.8211143695009337,
+            "sustainability": 1
+        }
+    },
+    {
+        "companyName": "Raiffeisen Bank Romania",
+        "sentimentScore": "Neutral",
+        "sector": "Financial Institution",
+        "topCompanyWords": { "energy": 1, "environmental": 0.7379518072289999, "management": 0.8355795148249623, "party": 1, "buildings": 0.733137829911548, "sustainability": 0.7816711590304316 }
+    },
+    {
+        "companyName": "Raiffeisen Bank Supra-national",
+        "sentimentScore": "Neutral",
+        "sector": "Financial Institution",
+        "topCompanyWords": {
+            "energy": 0.8752997601918464,
+            "environmental": 0.5421686746988571,
+            "management": 0.7816711590297992,
+            "party": 0.7627118644065273,
+            "buildings": 0.7917888563044718,
+            "sustainability": 0.5929919137472239
+        }
+    },
+    {
+        "companyName": "Regional Transportation District (Colorado)",
+        "sentimentScore": "Positive",
+        "sector": "Utility",
+        "topCompanyWords": {
+            "environmental": 0.08791208791177958,
+            "energy": -1.1519288047373617e-13,
+            "waste": 0.02717391304348361,
+            "management": 0.08498583569366422,
+            "business": -6.548636355723311e-13,
+            "verifiers": 1
+        }
+    },
+    {
+        "companyName": "Renewable Energy Group, Inc",
+        "sentimentScore": "Negative",
+        "sector": "Corporate-Energy",
+        "topCompanyWords": {
+            "2015": 0.25000000000078276,
+            "energy": 0.22975929978151718,
+            "environmental": 0.5990783410131763,
+            "renewable": 0.8798283261802575,
+            "climate": 0.11261261261258654,
+            "party": 0.9463722397463957
+        }
+    },
+    {
+        "companyName": "Renewable Japan Co. RJ Renewable Energy Project Bond IX Trust Certificate/ABL (2021)",
+        "sentimentScore": "Neutral",
+        "sector": "Corporate-Energy",
+        "topCompanyWords": { "2015": 0, "energy": 0.6564551422319097, "environmental": 1, "renewable": 1, "climate": 0.04504504504503462, "party": 0.25236593059903883 }
+    },
+    {
+        "companyName": "Renewi plc ",
+        "sentimentScore": "Negative",
+        "sector": "Corporate-Industry",
+        "topCompanyWords": { "2016": 1, "environmental": 0.16842105263093074, "waste": 1, "energy": 0.6142857142854837, "business": 0.1910828025477707, "management": 0.9999999999982268 }
+    },
+    {
+        "companyName": "Republic and Canton of Geneva",
+        "sentimentScore": "Positive",
+        "sector": "Municipal",
+        "topCompanyWords": { "environmental": 0.7345971563981002, "climate": 0.23206751054890257, "energy": 0.5792682926825782, "city": 0, "management": 1, "change": 0.26666666666666666 }
+    },
+    {
+        "companyName": "Republic of France (2021)",
+        "sentimentScore": "Neutral",
+        "sector": "Sovereign",
+        "topCompanyWords": {
+            "climate": 5.776142888289602e-13,
+            "energy": 6.250485873806878e-13,
+            "environmental": -4.903447881643951e-13,
+            "government": 0.01937984496154154,
+            "ministry": 0.11312217194589119,
+            "expenditures": 0.36231884057971014
+        }
+    },
+    {
+        "companyName": "Republic of Indonesia",
+        "sentimentScore": "Neutral",
+        "sector": "Sovereign",
+        "topCompanyWords": {
+            "climate": 0.9062500000003508,
+            "energy": 0.2898550724642243,
+            "environmental": 0.5056179775276323,
+            "government": 2.8656411918797663e-13,
+            "ministry": 1,
+            "expenditures": 0.024154589371980676
+        }
+    },
+    {
+        "companyName": "Reykjavik Energy",
+        "sentimentScore": "Positive",
+        "sector": "Corporate-Energy",
+        "topCompanyWords": { "2015": 0.5000000000015655, "energy": 0.29540481400465446, "environmental": 0.9677419354828233, "renewable": 0.17167381974248927, "climate": 0.58558558558545, "party": 0 }
+    },
+    {
+        "companyName": "Ricoh Leasing Company (2018)",
+        "sentimentScore": "Neutral",
+        "sector": "Corporate-Consumer services",
+        "topCompanyWords": { "2016": 0.32258064516302076, "environmental": -3.856560786595088e-13, "energy": 0.14745308310974284, "visa": 0, "management": 0.21276595744572463, "sustainability": 0 }
+    },
+    {
+        "companyName": "Royal Schiphol Group",
+        "sentimentScore": "Neutral",
+        "sector": "Corporate-Infrastructure",
+        "topCompanyWords": {
+            "energy": 0.6430155210632922,
+            "environmental": 0.9885931558929658,
+            "finance": 0.18867924528362054,
+            "management": 0.8895705521483706,
+            "water": 0.08356545961002786,
+            "climate": 0.6413994169107666
+        }
+    },
+    {
+        "companyName": "Rumo S.A.",
+        "sentimentScore": "Negative",
+        "sector": "Corporate-Transportation",
+        "topCompanyWords": {
+            "environmental": 0.7239819004524887,
+            "energy": 0.14018691588790236,
+            "business": 0.3888888888881708,
+            "party": 0.22222222222201007,
+            "management": 0.36496350365080665,
+            "central": 0.026315789473663545
+        }
+    },
+    {
+        "companyName": "RWE",
+        "sentimentScore": "Negative",
+        "sector": "Corporate-Energy",
+        "topCompanyWords": { "2015": 1, "energy": 0.5579868708972038, "environmental": 0.5299539170501175, "renewable": 0.6652360515021459, "climate": 0.09009009009006924, "party": 0.9148264984215159 }
+    },
+    {
+        "companyName": "San Diego Unified School District (San Diego County, California)",
+        "sentimentScore": "Positive",
+        "sector": "Utility",
+        "topCompanyWords": {
+            "environmental": 0.13186813186782698,
+            "energy": 0.9397590361449766,
+            "waste": 0.19021739130438525,
+            "management": 0.28328611897982875,
+            "business": -6.548636355723311e-13,
+            "verifiers": 1
+        }
+    },
+    {
+        "companyName": "SATO",
+        "sentimentScore": "Positive",
+        "sector": "Corporate-Real Estate",
+        "topCompanyWords": {
+            "energy": 0.7579787234042553,
+            "environmental": 0.46184738955823296,
+            "buildings": 0.8854166666668006,
+            "finance": 0.8333333333339252,
+            "building": 0.18867924528288318,
+            "sustainability": 0.10526315789473684
+        }
+    },
+    {
+        "companyName": "Scatec ASA",
+        "sentimentScore": "Negative",
+        "sector": "Corporate-Infrastructure",
+        "topCompanyWords": {
+            "energy": 0.2660753880256255,
+            "environmental": 0.15209125475454843,
+            "finance": 0.3259005145801824,
+            "management": 0.06134969325261044,
+            "water": 0.05571030640668524,
+            "climate": 0.14577259475356077
+        }
+    },
+    {
+        "companyName": "Schaeffler Group",
+        "sentimentScore": "Neutral",
+        "sector": "Corporate-Industry",
+        "topCompanyWords": {
+            "2016": 0.8860759493662306,
+            "environmental": 0.18947368420988145,
+            "waste": 0.025041736227045076,
+            "energy": 1,
+            "business": 0.12738853503184713,
+            "management": 0.8275862068949887
+        }
+    },
+    {
+        "companyName": "Scotiabank",
+        "sentimentScore": "Positive",
+        "sector": "Financial Institution",
+        "topCompanyWords": {
+            "energy": 0.6954436450839329,
+            "environmental": 0.9638554216868571,
+            "management": 0.9164420485177073,
+            "party": 1,
+            "buildings": 0.6451612903221623,
+            "sustainability": 0.5121293800544207
+        }
+    },
+    {
+        "companyName": "Seibu Holdings Inc.",
+        "sentimentScore": "Neutral",
+        "sector": "Corporate-Consumer services",
+        "topCompanyWords": { "2016": 0, "environmental": 0.3124999999999033, "energy": 0.18766756032155485, "visa": 0, "management": 0.9574468085110096, "sustainability": 0.25114155251141557 }
+    },
+    {
+        "companyName": "Seiko Epson Corporation (2019)",
+        "sentimentScore": "Neutral",
+        "sector": "Corporate-Technology",
+        "topCompanyWords": {
+            "environmental": 0.47252747252774696,
+            "business": 0.1946721311476412,
+            "investment": 0.06896551724156245,
+            "activities": 0.3380782918149466,
+            "benefits": 0.15810276679866406,
+            "including": 0.02777777777799979
+        }
+    },
+    {
+        "companyName": "Seiko Epson Corporation (2020)",
+        "sentimentScore": "Neutral",
+        "sector": "Corporate-Technology",
+        "topCompanyWords": { "environmental": 1, "business": 1, "investment": 1, "activities": 1, "benefits": 1, "including": 1 }
+    },
+    {
+        "companyName": "Sekisui House Reit",
+        "sentimentScore": "Neutral",
+        "sector": "Corporate-Real Estate",
+        "topCompanyWords": {
+            "energy": 0.27925531914893614,
+            "environmental": 0.7028112449799198,
+            "buildings": 0.8854166666668006,
+            "finance": 0.15873015873027146,
+            "building": 0.5660377358486496,
+            "sustainability": 1
+        }
+    },
+    {
+        "companyName": "Senko Group Holdings Co., Ltd.",
+        "sentimentScore": "Neutral",
+        "sector": "Corporate-Consumer services",
+        "topCompanyWords": { "2016": 0.16129032258151038, "environmental": 1, "energy": 0.4155495978551562, "visa": 0, "management": 0.3191489361693369, "sustainability": 0.06849315068493152 }
+    },
+    {
+        "companyName": "Sindicatum Renewable Energy Company Pte",
+        "sentimentScore": "Negative",
+        "sector": "Corporate-Energy",
+        "topCompanyWords": {
+            "2015": 0.7500000000023483,
+            "energy": 0.3172866520790336,
+            "environmental": 0.5529953917044704,
+            "renewable": 0.3648068669527897,
+            "climate": 0.13513513513510386,
+            "party": 0.031545741324879854
+        }
+    },
+    {
+        "companyName": "Sociedade Bioelétrica do Mondego",
+        "sentimentScore": "Negative",
+        "sector": "Corporate-Energy",
+        "topCompanyWords": {
+            "2015": 0.5000000000015655,
+            "energy": 0.5689277899343933,
+            "environmental": 0.7603686635936469,
+            "renewable": 0.6437768240343348,
+            "climate": 0.15765765765762116,
+            "party": 0.8517350157717563
+        }
+    },
+    {
+        "companyName": "Sogn Fjordane Energi (SFE)",
+        "sentimentScore": "Neutral",
+        "sector": "Corporate-Energy",
+        "topCompanyWords": { "2015": 1, "energy": 0.28446389496746494, "environmental": 0.8294930875567057, "renewable": 0.3004291845493562, "climate": 0.6081081081079673, "party": 0 }
+    },
+    {
+        "companyName": "South Bayside Waste Management Authority",
+        "sentimentScore": "Neutral",
+        "sector": "Agency",
+        "topCompanyWords": {
+            "energy": 0.15384615384757958,
+            "environmental": 0.7608695652179629,
+            "climate": 0.056603773583968654,
+            "investments": 0.03225806451688631,
+            "management": 1,
+            "sustainable": 0.22857142857134571
+        }
+    },
+    {
+        "companyName": "Southern Power",
+        "sentimentScore": "Neutral",
+        "sector": "Corporate-Energy",
+        "topCompanyWords": { "2015": 1, "energy": 0.05470459518648435, "environmental": 0, "renewable": 0.1072961373390558, "climate": 0, "party": 0 }
+    },
+    {
+        "companyName": "Sparbanken Skåne",
+        "sentimentScore": "Neutral",
+        "sector": "Financial Institution",
+        "topCompanyWords": { "energy": 0.803357314148681, "environmental": 0.34638554216871426, "management": 0.2695417789757494, "party": 0, "buildings": 0.6744868035186242, "sustainability": 1 }
+    },
+    {
+        "companyName": "Sparbanken Västra Mälardalen",
+        "sentimentScore": "Negative",
+        "sector": "Financial Institution",
+        "topCompanyWords": {
+            "energy": 0.22781774580335729,
+            "environmental": 0.1807228915662857,
+            "management": 0.08086253369267836,
+            "party": 0.16949152542367274,
+            "buildings": 0.1759530791787715,
+            "sustainability": 0.18867924528320762
+        }
+    },
+    {
+        "companyName": "Sparebanken Sogn og Fjordane",
+        "sentimentScore": "Neutral",
+        "sector": "Financial Institution",
+        "topCompanyWords": {
+            "energy": 0.1079136690647482,
+            "environmental": 0.4518072289157143,
+            "management": 0.2695417789757494,
+            "party": 0,
+            "buildings": 0.02932551319646192,
+            "sustainability": 0.10781671159040436
+        }
+    },
+    {
+        "companyName": "Stavmat Kft",
+        "sentimentScore": "Negative",
+        "sector": "Corporate-Real Estate",
+        "topCompanyWords": {
+            "energy": 0.14627659574468085,
+            "environmental": 0.321285140562249,
+            "buildings": 5.766188108590854e-14,
+            "finance": 0.019841269841283933,
+            "building": 0.0707547169810812,
+            "sustainability": 0.10526315789473684
+        }
+    },
+    {
+        "companyName": "Stena Metall AB",
+        "sentimentScore": "Neutral",
+        "sector": "Corporate-Industry",
+        "topCompanyWords": {
+            "2016": 0.8860759493662306,
+            "environmental": 0.21052631578883224,
+            "waste": 0.1001669449081803,
+            "energy": 0.07142857142789864,
+            "business": 0.35031847133757965,
+            "management": -5.530399123100928e-13
+        }
+    },
+    {
+        "companyName": "Sumitomo Mitsui Financial Group, Inc (2018)",
+        "sentimentScore": "Neutral",
+        "sector": "Financial Institution",
+        "topCompanyWords": { "energy": 1, "environmental": 1, "management": 0.6199460916443098, "party": 0.7909604519771394, "buildings": 0.6451612903221623, "sustainability": 0.29649595687361197 }
+    },
+    {
+        "companyName": "Sumitomo Mitsui Trust Bank (2018)",
+        "sentimentScore": "Neutral",
+        "sector": "Financial Institution",
+        "topCompanyWords": {
+            "energy": 0.19184652278177458,
+            "environmental": 0.5873493975904285,
+            "management": 0.9703504043128703,
+            "party": 0.14124293785306063,
+            "buildings": 0.02932551319646192,
+            "sustainability": 0.21563342318080872
+        }
+    },
+    {
+        "companyName": "Sumitomo Mitsui Trust Bank (2021)",
+        "sentimentScore": "Neutral",
+        "sector": "Financial Institution",
+        "topCompanyWords": { "energy": 1, "environmental": 0.8283132530121428, "management": 0.9164420485177073, "party": 1, "buildings": 0.9970674486797053, "sustainability": 0.7816711590304316 }
+    },
+    {
+        "companyName": "Summit Industrial Income REIT",
+        "sentimentScore": "Positive",
+        "sector": "Corporate-Real Estate",
+        "topCompanyWords": {
+            "energy": 0.2925531914893617,
+            "environmental": 0.321285140562249,
+            "buildings": 0.23437500000007783,
+            "finance": 0.17857142857155542,
+            "building": 0.1650943396225228,
+            "sustainability": 0.10526315789473684
+        }
+    },
+    {
+        "companyName": "Sunndal Sparebanken",
+        "sentimentScore": "Positive",
+        "sector": "Financial Institution",
+        "topCompanyWords": {
+            "energy": 0.2158273381294964,
+            "environmental": 0.5873493975904285,
+            "management": 0.18867924528300467,
+            "party": 0.028248587570612122,
+            "buildings": 0,
+            "sustainability": 0.05390835579520218
+        }
+    },
+    {
+        "companyName": "Sunrun Inc. ",
+        "sentimentScore": "Positive",
+        "sector": "Corporate-Energy",
+        "topCompanyWords": {
+            "2015": 0.25000000000078276,
+            "energy": 0.3501094091906023,
+            "environmental": 0.5529953917044704,
+            "renewable": 0.17167381974248927,
+            "climate": 0.2027027027026558,
+            "party": 0.15772870662439928
+        }
+    },
+    {
+        "companyName": "Suzano Papel e Celulose S.A.",
+        "sentimentScore": "Neutral",
+        "sector": "Corporate-Industry",
+        "topCompanyWords": { "2016": 1, "environmental": 0.5263157894730934, "waste": 0.05008347245409015, "energy": 0.21428571428515786, "business": 0.1910828025477707, "management": 0.7931034482743414 }
+    },
+    {
+        "companyName": "Svenska Cellulosa Aktiebolaget SCA",
+        "sentimentScore": "Neutral",
+        "sector": "Corporate-Consumer goods",
+        "topCompanyWords": {
+            "energy": 0.49557522123890696,
+            "environmental": 0.539682539682381,
+            "paper": 0.20370370370323204,
+            "management": 0.4411764705878299,
+            "climate": 0.8378378378373199,
+            "party": -9.207454767704386e-13
+        }
+    },
+    {
+        "companyName": "Swedavia",
+        "sentimentScore": "Neutral",
+        "sector": "Corporate-Transportation",
+        "topCompanyWords": {
+            "environmental": 0.927601809954751,
+            "energy": 0.9579439252339993,
+            "business": 0.11111111111090594,
+            "party": 0.02777777777775126,
+            "management": 0.3284671532858697,
+            "central": 0
+        }
+    },
+    {
+        "companyName": "Swedbank AB",
+        "sentimentScore": "Neutral",
+        "sector": "Financial Institution",
+        "topCompanyWords": {
+            "energy": 0.3117505995203837,
+            "environmental": 0.19578313253014284,
+            "management": 0.5929919137467282,
+            "party": 0,
+            "buildings": 0.1759530791787715,
+            "sustainability": 0.18867924528320762
+        }
+    },
+    {
+        "companyName": "Swisscom",
+        "sentimentScore": "Neutral",
+        "sector": "Corporate-Telecom",
+        "topCompanyWords": { "energy": 1, "efficiency": null, "data": 1, "environmental": 1, "network": null, "report": 1 }
+    },
+    {
+        "companyName": "Swiss Life",
+        "sentimentScore": "Neutral",
+        "sector": "Financial Institution",
+        "topCompanyWords": {
+            "energy": 0.41966426858513184,
+            "environmental": 0.48192771084342856,
+            "management": 0.6469002695418914,
+            "party": 0.5932203389828546,
+            "buildings": 0.8797653958938576,
+            "sustainability": 0.29649595687361197
+        }
+    },
+    {
+        "companyName": "Swiss Prime Site",
+        "sentimentScore": "Neutral",
+        "sector": "Corporate-Real Estate",
+        "topCompanyWords": {
+            "energy": 0.13297872340425532,
+            "environmental": 0.28112449799196787,
+            "buildings": 0.20833333333340895,
+            "finance": 0.09920634920641966,
+            "building": 0.11792452830180199,
+            "sustainability": 0.8421052631578947
+        }
+    },
+    {
+        "companyName": "SYCTOM",
+        "sentimentScore": "Neutral",
+        "sector": "Utility",
+        "topCompanyWords": { "environmental": 0.857142857142609, "energy": 0.9879518072293404, "waste": 1, "management": 1, "business": 0.2739726027402505, "verifiers": 0 }
+    },
+    {
+        "companyName": "Synthesis Analytics",
+        "sentimentScore": "Neutral",
+        "sector": "Corporate-Energy",
+        "topCompanyWords": { "2015": 0.5000000000015655, "energy": 0.7877461706781845, "environmental": 0.691244239630588, "renewable": 0.27896995708154504, "climate": 0.11261261261258654, "party": 1 }
+    },
+    {
+        "companyName": "Tatra Banka",
+        "sentimentScore": "Neutral",
+        "sector": "Financial Institution",
+        "topCompanyWords": { "energy": 1, "environmental": 0.7078313253012857, "management": 1, "party": 1, "buildings": 0.9970674486797053, "sustainability": 0.5121293800544207 }
+    },
+    {
+        "companyName": "Tennessee Valley Authority ",
+        "sentimentScore": "Neutral",
+        "sector": "Agency",
+        "topCompanyWords": { "energy": 1, "environmental": 0.9565217391308992, "climate": 0.7547169811318544, "investments": 0.2580645161299609, "management": 0.5999999999996753, "sustainable": 1 }
+    },
+    {
+        "companyName": "Tianjin Rail Transit Group",
+        "sentimentScore": "Negative",
+        "sector": "Corporate-Transportation",
+        "topCompanyWords": {
+            "environmental": 0.42986425339366513,
+            "energy": 0.6308411214955606,
+            "business": 0,
+            "party": 0.47222222222177146,
+            "management": 0.7299270073001766,
+            "central": 0.05263157894732709
+        }
+    },
+    {
+        "companyName": "Tokyo Metropolitan Government",
+        "sentimentScore": "Neutral",
+        "sector": "Municipal",
+        "topCompanyWords": { "environmental": 1, "climate": 0.27426160337589395, "energy": 0.853658536584852, "city": 0, "management": 0.6074766355157706, "change": 0.26666666666666666 }
+    },
+    {
+        "companyName": "Tokyu Fudosan Holdings",
+        "sentimentScore": "Neutral",
+        "sector": "Corporate-Real Estate",
+        "topCompanyWords": { "energy": 1, "environmental": 1, "buildings": 1, "finance": 0.3769841269843947, "building": 1, "sustainability": 0.47368421052631576 }
+    },
+    {
+        "companyName": "Tokyu Land Capital Management Inc. (2021)",
+        "sentimentScore": "Neutral",
+        "sector": "Corporate-Real Estate",
+        "topCompanyWords": {
+            "energy": 0.3457446808510638,
+            "environmental": 1,
+            "buildings": 5.766188108590854e-14,
+            "finance": 0.15873015873027146,
+            "building": 0.047169811320720796,
+            "sustainability": 0.3684210526315789
+        }
+    },
+    {
+        "companyName": "Town of Wareham",
+        "sentimentScore": "Neutral",
+        "sector": "Municipal",
+        "topCompanyWords": {
+            "environmental": 0.14218009478591934,
+            "climate": 0.10548523206792833,
+            "energy": 0.3963414634143956,
+            "city": 0,
+            "management": 0.04672897196367127,
+            "change": 0.06666666666666667
+        }
+    },
+    {
+        "companyName": "Toyota Finance Corporation (2020)",
+        "sentimentScore": "Neutral",
+        "sector": "Financial Institution",
+        "topCompanyWords": {
+            "energy": 0.15587529976019185,
+            "environmental": 1,
+            "management": 0.8086253369273808,
+            "party": 0.16949152542367274,
+            "buildings": 0.02932551319646192,
+            "sustainability": 0.2425876010784098
+        }
+    },
+    {
+        "companyName": "Toyota Motor Credit Corporation (2017)",
+        "sentimentScore": "Neutral",
+        "sector": "Corporate-Transportation",
+        "topCompanyWords": { "environmental": 1, "energy": 0.30373831775712173, "business": 1, "party": 0.22222222222201007, "management": 0.7664233576651136, "central": 0 }
+    },
+    {
+        "companyName": "Toyota Motor Credit Corporation (2021)",
+        "sentimentScore": "Negative",
+        "sector": "Corporate-Transportation",
+        "topCompanyWords": {
+            "environmental": 0.9728506787330317,
+            "energy": 0.37383177570107295,
+            "business": 0.3333333333327178,
+            "party": 0.9999999999990453,
+            "management": 0.36496350365080665,
+            "central": 0.026315789473663545
+        }
+    },
+    {
+        "companyName": "Tritax EuroBox plc",
+        "sentimentScore": "Neutral",
+        "sector": "Corporate-Real Estate",
+        "topCompanyWords": {
+            "energy": 0.851063829787234,
+            "environmental": 0.6827309236947792,
+            "buildings": 0.8854166666668006,
+            "finance": 1,
+            "building": 0.6367924528297307,
+            "sustainability": 0.6052631578947368
+        }
+    },
+    {
+        "companyName": "UBI Banca",
+        "sentimentScore": "Neutral",
+        "sector": "Financial Institution",
+        "topCompanyWords": {
+            "energy": 0.09592326139088729,
+            "environmental": 0.7530120481928572,
+            "management": 0.16172506738542308,
+            "party": 0.16949152542367274,
+            "buildings": 0,
+            "sustainability": 0.6199460916448251
+        }
+    },
+    {
+        "companyName": "UBS",
+        "sentimentScore": "Neutral",
+        "sector": "Financial Institution",
+        "topCompanyWords": {
+            "energy": 0.2517985611510791,
+            "environmental": 0.5271084337349999,
+            "management": 0.3773584905660757,
+            "party": 0.9322033898302001,
+            "buildings": 0.5865102639292384,
+            "sustainability": 0.4851752021568196
+        }
+    },
+    {
+        "companyName": "Vía Célere SL",
+        "sentimentScore": "Negative",
+        "sector": "Corporate-Real Estate",
+        "topCompanyWords": {
+            "energy": 0.5186170212765957,
+            "environmental": 0.7228915662650602,
+            "buildings": 0.7031250000001181,
+            "finance": 0.17857142857155542,
+            "building": 0.18867924528288318,
+            "sustainability": 0.42105263157894735
+        }
+    },
+    {
+        "companyName": "Vajda Papír Kft",
+        "sentimentScore": "Neutral",
+        "sector": "Corporate-Consumer goods",
+        "topCompanyWords": {
+            "energy": 0.23008849557541286,
+            "environmental": 0.8888888888879616,
+            "paper": 0.7222222222220689,
+            "management": 0.9999999999990742,
+            "climate": -2.886483919842719e-13,
+            "party": 0.11428571428497093
+        }
+    },
+    {
+        "companyName": "Varbergs Sparbank",
+        "sentimentScore": "Neutral",
+        "sector": "Financial Institution",
+        "topCompanyWords": {
+            "energy": 0.6354916067146282,
+            "environmental": 0.4518072289157143,
+            "management": 0.18867924528300467,
+            "party": 0.028248587570612122,
+            "buildings": 1,
+            "sustainability": 0.45822102425921857
+        }
+    },
+    {
+        "companyName": "Vena Energy (2019)",
+        "sentimentScore": "Neutral",
+        "sector": "Corporate-Energy",
+        "topCompanyWords": { "2015": 0, "energy": 0.6564551422319097, "environmental": 0.8525345622110586, "renewable": 0.3218884120171674, "climate": 0.2477477477476904, "party": 0.18927444794927914 }
+    },
+    {
+        "companyName": "Vena Energy (2020)",
+        "sentimentScore": "Neutral",
+        "sector": "Corporate-Energy",
+        "topCompanyWords": { "2015": 0, "energy": 0.382932166302171, "environmental": 0, "renewable": 0.02145922746781116, "climate": 0.02252252252251731, "party": 0.12618296529951942 }
+    },
+    {
+        "companyName": "Vestas Wind Systems A/S",
+        "sentimentScore": "Neutral",
+        "sector": "Corporate-Energy",
+        "topCompanyWords": { "2015": 0.25000000000078276, "energy": 5.365818146656849e-13, "environmental": 0.18433179723482349, "renewable": 0, "climate": 0, "party": 0.031545741324879854 }
+    },
+    {
+        "companyName": "Vesteda",
+        "sentimentScore": "Neutral",
+        "sector": "Corporate-Real Estate",
+        "topCompanyWords": {
+            "energy": 0.6781914893617021,
+            "environmental": 0.3815261044176707,
+            "buildings": 0.5989583333334425,
+            "finance": 0.9722222222229127,
+            "building": 0.37735849056576637,
+            "sustainability": 0.3684210526315789
+        }
+    },
+    {
+        "companyName": "Vestel",
+        "sentimentScore": "Negative",
+        "sector": "Corporate-Technology",
+        "topCompanyWords": {
+            "environmental": 0.010989010988974392,
+            "business": 7.57515806869378e-14,
+            "investment": 2.5494325086332774e-13,
+            "activities": 0,
+            "benefits": 0.05928853754959034,
+            "including": 2.0537095208468415e-13
+        }
+    },
+    {
+        "companyName": "VGP NV",
+        "sentimentScore": "Positive",
+        "sector": "Corporate-Real Estate",
+        "topCompanyWords": { "energy": 0.9175531914893617, "environmental": 0.7028112449799198, "buildings": 1, "finance": 1, "building": 0.5188679245279288, "sustainability": 0.05263157894736842 }
+    },
+    {
+        "companyName": "VIA Outlets",
+        "sentimentScore": "Positive",
+        "sector": "Corporate-Real Estate",
+        "topCompanyWords": { "energy": 0.3457446808510638, "environmental": 0.5220883534136547, "buildings": 0.46875000000009803, "finance": 1, "building": 0.2594339622639644, "sustainability": 1 }
+    },
+    {
+        "companyName": "Visa Inc.",
+        "sentimentScore": "Neutral",
+        "sector": "Corporate-Consumer services",
+        "topCompanyWords": {
+            "2016": 0.16129032258151038,
+            "environmental": 0.3846153846153547,
+            "energy": 0.6434316353887576,
+            "visa": 1,
+            "management": -1.4995172753860004e-12,
+            "sustainability": 0.5479452054794521
+        }
+    },
+    {
+        "companyName": "Vivint Solar Inc",
+        "sentimentScore": "Neutral",
+        "sector": "Corporate-Energy",
+        "topCompanyWords": {
+            "2015": 0.5000000000015655,
+            "energy": 0.20787746170713808,
+            "environmental": 0.5299539170501175,
+            "renewable": 0.08583690987124463,
+            "climate": 0.09009009009006924,
+            "party": 0.15772870662439928
+        }
+    },
+    {
+        "companyName": "Volkswagen",
+        "sentimentScore": "Negative",
+        "sector": "Corporate-Transportation",
+        "topCompanyWords": {
+            "environmental": 0.4524886877828054,
+            "energy": 0.3271028037384388,
+            "business": 0.4999999999990768,
+            "party": 0.6666666666660302,
+            "management": 0.5474452554754916,
+            "central": 0
+        }
+    },
+    {
+        "companyName": "Volvofinans Bank AB (2019)",
+        "sentimentScore": "Positive",
+        "sector": "Financial Institution",
+        "topCompanyWords": { "energy": 0.03597122302158273, "environmental": 0.3614457831325714, "management": 0.16172506738542308, "party": 0, "buildings": 0, "sustainability": 0.21563342318080872 }
+    },
+    {
+        "companyName": "Vonovia",
+        "sentimentScore": "Neutral",
+        "sector": "Corporate-Real Estate",
+        "topCompanyWords": { "energy": 1, "environmental": 0.7228915662650602, "buildings": 0.5729166666667737, "finance": 0.31746031746054293, "building": 0.9669811320747764, "sustainability": 0.5 }
+    },
+    {
+        "companyName": "Wallenstam",
+        "sentimentScore": "Neutral",
+        "sector": "Corporate-Real Estate",
+        "topCompanyWords": {
+            "energy": 0.5319148936170213,
+            "environmental": 0.3815261044176707,
+            "buildings": 0.6250000000001115,
+            "finance": 0,
+            "building": 0.47169811320720795,
+            "sustainability": 0.23684210526315788
+        }
+    },
+    {
+        "companyName": "Washington Metropolitan Area Transit Authority (WMATA)",
+        "sentimentScore": "Positive",
+        "sector": "Utility",
+        "topCompanyWords": {
+            "environmental": 0.15384615384585065,
+            "energy": 0.36144578313261244,
+            "waste": 0.05434782608696722,
+            "management": 0.22662889518378174,
+            "business": 0.47945205479592956,
+            "verifiers": 1
+        }
+    },
+    {
+        "companyName": "Welltower Inc.",
+        "sentimentScore": "Neutral",
+        "sector": "Corporate-Healthcare",
+        "topCompanyWords": { "energy": 1, "environmental": 1, "water": 1, "certification": 1, "party": 1, "efficiency": 1 }
+    },
+    {
+        "companyName": "West County Facilities Financing Authority",
+        "sentimentScore": "Positive",
+        "sector": "Agency",
+        "topCompanyWords": {
+            "energy": 0.42307692307800426,
+            "environmental": 0.1086956521748413,
+            "climate": -9.950534276008348e-13,
+            "investments": 0.09677419354919335,
+            "management": 0.257142857141857,
+            "sustainable": 0.14285714285689113
+        }
+    },
+    {
+        "companyName": "White Peak",
+        "sentimentScore": "Neutral",
+        "sector": "Corporate-Real Estate",
+        "topCompanyWords": {
+            "energy": 0.5984042553191489,
+            "environmental": 0.783132530120482,
+            "buildings": 0.4947916666667669,
+            "finance": 0.8730158730164931,
+            "building": 1,
+            "sustainability": 0.10526315789473684
+        }
+    },
+    {
+        "companyName": "Workspace Group PLC",
+        "sentimentScore": "Positive",
+        "sector": "Corporate-Real Estate",
+        "topCompanyWords": {
+            "energy": 0.35904255319148937,
+            "environmental": 0.42168674698795183,
+            "buildings": 0.23437500000007783,
+            "finance": 0.5357142857146662,
+            "building": 0.23584905660360397,
+            "sustainability": 0.631578947368421
+        }
+    },
+    {
+        "companyName": "Xiaomi Corporation",
+        "sentimentScore": "Neutral",
+        "sector": "Corporate-Consumer goods",
+        "topCompanyWords": { "energy": 1, "environmental": 1, "paper": 0.07407407407352277, "management": 0.9999999999990742, "climate": 0.10810810810778987, "party": 1 }
+    },
+    {
+        "companyName": "Xior Student Housing N.V.",
+        "sentimentScore": "Neutral",
+        "sector": "Corporate-Real Estate",
+        "topCompanyWords": {
+            "energy": 0.8377659574468085,
+            "environmental": 0.5622489959839357,
+            "buildings": 0.46875000000009803,
+            "finance": 1,
+            "building": 0.09433962264144159,
+            "sustainability": 0.39473684210526316
+        }
+    },
+    {
+        "companyName": "Zhenro Properties Group Ltd.",
+        "sentimentScore": "Neutral",
+        "sector": "Corporate-Real Estate",
+        "topCompanyWords": {
+            "energy": 0.26595744680851063,
+            "environmental": 0.28112449799196787,
+            "buildings": 0.23437500000007783,
+            "finance": 0.25793650793669115,
+            "building": 0.1415094339621624,
+            "sustainability": 0.13157894736842105
+        }
+    },
+    {
+        "companyName": "Z Holdings Corporation",
+        "sentimentScore": "Neutral",
+        "sector": "Corporate-Consumer services",
+        "topCompanyWords": { "2016": 0, "environmental": 0.6730769230771598, "energy": 0.991957104557795, "visa": 0, "management": 0.7978723404255913, "sustainability": 0.4337899543378996 }
+    }
+]

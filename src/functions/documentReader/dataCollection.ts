@@ -37,13 +37,13 @@ const createJsonForMongo = () => {
 
 createJsonForMongo();
 
-const getDataForScoresAndGraphs = (topSectorWordsAlphabetical: any, sentimentAnalysis: any, jsonMongoCompanyData: any) => {
+export const getDataForScoresAndGraphs = (topSectorWordsAlphabetical: any, sentimentAnalysis: any, jsonMongoCompanyData: any) => {
   let counter = 0;
   const getResults = sentimentAnalysis.map((entry: any) => {
     const score: any = Object.values(sentimentAnalysis[counter])[1];
     const companyData = {
       companyName: Object.values(jsonMongoCompanyData[counter])[0],
-      sentimentScore: score > 0 ? (score > 0.04 ? 1 : 0.5) : 0,
+      sentimentScore: score > 0 ? (score > 0.04 ? 'Positive' : 'Neutral') : 'Negative',
       sector: Object.values(jsonMongoCompanyData[counter])[2],
       topCompanyWords: Object.values(topSectorWordsAlphabetical[0])[counter]
     };

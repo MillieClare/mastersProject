@@ -3,7 +3,7 @@ import { StringLiteral } from 'typescript';
 
 export interface IGraphData {
   companyName: string;
-  sentimentScore: number;
+  sentimentScore: string;
   sector: string;
   topCompanyWords: Record<string, object>;
 }
@@ -13,7 +13,7 @@ export interface IGraphModel extends IGraphData, Document {}
 const GraphDataSchema: Schema = new Schema(
   {
     companyName: { type: String, required: true },
-    sentimentScore: { type: Number, required: true },
+    sentimentScore: { type: String, required: true },
     sector: { type: String, required: true },
     topCompanyWords: { type: Schema.Types.Mixed, required: true }
   },

@@ -8,11 +8,15 @@ export const gatherAverageData = (data: any) => {
     return {
       sectorName: element[0],
       word: element[1],
-      averageValue: element[2]
+      normalisedScore: element[2],
+      minValue: element[3],
+      max90Value: element[4]
     };
   });
   return dataForMongo;
 };
+
+// console.log(gatherAverageData(pythonAverageData));
 
 const createAverageDataJsonForMongo = () => {
   const Json = gatherAverageData(pythonAverageData);
